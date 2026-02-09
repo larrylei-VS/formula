@@ -1,0 +1,113 @@
+### Container of Fluids CHÉNGJIĀNG
+![[REN-24 承浆.png|250]]
+- Meeting point of the Conception vessel with the Governing vessel and the Large Intestine and Stomach channels
+- Sun Si-miao Ghost point
+
+#### Location
+
+Above the chin, in the depression in the centre of the mentolabial groove.
+
+#### Location Notes
+
+The mentolabial groove runs horizontally, approximately midway between the chin and the lower lip.
+
+#### Needling
+
+i. Transverse-oblique insertion directed superiorly 0.2 to 0.3 cun; ii. Transverse insertion along the lower lip to join with [Dìcāng ST-4](https://app.amanualofacupuncture.com/point/ST-4).
+
+#### Actions
+
+- Extinguishes wind and benefits the face
+- Regulates the Conception vessel
+
+#### Indications
+
+- Hemiplegia, deviation of the mouth and eye, lockjaw, wind epilepsy, stiffness of the head and nape, tetany, mania-depression.
+- Pain and numbness of the face, swelling of the face, pain of the teeth and gums, sudden loss of voice, purple lips, excessive production of watery saliva, dry mouth, wasting and thirsting disorder with great desire to drink, nosebleed.
+- Dark urine, sweating, shan disorder in men, abdominal (zheng jia) masses in women.
+
+#### Commentary
+
+Chéngjiāng REN-24 is a meeting point of the Conception vessel with the hand and foot yangming channels (Large Intestine and Stomach). Yangming channel dominates the facial region, Chéngjiāng REN-24 is located just inferior to the mouth and the Conception vessel itself winds around the mouth, connects with the Governing vessel at [Yínjiāo DU-28](https://app.amanualofacupuncture.com/point/DU-28) and terminates below the eye at [Chéngqì ST-1](https://app.amanualofacupuncture.com/point/ST-1). The principal clinical application of Chéngjiāng REN-24, therefore, is in the treatment of facial disorders, especially pain and numbness of the face and deviation of the mouth and eye (i.e. facial paralysis). Facial paralysis may be due either to exterior wind, which attacks and obstructs the channels of the face, or to interior wind which stirs upwards and leads to malnourishment of the channels. These two patterns correspond more or less exactly to peripheral and central nervous system facial paralysis in modern medicine. In the treatment of this disorder, Chéngjiāng REN-24 is usually joined by through-needling to points such as [Dìcāng ST-4](https://app.amanualofacupuncture.com/point/ST-4) or [Jiáchē ST-6](https://app.amanualofacupuncture.com/point/ST-6). The ability of Chéngjiāng REN-24 to extinguish wind, especially in the region of the face and jaw, extends to the treatment of hemiplegia, lockjaw and epilepsy.
+
+As its name 'Contain Fluid' implies, Chéngjiāng REN-24 is able to affect the production of fluids in the mouth and is indicated for excessive production of watery saliva, dry mouth and wasting and thirsting disorder with great desire to drink.
+
+Chéngjiāng REN-24 is a meeting point of the Conception and Governing vessels and lies directly opposite the neck which is traversed by the Governing vessel. A number of classics, for example the Ode of the Essentials of Understanding, recommend it for stiffness and pain of the nape of the neck.
+
+As the terminal point of the Conception vessel, Chéngjiāng REN-24 is indicated for disorders of the lower portion of the channel such as dark urination, shan disorder in men and abdominal masses in women. Finally, Chéngjiāng REN-24 was included under its alternative name Guishi (Ghost Market) by Sun Si-miao among his 'thirteen ghost points' for the treatment of epilepsy and mania-depression.
+
+#### Summary of clinical application
+
+- Mainly used for facial disorders: pain and numbness of the face (including trigeminal neuralgia), deviation of the mouth and eye (i.e. facial paralysis).
+- For excessive production of watery saliva, dry mouth, wasting and thirsting disorder with great desire to drink.
+- For stiffness and pain of the nape of the neck.
+
+#### Combinations
+
+- Deviation of the mouth and eye: Chéngjiāng REN-24, [Hégǔ LI-4](https://app.amanualofacupuncture.com/point/LI-4), [Jiáchē ST-6](https://app.amanualofacupuncture.com/point/ST-6), [Dìcāng ST-4](https://app.amanualofacupuncture.com/point/ST-4), [Rénzhōng DU-26](https://app.amanualofacupuncture.com/point/DU-26) and [Tīnghuì GB-2](https://app.amanualofacupuncture.com/point/GB-2) (Illustrated Supplement).
+- Lockjaw following windstroke: reduce Chéngjiāng REN-24, [Hégǔ LI-4](https://app.amanualofacupuncture.com/point/LI-4), [Jiáchē ST-6](https://app.amanualofacupuncture.com/point/ST-6), [Rénzhōng DU-26](https://app.amanualofacupuncture.com/point/DU-26) and [Bǎihuì DU-20](https://app.amanualofacupuncture.com/point/DU-20) (Great Compendium).
+- Loss of voice: Chéngjiāng REN-24 and [Fēngfǔ DU-16](https://app.amanualofacupuncture.com/point/DU-16) (Supplementing Life).
+- Ceaseless nosebleed: Chéngjiāng REN-24 and [Wěizhōng BL-40](https://app.amanualofacupuncture.com/point/BL-40) (Systematic Classic).
+- Wasting and thirsting disorder with great desire to drink: Chéngjiāng REN-24, [Yìshè BL-49](https://app.amanualofacupuncture.com/point/BL-49), [Rángǔ KID-2](https://app.amanualofacupuncture.com/point/KID-2) and [Guānchōng SJ-1](https://app.amanualofacupuncture.com/point/SJ-1) (Thousand Ducat Formulas).
+- Wasting and thirsting disorder: Chéngjiāng REN-24, [Jīnjīn (M-HN-20)](https://app.amanualofacupuncture.com/point/M-HN-20), [Yùyè (M-HN-20)](https://app.amanualofacupuncture.com/point/M-HN-20), [Rénzhōng DU-26](https://app.amanualofacupuncture.com/point/DU-26), [Liánquán REN-23](https://app.amanualofacupuncture.com/point/REN-23), [Quchi LI-11](https://app.amanualofacupuncture.com/point/LI-11), [Láogōng PC-8](https://app.amanualofacupuncture.com/point/PC-8), [Tàichōng LIV-3](https://app.amanualofacupuncture.com/point/LIV-3), [Xíngjiān LIV-2](https://app.amanualofacupuncture.com/point/LIV-2), [Shāngqiū SP-5](https://app.amanualofacupuncture.com/point/SP-5), [Rángǔ KID-2](https://app.amanualofacupuncture.com/point/KID-2) and [Yǐnbài SP-1](https://app.amanualofacupuncture.com/point/SP-1) (Great Compendium).
+- Mouth ulcers: Chéngjiāng REN-24 and [Láogōng PC-8](https://app.amanualofacupuncture.com/point/PC-8) (Compilation).
+- Stiffness and pain of the head and nape with difficult rotation: Chéngjiāng REN-24 and [Fēngfǔ DU-16](https://app.amanualofacupuncture.com/point/DU-16) (Song of the Jade Dragon)
+
+
+### 1. [REN24 承浆](./REN24.md)
+
+#### 1.1. Container of Fluids 承漿
+
+- 任脉与督脉及大肠、胃经的交会穴  
+- 孙思邈鬼穴  
+
+#### 1.2. 定位
+
+位于下巴上方，颏唇沟中央凹陷处。
+
+#### 1.3. 定位说明
+
+颏唇沟为水平沟，约位于下巴与下唇之间中点。
+
+#### 1.4. 针刺方法
+
+1. 向上斜刺，深0.2至0.3寸；  
+2. 沿下唇平刺，与[ST4 地仓](./ST4.md)相连。
+
+#### 1.5. 作用
+
+- 熄风，利面部  
+- 调任脉  
+
+#### 1.6. 主治
+
+- 半身不遂、口眼歪斜、牙关紧闭、风痫、头项强直、强直、躁郁症。  
+- 面痛麻木、面肿、牙龈痛、突发失音、唇紫、水涎过多、口干、消渴症伴大渴、鼻衄。  
+- 尿色深、多汗、男子疝病、女子腹中瘕块。  
+
+#### 1.7. 论述
+
+[REN24 承浆](./REN24.md)为任脉与手足阳明经（大肠、胃）的交会穴。阳明经主面部，[REN24 承浆](./REN24.md)位于口下，任脉绕口，与督脉于[DU28 龈交](./DU28.md)交会，止于眼下[ST1 承泣](./ST1.md)。故其主要临床应用为治疗面部疾患，尤面痛麻木及口眼歪斜（即面瘫）。面瘫可因外风侵袭阻塞面部经脉，或内风上扰致经脉失养，分别对应现代医学的外周及中枢神经系统面瘫。治疗时，[REN24 承浆](./REN24.md)常透刺至[ST4 地仓](./ST4.md)或[ST6 颊车](./ST6.md)。其熄风作用，尤于面部及颌部，扩展至半身不遂、牙关紧闭及癫痫。  
+
+“承浆”之名暗示其调节口中津液作用，适用于水涎过多、口干及消渴症伴大渴。  
+
+[REN24 承浆](./REN24.md)为任督脉交会穴，与督脉穿越的颈部相对，经典如《悟要颂》推荐其治颈项强痛。  
+
+作为任脉终点，[REN24 承浆](./REN24.md)用于下段疾患，如尿色深、男子疝病及女子腹中瘕块。此外，其别名“鬼市”，被孙思邈列入“十三鬼穴”，用于癫痫及躁郁症。  
+
+#### 1.8. 临床应用总结
+
+- 主要用于面部疾患：面痛麻木（包括三叉神经痛）、口眼歪斜（即面瘫）。  
+- 调节口中津液：水涎过多、口干、消渴症伴大渴。  
+- 治疗颈项强痛。  
+
+#### 1.9. 配伍
+
+- 口眼歪斜：[REN24 承浆](./REN24.md) + [LI4 合谷](./LI4.md) + [ST6 颊车](./ST6.md) + [ST4 地仓](./ST4.md) + [DU26 人中](./DU26.md) + [GB2 听会](./GB2.md)（《图翼》）。  
+- 中风后牙关紧闭：泻[REN24 承浆](./REN24.md) + [LI4 合谷](./LI4.md) + [ST6 颊车](./ST6.md) + [DU26 人中](./DU26.md) + [DU20 百会](./DU20.md)（《大成》）。  
+- 失音：[REN24 承浆](./REN24.md) + [DU16 风府](./DU16.md)（《补命》）。  
+- 鼻衄不止：[REN24 承浆](./REN24.md) + [BL40 委中](./BL40.md)（《系统经典》）。  
+- 消渴症伴大渴：[REN24 承浆](./REN24.md) + [BL49 意舍](./BL49.md) + [KID2 然谷](./KID2.md) + [SJ1 关冲](./SJ1.md)（《千金方》）。  
+- 消渴症：[REN24 承浆](./REN24.md) + [MHN20 金津](./MHN20.md) + [MHN20 玉液](./MHN20.md) + [DU26 人中](./DU26.md) + [REN23 廉泉](./REN23.md) + [LI11 曲池](./LI11.md) + [PC8 劳宫](./PC8.md) + [LIV3 太冲](./LIV3.md) + [LIV2 行间](./LIV2.md) + [SP5 商丘](./SP5.md) + [KID2 然谷](./KID2.md) + [SP1 隐白](./SP1.md)（《大成》）。  
+- 口疮：[REN24 承浆](./REN24.md) + [PC8 劳宫](./PC8.md)（《汇编》）。  
+- 头项强痛难转：[REN24 承浆](./REN24.md) + [DU16 风府](./DU16.md)（《玉龙颂》）。  

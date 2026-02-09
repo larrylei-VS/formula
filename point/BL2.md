@@ -40,15 +40,15 @@ The sphere of action of Zǎnzhú BL-2 is not confined to the treatment of eye 
 
 - Wind headache: Zǎnzhú BL-2, [Chéngguāng BL-6](https://app.amanualofacupuncture.com/point/BL-6), [Shènshū BL-23](https://app.amanualofacupuncture.com/point/BL-23), [Qīmài SJ-18](https://app.amanualofacupuncture.com/point/SJ-18), [Sīzhúkōng SJ-23](https://app.amanualofacupuncture.com/point/SJ-23) and [Ěrhéliáo SJ-22](https://app.amanualofacupuncture.com/point/SJ-22) (Thousand Ducat Formulas).
 - Headache with eye pain: Zǎnzhú BL-2 and [Tóuwéi ST-8](https://app.amanualofacupuncture.com/point/ST-8) (Ode of the Jade Dragon).
-- One-sided or generalised head wind: Zǎnzhú BL-2, [Bǎihuì DU-20](https://app.amanualofacupuncture.com/point/DU-20), [Qiándǐng DU-21](https://app.amanualofacupuncture.com/point/DU-21), [Shéntíng DU-24](https://app.amanualofacupuncture.com/point/DU-24), [Shàngxīng DU-23](https://app.amanualofacupuncture.com/point/DU-23), [Sīzhúkōng SJ-23](https://app.amanualofacupuncture.com/point/SJ-23), [Fēngchí GB-20](https://app.amanualofacupuncture.com/point/GB-20), [Hégǔ L.I.-4](https://app.amanualofacupuncture.com/point/L.I.-4) and [Tóuwéi ST-8](https://app.amanualofacupuncture.com/point/ST-8) (Great Compendium).
+- One-sided or generalised head wind: Zǎnzhú BL-2, [Bǎihuì DU-20](https://app.amanualofacupuncture.com/point/DU-20), [Qiándǐng DU-21](https://app.amanualofacupuncture.com/point/DU-21), [Shéntíng DU-24](https://app.amanualofacupuncture.com/point/DU-24), [Shàngxīng DU-23](https://app.amanualofacupuncture.com/point/DU-23), [Sīzhúkōng SJ-23](https://app.amanualofacupuncture.com/point/SJ-23), [Fēngchí GB-20](https://app.amanualofacupuncture.com/point/GB-20), [Hégǔ LI-4](https://app.amanualofacupuncture.com/point/LI-4) and [Tóuwéi ST-8](https://app.amanualofacupuncture.com/point/ST-8) (Great Compendium).
 - Head wind following intoxication: Zǎnzhú BL-2, Yintang (M-HN-3) and [Zúsānlǐ ST-36](https://app.amanualofacupuncture.com/point/ST-36) (Great Compendium).
 - Pain between the eyebrows: Zǎnzhú BL-2 and [Tóuwéi ST-8](https://app.amanualofacupuncture.com/point/ST-8) (Song of the Jade Dragon).
 - Twitching of the eyelids: Zǎnzhú BL-2 and [Tóuwéi ST-8](https://app.amanualofacupuncture.com/point/ST-8) (Great Compendium).
-- Rhinitis with clear nasal discharge: Zǎnzhú BL-2, [Fēngmén BL-12](https://app.amanualofacupuncture.com/point/BL-12), [Shéntíng DU-24](https://app.amanualofacupuncture.com/point/DU-24), [Hégǔ L.I.-4](https://app.amanualofacupuncture.com/point/L.I.-4), [Yíngxiāng L.I.-20](https://app.amanualofacupuncture.com/point/L.I.-20), [Zhìyīn BL-67](https://app.amanualofacupuncture.com/point/BL-67) and [Fùtōnggǔ KID-20](https://app.amanualofacupuncture.com/point/KID-20) (Thousand Ducat Formulas).
+- Rhinitis with clear nasal discharge: Zǎnzhú BL-2, [Fēngmén BL-12](https://app.amanualofacupuncture.com/point/BL-12), [Shéntíng DU-24](https://app.amanualofacupuncture.com/point/DU-24), [Hégǔ LI-4](https://app.amanualofacupuncture.com/point/LI-4), [Yíngxiāng LI-20](https://app.amanualofacupuncture.com/point/LI-20), [Zhìyīn BL-67](https://app.amanualofacupuncture.com/point/BL-67) and [Fùtōnggǔ KID-20](https://app.amanualofacupuncture.com/point/KID-20) (Thousand Ducat Formulas).
 
 
 ---
-### **[[BL-2 攒竹]]** (ZǍNZHÚ)
+### **[BL2 攒竹](./BL2.md)** (ZǍNZHÚ)
 
 * **英文名称：** Gathered Bamboo
 * **中文名称：** 攒竹
@@ -59,11 +59,11 @@ The sphere of action of Zǎnzhú BL-2 is not confined to the treatment of eye 
 位于内眼角上方，眉毛内侧端凹陷中。
 
 * **定位要点 (Location Notes):**
-    * 沿眉毛内侧端向外侧触诊，感觉在**[[BL-1 睛明]]** 正上方的凹陷。此穴触诊时常有压痛。
+    * 沿眉毛内侧端向外侧触诊，感觉在**[BL1 睛明](./BL1.md)** 正上方的凹陷。此穴触诊时常有压痛。
 
 #### **针刺方法 (Needling)**
 
-i. 横斜刺，向下（朝向**[[BL-1 睛明]]**）治疗眼部疾病； ii. 横刺，向外侧透刺**[[M-HN-6 鱼腰]]** (经外穴) 治疗眶上疼痛； iii. 点刺出血治疗热证。
+i. 横斜刺，向下（朝向**[BL1 睛明](./BL1.md)**）治疗眼部疾病； ii. 横刺，向外侧透刺**[MHN6 鱼腰](./MHN6.md)** (经外穴) 治疗眶上疼痛； iii. 点刺出血治疗热证。
 
 * **注意 (Note):** 根据几部经典文献，此穴禁灸。
 
@@ -81,9 +81,9 @@ i. 横斜刺，向下（朝向**[[BL-1 睛明]]**）治疗眼部疾病； ii. �
 
 #### **阐释 (Commentary)**
 
-**[[BL-2 攒竹]]** 是治疗眼部及周围区域疾病的重要常用局部穴位。它可以替代**[[BL-1 睛明]]** 治疗多种眼部疾病（主要由外邪侵袭引起），特别是对于针刺眼球附近穴位经验不足的医生。为此，可透刺至**[[BL-1 睛明]]**，或在热证时点刺出血。其对眼睛红肿瘙痒的作用，结合其治疗鼻炎和喷嚏的能力，使其特别适合治疗花粉症。
+**[BL2 攒竹](./BL2.md)** 是治疗眼部及周围区域疾病的重要常用局部穴位。它可以替代**[BL1 睛明](./BL1.md)** 治疗多种眼部疾病（主要由外邪侵袭引起），特别是对于针刺眼球附近穴位经验不足的医生。为此，可透刺至**[BL1 睛明](./BL1.md)**，或在热证时点刺出血。其对眼睛红肿瘙痒的作用，结合其治疗鼻炎和喷嚏的能力，使其特别适合治疗花粉症。
 
-然而，**[[BL-2 攒竹]]** 的作用范围不仅限于眼部疾病，它常作为局部穴位用于治疗前额头痛、眉棱骨痛、鼻窦痛和面瘫，更广泛地（参见下述组合）用于偏头痛或全头风，以及酒醉后头痛。膀胱经别绕行肛门，**[[BL-2 攒竹]]** 主治痔疮疼痛，这是“取上治下”原则的一个例证。
+然而，**[BL2 攒竹](./BL2.md)** 的作用范围不仅限于眼部疾病，它常作为局部穴位用于治疗前额头痛、眉棱骨痛、鼻窦痛和面瘫，更广泛地（参见下述组合）用于偏头痛或全头风，以及酒醉后头痛。膀胱经别绕行肛门，**[BL2 攒竹](./BL2.md)** 主治痔疮疼痛，这是“取上治下”原则的一个例证。
 
 #### **临床应用总结 (Summary of clinical application)**
 
@@ -92,12 +92,12 @@ i. 横斜刺，向下（朝向**[[BL-1 睛明]]**）治疗眼部疾病； ii. �
 
 #### **穴位组合 (Combinations)**
 
-* 头风：**[[BL-2 攒竹]]**，**[[BL-6 承光]]**，**[[BL-23 肾俞]]**，**[[SJ-18 瘛脉]]**，**[[SJ-23 丝竹空]]** 和 **[[SJ-22 耳和髎]]**（《千金方》）。
-* 头痛伴眼痛：**[[BL-2 攒竹]]** 和 **[[ST-8 头维]]**（《玉龙歌》）。
-* 偏头痛或全头风：**[[BL-2 攒竹]]**，**[[DU-20 百会]]**，**[[DU-21 前顶]]**，**[[DU-24 神庭]]**，**[[DU-23 上星]]**，**[[SJ-23 丝竹空]]**，**[[GB-20 风池]]**，**[[LI-4 合谷]]** 和 **[[ST-8 头维]]**（《针灸大成》）。
-* 酒醉后头风：**[[BL-2 攒竹]]**，印堂（经外穴 **[[M-HN-3 印堂]]**）和 **[[ST-36 足三里]]**（《针灸大成》）。
-* 眉棱骨痛：**[[BL-2 攒竹]]** 和 **[[ST-8 头维]]**（《玉龙歌》）。
-* 眼睑跳动：**[[BL-2 攒竹]]** 和 **[[ST-8 头维]]**（《针灸大成》）。
-* 鼻炎清涕：**[[BL-2 攒竹]]**，**[[BL-12 风门]]**，**[[DU-24 神庭]]**，**[[LI-4 合谷]]**，**[[LI-20 迎香]]**，**[[BL-67 至阴]]** 和 **[[KID-20 腹通谷]]**（《千金方》）。
+* 头风：**[BL2 攒竹](./BL2.md)**，**[BL6 承光](./BL6.md)**，**[BL23 肾俞](./BL23.md)**，**[SJ18 瘛脉](./SJ18.md)**，**[SJ23 丝竹空](./SJ23.md)** 和 **[SJ22 耳和髎](./SJ22.md)**（《千金方》）。
+* 头痛伴眼痛：**[BL2 攒竹](./BL2.md)** 和 **[ST8 头维](./ST8.md)**（《玉龙歌》）。
+* 偏头痛或全头风：**[BL2 攒竹](./BL2.md)**，**[DU20 百会](./DU20.md)**，**[DU21 前顶](./DU21.md)**，**[DU24 神庭](./DU24.md)**，**[DU23 上星](./DU23.md)**，**[SJ23 丝竹空](./SJ23.md)**，**[GB20 风池](./GB20.md)**，**[LI4 合谷](./LI4.md)** 和 **[ST8 头维](./ST8.md)**（《针灸大成》）。
+* 酒醉后头风：**[BL2 攒竹](./BL2.md)**，印堂（经外穴 **[MHN3 印堂](./MHN3.md)**）和 **[ST36 足三里](./ST36.md)**（《针灸大成》）。
+* 眉棱骨痛：**[BL2 攒竹](./BL2.md)** 和 **[ST8 头维](./ST8.md)**（《玉龙歌》）。
+* 眼睑跳动：**[BL2 攒竹](./BL2.md)** 和 **[ST8 头维](./ST8.md)**（《针灸大成》）。
+* 鼻炎清涕：**[BL2 攒竹](./BL2.md)**，**[BL12 风门](./BL12.md)**，**[DU24 神庭](./DU24.md)**，**[LI4 合谷](./LI4.md)**，**[LI20 迎香](./LI20.md)**，**[BL67 至阴](./BL67.md)** 和 **[KID20 腹通谷](./KID20.md)**（《千金方》）。
 
 ---

@@ -1,0 +1,133 @@
+### Great Gateway JÙQUÈ
+![[REN-14 巨阙.png|250]]
+- Front-Mu point of the Heart
+
+#### Location
+
+On the midline of the abdomen, 6 cun above the umbilicus and 2 cun below the sternocostal angle.
+
+#### Location Notes
+
+i. In some patients the xiphoid process may extend to this point; ii. To locate the sternocostal angle see [Surface Anatomy](https://app.amanualofacupuncture.com/book/pages/about-point-location-needling/surface-anatomy "Surface Anatomy").
+
+#### Needling
+
+Perpendicular insertion 0.5 to 1 cun, or oblique insertion directed inferiorly 1 to 1.5 cun.  
+**Caution:** i. deep insertion, especially in thin subjects, may damage the left lobe of the liver or the heart if either is enlarged, ii. oblique superior insertion towards the heart is contraindicated in all cases.
+
+#### Actions
+
+- Regulates the Heart and alleviates pain
+- Descends Lung qi and unbinds the chest
+- Transforms phlegm and calms the spirit
+- Harmonises the Stomach and descends rebellion
+
+#### Indications
+
+- Heart pain, sudden Heart pain, Heart pain due to cold, injury by cold leading to agitation of the Heart, pain of the chest radiating to the back, chest pain radiating to the lateral costal region, accumulation of phlegm in the chest, rebellious qi, cough, fullness of the chest with shortness of breath, spitting blood.
+- Mania-disorder, mania-depression, aversion to fire, tendency to curse and scold others, ranting and raving, anger, disorientation, loss of consciousness, epilepsy with vomiting of foam, fright palpitations, poor memory, agitation and heat.
+- Sudden turmoil disorder, abdominal distention, sudden abdominal pain, focal distention, oesophageal constriction, nausea, vomiting, Stomach reflux, acid regurgitation, obstruction of the diaphragm, jaundice, acute jaundice, shan disorder, distention and fullness of the lower abdomen, pain due to roundworms.
+- Mutual overacting of the five phases, diminished qi, febrile disease, clonic spasm.
+
+#### Commentary
+
+According to the Essential Questions the front-mu points are where the qi of the zangfu gathers and concentrates, and Jùquè REN-14, the front-mu point of the Heart, is indicated for disorders both of the Heart zang and of the spirit. The Introduction to Medicine by Li Ting of the Ming dynasty states that Jùquè REN-14 treats the "nine types of Heart pain". According to the principles "without movement there is pain" and "where there is malnourishment there is pain", Heart pain always involves either stagnation of qi and blood or deficiency of qi, blood, yin or yang. In clinical practice such excess and deficiency patterns often combine, and even when the manifestation is excess (for example blood stasis or obstruction of blood by phlegm), the root may involve deficiency. Whatever the aetiology or pattern, as the front-mu point of the Heart Jùquè REN-14 is the principal local point for these disorders, particularly, according to many classical sources, when cold attacks the Heart. It is also indicated for chest pain, especially when it radiates to the back, a symptom of what is known as chest painful obstruction. This disorder, characterised by stasis of phlegm and blood and impaired circulation of yang qi, may also disrupt the function of the Lung resulting in cough and shortness of breath.
+
+Any disharmony of the Heart may give rise to disturbance of the spirit, but the most serious occurs when phlegm obscures the portals of the Heart. In the context of the traditional indications for Jùquè REN-14, when phlegm alone predominates there may be poor memory, disorientation, loss of consciousness or epilepsy with vomiting of foam, whilst if phlegm combines with heat there will be various manifestations of mania disorder such as ranting and raving, great anger and fury, a tendency to curse and scold others etc. Alternatively, if i. Heart blood is deficient, ii. blood stasis hinders the proper nourishment of the Heart by fresh blood, or iii. either Heart yin deficiency or the transformation of blood stasis generate heat which agitates the spirit, there may be anxiety, palpitations and a nervous, agitated sensation in the pit of the epigastrium (below the Heart). Jùquè REN-14 is the principal local point for the treatment of these disorders.
+
+The main pathway of the Conception vessel ascends from the perineum to the region of the mouth. Notwithstanding this upward movement of the channel, the points of the Conception vessel on the chest and abdomen have a strong action on descending qi, especially of the Lung and Stomach. This downward movement is reflected in the qigong 'small heavenly circuit' practice which ascends the qi through the Governing vessel and descends it through the Conception vessel. Located in the region between the Lung and Stomach, Jùquè REN-14 has a strong action on subduing rebellious qi in these two zangfu.
+
+As far as the Lung is concerned, Jùquè REN-14 is indicated for rebellious qi manifesting as cough and fullness of the chest with shortness of breath. As for the Stomach, Jùquè REN-14 is able to regulate rebellion of qi manifesting as nausea, Stomach reflux, vomiting and acid regurgitation, and stagnation of qi giving rise to abdominal distention, oesophageal constriction, focal distention and obstruction of the diaphragm.
+
+Finally the Great Compendium of Acupuncture and Moxibustion recommends Jùquè REN-14 for mutual overacting of the five phases. This extremely broad indication is usually interpreted as a reflection of the status of the Heart, of which Jùquè REN-14 is the front-mu point, as the sovereign ruler of all the zangfu.
+
+#### Summary of clinical application
+
+- Principal local point for Heart pain: sudden Heart pain, Heart pain due to cold, injury by cold leading to agitation of the Heart.
+- For chest painful obstruction and accumulation of qi in the Lung: pain of the chest radiating to the back, chest pain radiating to the lateral costal region, accumulation of phlegm in the chest, rebellious qi, cough, fullness of the chest with shortness of breath.
+- Calms the spirit: mania-disorder, mania-depression, aversion to fire, tendency to curse and scold others, ranting and raving, anger, disorientation, loss of consciousness, epilepsy with vomiting of foam, fright palpitations, poor memory.
+- Descends Stomach qi: nausea, Stomach reflux, vomiting, acid regurgitation, abdominal distention, oesophageal constriction, obstruction of the diaphragm.
+
+#### Combinations
+
+- Agitation of the Heart: Jùquè REN-14 and [Xīnshū BL-15](https://app.amanualofacupuncture.com/point/BL-15) (Supplementing Life).
+- Agitation and fullness of the Heart: Jùquè REN-14 and [Yīndū KID-19](https://app.amanualofacupuncture.com/point/KID-19) (Supplementing Life).
+- Distention and fullness of the Heart and abdomen: Jùquè REN-14 and [Shàngwǎn REN-13](https://app.amanualofacupuncture.com/point/REN-13) (Supplementing Life).
+- Fright palpitations with diminished qi: Jùquè REN-14, [Shénmén HE-7](https://app.amanualofacupuncture.com/point/HE-7) and [Lǐgōu LIV-5](https://app.amanualofacupuncture.com/point/LIV-5) (Supplementing Life).
+- Heart disorientation: Jùquè REN-14, [Tiānjǐng SJ-10](https://app.amanualofacupuncture.com/point/SJ-10) and [Xīnshū BL-15](https://app.amanualofacupuncture.com/point/BL-15) (Great Compendium).
+- Mania disorder, raving, fury and cursing: Jùquè REN-14 and [Zhúbīn KID-9](https://app.amanualofacupuncture.com/point/KID-9) (Thousand Ducat Formulas).
+- Rebellion of qi with cough, fullness of the chest and shortness of breath with pain that radiates to the back: 50 moxa cones each on Jùquè REN-14 and [Qímén LIV-14](https://app.amanualofacupuncture.com/point/LIV-14) (Thousand Ducat Formulas).
+- Cough: Jùquè REN-14, [Shānzhōng REN-17](https://app.amanualofacupuncture.com/point/REN-17) and [Quēpén ST-12](https://app.amanualofacupuncture.com/point/ST-12) (Thousand Ducat Formulas).
+- Vomiting with fullness of the chest: Jùquè REN-14, [Shūfǔ KID-27](https://app.amanualofacupuncture.com/point/KID-27), [Shéncáng KID-25](https://app.amanualofacupuncture.com/point/KID-25) and [Língxū KID-24](https://app.amanualofacupuncture.com/point/KID-24) (Thousand Ducat Formulas).
+- Sudden turmoil disorder: Jùquè REN-14, [Guānchōng SJ-1](https://app.amanualofacupuncture.com/point/SJ-1), [Zhīgōu SJ-6](https://app.amanualofacupuncture.com/point/SJ-6), [Gōngsūn SP-4](https://app.amanualofacupuncture.com/point/SP-4) and [Jiěxī ST-41](https://app.amanualofacupuncture.com/point/ST-41) (Systematic Classic).
+- Pain of the diaphragm from accumulation of fluid that is difficult to endure: Jùquè REN-14 and [Shānzhōng REN-17](https://app.amanualofacupuncture.com/point/REN-17) (One Hundred Symptoms)
+
+
+### 1. [REN14 巨阙](./REN14.md)
+
+#### 1.1. Great Gateway 巨阙
+
+- 心的前募穴  
+
+#### 1.2. 定位
+
+位于腹部中线，脐上6寸，胸肋角下2寸。
+
+#### 1.3. 定位说明
+
+1. 部分患者剑突可能延伸至此穴；  
+2. 定位胸肋角见表面解剖学。
+
+#### 1.4. 针刺方法
+
+垂直刺入，深0.5至1寸，或向下斜刺，深1至1.5寸。  
+**注意：**  
+1. 瘦弱者深刺可能伤及左肝叶或增大之心脏；  
+2. 任何情况下禁向上斜刺朝心脏。
+
+#### 1.5. 作用
+
+- 调心止痛  
+- 降肺气，宽胸  
+- 化痰定神  
+- 和胃降逆  
+
+#### 1.6. 主治
+
+- 心痛、突发心痛、寒致心痛、寒伤致心烦躁、胸痛放射至背、胸痛放射至胁部、胸中痰积、气逆、咳嗽、胸满气短、吐血。  
+- 躁病、躁郁症、厌火、好骂詈、狂言怒骂、盛怒、神志迷乱、昏迷、癫痫吐沫、惊悸、记忆差、烦热。  
+- 卒中风病、腹胀、突发腹痛、局灶性胀满、食管痉挛、恶心、呕吐、胃反流、反酸、膈阻、黄疸、急性黄疸、疝病、下腹胀满、蛔虫痛。  
+- 五行相乘、气虚、热病、痉挛。  
+
+#### 1.7. 论述
+
+《素问》称前募穴为脏腑之气聚集处，[REN14 巨阙](./REN14.md)为心募穴，适用于心脏及神志疾患。明代李珽《医学入门》称[REN14 巨阙](./REN14.md)治“九种心痛”。依“不通则痛”“不荣则痛”原则，心痛涉及气血瘀滞或气血阴阳虚。临床上虚实常兼夹，即使表现为实（如血瘀或痰阻血脉），根源可能涉虚。不论病因或证型，作为心募穴，[REN14 巨阙](./REN14.md)是此类疾患的主穴，尤多经典指用于寒攻心。它还适用于胸痛，特别是放射至背的“胸痹”，特征为痰血瘀滞及阳气流通受阻，亦可扰肺致咳嗽气短。  
+
+心失调可扰神志，最严重者为痰蒙心窍。[REN14 巨阙](./REN14.md)传统指征中，单纯痰盛可致记忆差、神志迷乱、昏迷或癫痫吐沫；痰热相兼则现躁病，如狂言怒骂、盛怒、好骂詈等。若1.心血虚，2.血瘀阻新鲜血荣心，3.心阴虚或血瘀化热扰神，可致焦虑、悸动及胃脘（心下）烦躁感。[REN14 巨阙](./REN14.md)为此类疾患的主穴。  
+
+任脉主路由会阴升至口区。尽管经脉上行，胸腹部任脉穴强于降气，尤肺胃二脏。此降气作用见于气功“小周天”：气升督脉，降任脉。[REN14 巨阙](./REN14.md)位于肺胃间，强效平抑二脏逆气。  
+
+对肺，[REN14 巨阙](./REN14.md)适用于气逆引起的咳嗽及胸满气短。对胃，能调气逆（恶心、胃反流、呕吐、反酸）及气滞（腹胀、食管痉挛、局灶性胀满、膈阻）。  
+
+《针灸大成》推荐[REN14 巨阙](./REN14.md)用于五行相乘，此广义指征常解读为心（[REN14 巨阙](./REN14.md)为其募穴）作为脏腑之主。  
+
+#### 1.8. 临床应用总结
+
+- 心痛的主穴：突发心痛、寒致心痛、寒伤致心烦躁。  
+- 治疗胸痹及肺气积聚：胸痛放射至背、胸痛放射至胁部、胸中痰积、气逆、咳嗽、胸满气短。  
+- 定神：躁病、躁郁症、厌火、好骂詈、狂言怒骂、盛怒、神志迷乱、昏迷、癫痫吐沫、惊悸、记忆差。  
+- 降胃气：恶心、胃反流、呕吐、反酸、腹胀、食管痉挛、膈阻。  
+
+#### 1.9. 配伍
+
+- 心烦躁：[REN14 巨阙](./REN14.md) + [BL15 心俞](./BL15.md)（《补命》）。  
+- 心烦满：[REN14 巨阙](./REN14.md) + [KID19 阴都](./KID19.md)（《补命》）。  
+- 心腹胀满：[REN14 巨阙](./REN14.md) + [REN13 上脘](./REN13.md)（《补命》）。  
+- 惊悸伴气虚：[REN14 巨阙](./REN14.md) + [HE7 神门](./HE7.md) + [LIV5 蠡沟](./LIV5.md)（《补命》）。  
+- 心神迷乱：[REN14 巨阙](./REN14.md) + [SJ10 天井](./SJ10.md) + [BL15 心俞](./BL15.md)（《大成》）。  
+- 躁病、狂言怒骂：[REN14 巨阙](./REN14.md) + [KID9 筑宾](./KID9.md)（《千金方》）。  
+- 气逆伴咳嗽、胸满气短及痛放射至背：[REN14 巨阙](./REN14.md) + [LIV14 期门](./LIV14.md)各灸50壮（《千金方》）。  
+- 咳嗽：[REN14 巨阙](./REN14.md) + [REN17 膻中](./REN17.md) + [ST12 缺盆](./ST12.md)（《千金方》）。  
+- 呕吐伴胸满：[REN14 巨阙](./REN14.md) + [KID27 俞府](./KID27.md) + [KID25 神藏](./KID25.md) + [KID24 灵墟](./KID24.md)（《千金方》）。  
+- 卒中风病：[REN14 巨阙](./REN14.md) + [SJ1 关冲](./SJ1.md) + [SJ6 支沟](./SJ6.md) + [SP4 公孙](./SP4.md) + [ST41 解溪](./ST41.md)（《系统经典》）。  
+- 积液致膈痛难忍：[REN14 巨阙](./REN14.md) + [REN17 膻中](./REN17.md)（《百症赋》）。  

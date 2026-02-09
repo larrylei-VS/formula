@@ -1,0 +1,77 @@
+### Jade Hall YÙTÁNG
+![[REN-18 玉堂.png|250]]
+#### Location
+
+On the midline of the sternum, level with the junction of the third intercostal space and the sternum.
+
+#### Location Notes
+
+First locate the costal cartilage of the second rib which is level with the sternal angle, then locate the second intercostal space below it and count down to the third space.
+
+#### Needling
+
+Transverse insertion directed superiorly or inferiorly along the channel, 0.5 to 1 cun.
+
+#### Actions
+
+- Unbinds the chest
+- Regulates and descends qi
+
+#### Indications
+
+- Pain of the chest and sternum, agitation with cough, uprising qi, fullness of the chest with difficulty in breathing, wheezing and dyspnoea, cold phlegm.
+- Vomiting, difficult ingestion.
+- Throat painful obstruction, swelling of the throat, swelling and pain of the breasts, pain of the lateral costal region.
+
+#### Summary of clinical application
+
+- Pain of the chest and sternum, agitation with cough, uprising qi, fullness of the chest with difficulty in breathing, wheezing and dysponea, cold phlegm.
+- Vomiting, difficult ingestion.
+- Throat painful obstruction, swelling of the throat, swelling and pain of the breasts, pain of the lateral costal region.
+
+#### Combinations
+
+- Cough with rebellious qi and agitation: Yùtáng REN-18, [Zǐgōng REN-19](https://app.amanualofacupuncture.com/point/REN-19) and [Tàixī KID-3](https://app.amanualofacupuncture.com/point/KID-3) (Thousand Ducat Formulas).
+- Agitation of the Heart and vomiting: Yùtáng REN-18 and [Yōumén KID-21](https://app.amanualofacupuncture.com/point/KID-21) (One Hundred Symptoms).
+- Bone pain: Yùtáng REN-18, [Zǐgōng REN-19](https://app.amanualofacupuncture.com/point/REN-19) and [Géshū BL-17](https://app.amanualofacupuncture.com/point/BL-17) (Supplementing Life)
+
+
+### 1. [REN18 玉堂](./REN18.md)
+
+#### 1.1. Jade Hall 玉堂
+
+#### 1.2. 定位
+
+位于胸骨中线，第三肋间隙与胸骨交界处。
+
+#### 1.3. 定位说明
+
+先定位第二肋软骨（与胸骨角平齐），向下找到第二肋间隙，再数至第三肋间隙。
+
+#### 1.4. 针刺方法
+
+沿经脉向上或向下平刺，深0.5至1寸。
+
+#### 1.5. 作用
+
+- 宽胸  
+- 调气降逆  
+
+#### 1.6. 主治
+
+- 胸骨痛、心烦伴咳嗽、气上逆、胸满呼吸困难、喘鸣气促、寒痰。  
+- 呕吐、吞咽难。  
+- 喉痹、喉肿、乳房肿痛、胁痛。  
+
+#### 1.7. 临床应用总结
+
+- 胸骨痛、心烦伴咳嗽、气上逆、胸满呼吸困难、喘鸣气促、寒痰。  
+- 呕吐、吞咽难。  
+- 喉痹、喉肿、乳房肿痛、胁痛。  
+
+#### 1.8. 配伍
+
+- 咳嗽伴气逆及烦躁：[REN18 玉堂](./REN18.md) + [REN19 紫宫](./REN19.md) + [KID3 太溪](./KID3.md)（《千金方》）。  
+- 心烦及呕吐：[REN18 玉堂](./REN18.md) + [KID21 幽门](./KID21.md)（《百症赋》）。  
+- 骨痛：[REN18 玉堂](./REN18.md) + [REN19 紫宫](./REN19.md) + [BL17 膈俞](./BL17.md)（《补命》）。  
+

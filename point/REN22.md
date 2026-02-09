@@ -1,0 +1,117 @@
+### Heavenly Prominence TIĀNTÚ
+![[REN-22 天突.png|250]]
+- Meeting point of the Conception and Yin Linking vessels
+- Point of the Window of Heaven
+
+#### Location
+
+On the midline, in the centre of the suprasternal fossa, 0.5 cun superior to the suprasternal notch.
+
+#### Needling
+
+i. Perpendicular insertion 0.3 cun; ii. With the neck extended (remove head pillow), needle first perpendicularly 0.2 to 0.3 cun, then direct the needle inferiorly along the posterior border of the manubrium of the sternum 0.5 to 1 cun.  
+**Caution:** this second method should not be attempted by practitioners without clinical experience under supervision.
+
+#### Actions
+
+- Descends rebellious qi and alleviates cough and wheezing
+- Benefits the throat and voice
+
+#### Indications
+
+- Obstruction in the chest, fullness of the chest, obstruction of qi with Heart pain, pain of the Heart and back, rebellious qi with cough, asthma, sudden dyspnoea, inability to breathe, abscess of the Lung with purulent bloody coughing.
+- Rattling sound in the throat, accumulation of phlegm in the throat, plumstone qi, ulceration of the throat which prevents eating, swelling of the throat, cold sensation of the throat, dry throat, much spittle, throat painful obstruction, cracked voice, sudden loss of voice, inability to speak, swelling of the neck, goitre.
+- Oesophageal constriction, vomiting, jaundice.
+- Purple-green veins beneath the tongue, nosebleed, heat sensation of the skin of the face, red face, swelling of the back of the neck and shoulder, chills and fever, heat sensation of the skin of the abdomen, urticaria, numbness of the flesh of the body.
+
+#### Commentary
+
+In common with many points of the Conception vessel, Tiāntú REN-22 has a strong action on descending qi. Located in-between the lungs and below the throat, its principal application is in the treatment of a wide variety of disorders affecting these two areas.
+
+Tiāntú REN-22 has long been recognised as an important point to treat Lung disorders, for example the Essential Questions [25](https://app.amanualofacupuncture.com/book/pages/channels/the-conception-vessel-points/references) recommended it for rebellious qi, inability to breathe and shortness of breath. Like other points situated in the uppermost portion of the chest (for example [Zhōngfǔ LU-1](https://app.amanualofacupuncture.com/point/LU-1)), Tiāntú REN-22 is principally used to treat excess patterns characterised by upward rebellion of Lung qi, including cough, asthma, sudden dyspnoea, inability to breathe and Lung abscess with purulent bloody coughing.
+
+As far as throat disorders are concerned, Tiāntú REN-22 may be used in virtually any clinical situation, ranging from dryness, cold sensation, swelling and pain, to plumstone qi and severe ulceration which prevents eating. It is also an important point for disorders of the voice including cracked voice, loss of voice and inability to speak. In modern clinical practice, the most common application of this point is in the treatment of wheezing and asthma, especially when accompanied by accumulation of phlegm in the throat.
+
+Tiāntú REN-22 is a meeting point of the Conception vessel with the Yin Linking vessel. The Yin Linking vessel ascends through the chest region and according to the Classic of Difficulties [26](https://app.amanualofacupuncture.com/book/pages/channels/the-conception-vessel-points/references) "when the Yin Linking vessel alone is diseased it will cause Heart pain". Tiāntú REN-22 is specifically indicated for obstruction of qi with Heart pain and pain of the Heart and the back.
+
+Finally, Tiāntú REN-22 is one of ten points listed in Chapter 2 of the Spiritual Pivot that have come to be known as Window of Heaven points (for a fuller discussion see [Points of the Window of Heaven](https://app.amanualofacupuncture.com/book/pages/about-point-categories/points-of-the-window-of-heaven "Points of the Window of Heaven")). It illustrates many of the characteristic actions of these points in its ability to treat goitre, rebellious qi of the Lung and Stomach and sudden onset of disorders (sudden loss of voice).
+
+#### Summary of clinical application
+
+- Important point for rebellion of Lung qi: rebellious qi with cough, asthma, sudden dyspnoea, inability to breathe, abscess of the Lung with purulent bloody coughing, obstruction in the chest, fullness of the chest.
+- Treats all kinds of disorders of the throat and voice: dryness, cold sensation, swelling and pain of the throat, severe ulceration of the throat which prevents eating, accumulation of phlegm in the throat, cracked voice, loss of voice, inability to speak.
+- Meeting point with the Yin Linking vessel; “When the Yin Linking vessel alone is diseased it will cause Heart pain” (Classic of Difficulties): obstruction of qi with Heart pain and pain of the Heart and the back.
+- Window of Heaven point: treats goitre, rebellious qi of the Lung and Stomach and sudden onset of disorders (sudden loss of voice).
+
+#### Combinations
+
+- Rebellious qi cough: Tiāntú REN-22, Shanzhong REN"17, [Tiānchí PC-1](https://app.amanualofacupuncture.com/point/PC-1), [Jiěxī ST-41](https://app.amanualofacupuncture.com/point/ST-41) and Jianzhongshu SI"15 (Supplementing Life).
+- Asthma, inability to sleep at night and agitated mind: Tiāntú REN-22 and [Shānzhōng REN-17](https://app.amanualofacupuncture.com/point/REN-17) (Song of the Jade Dragon).
+- Dyspnoea and cough: [Shānzhōng REN-17](https://app.amanualofacupuncture.com/point/REN-17) and Tiāntú REN-22 (Ode of the Jade Dragon).
+- Cough that reaches the voice (hoarse voice): Tiāntú REN-22 and [Fèishū BL-13](https://app.amanualofacupuncture.com/point/BL-13) (One Hundred Symptoms).
+- Loss of voice: Tiāntú REN-22, [Língdào HE-4](https://app.amanualofacupuncture.com/point/HE-4), [Yīngǔ KID-10](https://app.amanualofacupuncture.com/point/KID-10), [Fùliū KID-7](https://app.amanualofacupuncture.com/point/KID-7), [Fēnglóng ST-40](https://app.amanualofacupuncture.com/point/ST-40) and Rangu KID"2 (Illustrated Supplement).
+- Sudden loss of voice with lockjaw: Tiāntú REN-22, [Língdào HE-4](https://app.amanualofacupuncture.com/point/HE-4) and [Tiānchuāng SI-16](https://app.amanualofacupuncture.com/point/SI-16) (Supplementing Life).
+- Swollen painful throat: Tiāntú REN-22, [Shàoshāng LU-11](https://app.amanualofacupuncture.com/point/LU-11) and [Hégǔ LI-4](https://app.amanualofacupuncture.com/point/LI-4) (Great Compendium).
+- Pain of the Heart with shortness of breath: Tiāntú REN-22, [Qímén LIV-14](https://app.amanualofacupuncture.com/point/LIV-14), [Chángqiáng DU-1](https://app.amanualofacupuncture.com/point/DU-1), Xiabai LU"4 and [Zhōngchōng PC-9](https://app.amanualofacupuncture.com/point/PC-9) (Thousand Ducat Formulas).
+- Heat sensation of the skin of the face: Tiāntú REN-22 and [Tiānchuāng SI-16](https://app.amanualofacupuncture.com/point/SI-16) (Supplementing Life).
+
+
+### 1. [REN22 天突](./REN22.md)
+
+#### 1.1. Heavenly Prominence 天突
+
+- 任脉与阴维脉的交会穴  
+- 天窗穴之一  
+
+#### 1.2. 定位
+
+位于中线，胸骨上窝中央，胸骨切迹上方0.5寸。
+
+#### 1.3. 针刺方法
+
+1. 垂直刺入，深0.3寸；  
+2. 颈部伸展（移除头枕），先垂直刺入0.2至0.3寸，再沿胸骨柄后缘向下刺入0.5至1寸。  
+**注意：** 第二种方法需在有监督的临床经验下操作。
+
+#### 1.4. 作用
+
+- 降逆气，止咳平喘  
+- 利咽喉及声音  
+
+#### 1.5. 主治
+
+- 胸阻塞、胸满、气阻伴心痛、心背痛、气逆伴咳嗽、哮喘、突发呼吸困难、不能呼吸、肺痈咳脓血。  
+- 喉中鸣响、喉痰积、梅核气、喉溃不能食、喉肿、喉冷感、咽干、多涎、喉痹、声音嘶哑、突发失音、不能言、颈肿、瘿病。  
+- 食管痉挛、呕吐、黄疸。  
+- 舌下青紫脉、鼻衄、面部皮肤热感、面赤、颈肩后肿、寒热、腹部皮肤热感、荨麻疹、身肉麻木。  
+
+#### 1.6. 论述
+
+与许多任脉穴相同，[REN22 天突](./REN22.md)强效降气，位于两肺间及喉下，主要用于治疗此二区域的多种疾患。  
+
+[REN22 天突](./REN22.md)长期被视为治疗肺病的重要穴，《素问》推荐其用于气逆、不能呼吸及气短。如其他胸上部穴（如[LU1 中府](./LU1.md)），[REN22 天突](./REN22.md)主要用于肺气上逆的实证，包括咳嗽、哮喘、突发呼吸困难、不能呼吸及肺痈咳脓血。  
+
+对于咽喉疾患，[REN22 天突](./REN22.md)几乎适用于任何情况，从咽干、冷感、肿痛，至梅核气及严重溃疡不能食。它也是声音疾患的重要穴，如声音嘶哑、失音及不能言。现代临床最常用于喘鸣及哮喘，尤伴喉痰积者。  
+
+[REN22 天突](./REN22.md)为任脉与阴维脉交会穴。阴维脉升经胸区，《难经》称：“阴维脉独病则心痛。”[REN22 天突](./REN22.md)特用于气阻伴心痛及心背痛。  
+
+[REN22 天突](./REN22.md)为《灵枢》第二章列十个天窗穴之一（详见天窗穴讨论），体现其特色作用：治疗瘿病、肺胃气逆及突发疾患（突发失音）。  
+
+#### 1.7. 临床应用总结
+
+- 肺气上逆的重要穴：气逆伴咳嗽、哮喘、突发呼吸困难、不能呼吸、肺痈咳脓血、胸阻塞、胸满。  
+- 治疗各类咽喉及声音疾患：咽干、冷感、肿痛、严重喉溃不能食、喉痰积、声音嘶哑、失音、不能言。  
+- 与阴维脉交会，《难经》称：“阴维脉独病则心痛。”用于气阻伴心痛及心背痛。  
+- 天窗穴：治疗瘿病、肺胃气逆及突发疾患（突发失音）。  
+
+#### 1.8. 配伍
+
+- 气逆咳嗽：[REN22 天突](./REN22.md) + [REN17 膻中](./REN17.md) + [PC1 天池](./PC1.md) + [ST41 解溪](./ST41.md) + [SI15 肩中俞](./SI15.md)（《补命》）。  
+- 哮喘、夜不能寐、心神不安：[REN22 天突](./REN22.md) + [REN17 膻中](./REN17.md)（《玉龙颂》）。  
+- 呼吸困难及咳嗽：[REN17 膻中](./REN17.md) + [REN22 天突](./REN22.md)（《玉龙颂》）。  
+- 咳嗽至声嘶：[REN22 天突](./REN22.md) + [BL13 肺俞](./BL13.md)（《百症赋》）。  
+- 失音：[REN22 天突](./REN22.md) + [HE4 灵道](./HE4.md) + [KID10 阴谷](./KID10.md) + [KID7 复溜](./KID7.md) + [ST40 丰隆](./ST40.md) + [KID2 然谷](./KID2.md)（《图翼》）。  
+- 突发失音伴牙关紧闭：[REN22 天突](./REN22.md) + [HE4 灵道](./HE4.md) + [SI16 天窗](./SI16.md)（《补命》）。  
+- 咽喉肿痛：[REN22 天突](./REN22.md) + [LU11 少商](./LU11.md) + [LI4 合谷](./LI4.md)（《大成》）。  
+- 心痛伴气短：[REN22 天突](./REN22.md) + [LIV14 期门](./LIV14.md) + [DU1 长强](./DU1.md) + [LU4 侠白](./LU4.md) + [PC9 中冲](./PC9.md)（《千金方》）。  
+- 面部皮肤热感：[REN22 天突](./REN22.md) + [SI16 天窗](./SI16.md)（《补命》）。  

@@ -1,0 +1,105 @@
+### Upper Cavity SHÀNGWǍN
+![[REN-13 上脘.png|250]]
+- Meeting point of the Conception vessel with the Stomach and Small Intestine channels
+
+#### Location
+
+On the midline of the abdomen, 5 cun above the umbilicus and 3 cun below the sternocostal angle.
+
+#### Location Notes
+
+To locate the sternocostal angle see [Surface Anatomy](https://app.amanualofacupuncture.com/book/pages/about-point-location-needling/surface-anatomy "Surface Anatomy").
+
+#### Needling
+
+Perpendicular insertion 0.8 to 1.5 cun.  
+**Caution:** in thin patients deep needling may penetrate the peritoneal cavity.
+
+#### Actions
+
+- Harmonises the Stomach and regulates qi
+- Descends rebellion and alleviates vomiting
+- Regulates the Heart
+
+#### Indications
+
+- Nausea, vomiting, deficiency-taxation vomiting of blood, difficult ingestion, Stomach reflux, sudden turmoil disorder, abdominal pain, abdominal distention and fullness, abdominal (ji ju) masses, pain of the Spleen, undigested food (in the stool), borborygmus.
+- Sudden Heart pain, sensation of heat and agitation in the Heart, fright palpitations.
+- Heat in the body with absence of sweating, febrile disease, jaundice.
+- Wind epilepsy, much phlegm, running piglet qi, visual dizziness.
+
+#### Commentary
+
+Shàngwǎn REN-13 (Upper Cavity) is also known as Shangguan (Upper Controller). This point was traditionally considered to affect the upper portion of the Stomach whilst [Xiàwǎn REN-10](https://app.amanualofacupuncture.com/point/REN-10) (Lower Cavity) was considered to affect its lower portion. Between these two points lies [Zhōngwǎn REN-12](https://app.amanualofacupuncture.com/point/REN-12) (Middle Cavity). The Spiritual Pivot [18](https://app.amanualofacupuncture.com/book/pages/channels/the-conception-vessel-points/references) states "When there is difficult ingestion and obstruction in the diaphragm, this indicates the pathogen is in the Stomach. When the disorder is in the upper cavity, then needle Shàngwǎn REN-13 to restrain the rebellion and descend it. When the disorder is in the lower cavity, then needle [Xiàwǎn REN-10](https://app.amanualofacupuncture.com/point/REN-10) to scatter and move it". Shàngwǎn REN-13 is indicated for rebellion of Stomach qi manifesting as nausea, vomiting, vomiting of blood and Stomach reflux and for stagnation in the epigastrium and abdomen manifesting as pain, distention, fullness and masses.
+
+The Conception vessel ascends through the middle of the chest, whilst Shàngwǎn REN-13 is a meeting point of the Conception vessel with the Stomach and Small Intestine channels, both of which connect with the Heart via their primary or secondary pathways. Shàngwǎn REN-13 is indicated (and included in classical combinations) for heat, agitation and pain of the Heart and palpitations. In clinical practice however, [Jùguè REN-14](https://app.amanualofacupuncture.com/point/REN-14), the next point along the channel and the front-mu point of the Heart, is more commonly used for such Heart disorders.
+
+#### Summary of clinical application
+
+- “When there is difficult ingestion and obstruction in the diaphragm, this indicates the pathogen is in the Stomach. When the disorder is in the upper cavity, then needle Shangwan REN-13 to restrain the rebellion and descend it” (Spiritual Pivot): treats rebellion of Stomach qi (nausea, vomiting, vomiting of blood, Stomach reflux) and stagnation in the epigastrium and abdomen (pain, distention, fullness and masses).
+- For, heat, agitation and pain of the Heart and palpitations.
+
+#### Combinations
+
+- Vomiting blood and spontaneous external bleeding: Shàngwǎn REN-13, [Píshū BL-20](https://app.amanualofacupuncture.com/point/BL-20), [Gānshū BL-18](https://app.amanualofacupuncture.com/point/BL-18) and [Yǐnbài SP-1](https://app.amanualofacupuncture.com/point/SP-1) (Great Compendium).
+- Vomiting blood: Shàngwǎn REN-13, [Bùróng ST-19](https://app.amanualofacupuncture.com/point/ST-19) and [Dàlíng PC-7](https://app.amanualofacupuncture.com/point/PC-7) (Thousand Ducat Formulas).
+- Vomiting: Shàngwǎn REN-13, [Bùróng ST-19](https://app.amanualofacupuncture.com/point/ST-19) and [Dàlíng PC-7](https://app.amanualofacupuncture.com/point/PC-7) (Supplementing Life).
+- The nine types of Heart pain: Shàngwǎn REN-13 and [Zhōngwǎn REN-12](https://app.amanualofacupuncture.com/point/REN-12) (Ode of the Jade Dragon).
+- Unbearable Heart pain: Shàngwǎn REN-13 and [Dàlíng PC-7](https://app.amanualofacupuncture.com/point/PC-7) (Thousand Ducat Formulas).
+- Distention and fullness of the Heart and abdomen: Shàngwǎn REN-13 and [Jùguè REN-14](https://app.amanualofacupuncture.com/point/REN-14) (Supplementing Life).
+- Manic rushing around: Shàngwǎn REN-13 and [Shénmén HE-7](https://app.amanualofacupuncture.com/point/HE-7) (One Hundred Symptoms)
+
+
+
+### 1. [REN13 上脘](./REN13.md)
+
+#### 1.1. Upper Cavity 上脘
+
+- 任脉与胃、小肠经的交会穴  
+
+#### 1.2. 定位
+
+位于腹部中线，脐上5寸，胸肋角下3寸。
+
+#### 1.3. 定位说明
+
+定位胸肋角见表面解剖学。
+
+#### 1.4. 针刺方法
+
+垂直刺入，深0.8至1.5寸。  
+**注意：** 瘦弱者深刺可能穿透腹膜腔。
+
+#### 1.5. 作用
+
+- 和胃调气  
+- 降逆止呕  
+- 调心  
+
+#### 1.6. 主治
+
+- 恶心、呕吐、虚劳吐血、吞咽难、胃反流、卒中风病、腹痛、腹胀满、腹中积聚、脾痛、泻下未消化食物、肠鸣。  
+- 突发心痛、心热烦躁、惊悸。  
+- 身热无汗、热病、黄疸。  
+- 风痫、多痰、奔豚气、视物眩晕。  
+
+#### 1.7. 论述
+
+[REN13 上脘](./REN13.md)别名“上管”，传统认为其影响胃的上部，而[REN10 下脘](./REN10.md)影响胃的下部，二者之间为[REN12 中脘](./REN12.md)。《灵枢》称：“吞咽难及膈阻，病在胃。若病在上脘，针[REN13 上脘](./REN13.md)抑逆降之；若病在下脘，针[REN10 下脘](./REN10.md)散之行之。”[REN13 上脘](./REN13.md)适用于胃气上逆（恶心、呕吐、吐血、胃反流）及胃腹部积滞（痛、胀、满、积聚）。  
+
+任脉升经胸中，[REN13 上脘](./REN13.md)为任脉与胃、小肠经交会穴，二经通过主次路径与心相连。[REN13 上脘](./REN13.md)适用于心热、烦躁、痛及悸动（经典配伍中提及）。但临床上，沿经下一穴[REN14 巨阙](./REN14.md)（心募穴）更常用于此类心病。  
+
+#### 1.8. 临床应用总结
+
+- 《灵枢》称：“吞咽难及膈阻，病在胃。若病在上脘，针[REN13 上脘](./REN13.md)抑逆降之。”治疗胃气上逆（恶心、呕吐、吐血、胃反流）及胃腹部积滞（痛、胀、满、积聚）。  
+- 用于心热、烦躁、痛及悸动。  
+
+#### 1.9. 配伍
+
+- 吐血及自外出血：[REN13 上脘](./REN13.md) + [BL20 脾俞](./BL20.md) + [BL18 肝俞](./BL18.md) + [SP1 隐白](./SP1.md)（《大成》）。  
+- 吐血：[REN13 上脘](./REN13.md) + [ST19 不容](./ST19.md) + [PC7 大陵](./PC7.md)（《千金方》）。  
+- 呕吐：[REN13 上脘](./REN13.md) + [ST19 不容](./ST19.md) + [PC7 大陵](./PC7.md)（《补命》）。  
+- 九种心痛：[REN13 上脘](./REN13.md) + [REN12 中脘](./REN12.md)（《玉龙颂》）。  
+- 心痛难忍：[REN13 上脘](./REN13.md) + [PC7 大陵](./PC7.md)（《千金方》）。  
+- 心腹胀满：[REN13 上脘](./REN13.md) + [REN14 巨阙](./REN14.md)（《补命》）。  
+- 狂躁奔走：[REN13 上脘](./REN13.md) + [HE7 神门](./HE7.md)（《百症赋》）。  

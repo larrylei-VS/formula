@@ -1,0 +1,70 @@
+### Central Courtyard ZHŌNGTÍNG
+![[REN-16 中庭.png|250]]
+#### Location
+
+On the midline of the sternum at the level of the sternocostal angle.
+
+#### Location Notes
+
+i. To locate the sternocostal angle see [Surface Anantomy](https://app.amanualofacupuncture.com/book/pages/about-point-location-needling/surface-anatomy); ii. This point is level with the fifth intercostal space at the mamillary line.
+
+#### Needling
+
+Transverse insertion, directed superiorly or inferiorly along the midline, 0.5 cun.
+
+#### Actions
+
+- Unbinds the chest
+- Regulates the Stomach and descends rebellion
+
+#### Indications
+
+- Fullness of the chest and lateral costal region, oesophageal constriction, difficult ingestion, vomiting after eating, vomiting of breast milk in infants, cold and pain of the umbilicus.
+
+#### Summary of clinical application
+
+- Indicated for fullness of the chest and lateral costal region, oesophageal constriction, difficult ingestion, vomiting after eating, vomiting of breast milk in infants, cold and pain of the umbilicus.
+- Little used clinically except as a point location reference.
+
+#### Combinations
+
+- Vomiting: Zhōngtíng REN-16, [Shūfǔ KID-27](https://app.amanualofacupuncture.com/point/KID-27) and [Yìshè BL-49](https://app.amanualofacupuncture.com/point/BL-49) (Supplementing Life).
+- Oesophageal constriction, with difficult ingestion and vomiting: Zhōngtíng REN-16 and [Zhōngfǔ LU-1](https://app.amanualofacupuncture.com/point/LU-1) (Thousand Ducat Formulas).
+- Difficult ingestion: Zhōngtíng REN-16, Zigong REN‑19 and [Dǎnshū BL-19](https://app.amanualofacupuncture.com/point/BL-19) (Thousand Ducat Formulas).
+
+### 1. [REN16 中庭](./REN16.md)
+
+#### 1.1. Central Courtyard 中庭
+
+#### 1.2. 定位
+
+位于胸骨中线，胸肋角水平。
+
+#### 1.3. 定位说明
+
+1. 定位胸肋角见表面解剖学；  
+2. 此穴与乳头线第五肋间隙水平对应。
+
+#### 1.4. 针刺方法
+
+沿中线向上或向下平刺，深0.5寸。
+
+#### 1.5. 作用
+
+- 宽胸  
+- 和胃降逆  
+
+#### 1.6. 主治
+
+- 胸胁满、食管痉挛、吞咽难、食后呕吐、婴儿吐乳、脐冷痛。  
+
+#### 1.7. 临床应用总结
+
+- 适用于胸胁满、食管痉挛、吞咽难、食后呕吐、婴儿吐乳、脐冷痛。  
+- 临床少用，多作定位参考。  
+
+#### 1.8. 配伍
+
+- 呕吐：[REN16 中庭](./REN16.md) + [KID27 俞府](./KID27.md) + [BL49 意舍](./BL49.md)（《补命》）。  
+- 食管痉挛伴吞咽难及呕吐：[REN16 中庭](./REN16.md) + [LU1 中府](./LU1.md)（《千金方》）。  
+- 吞咽难：[REN16 中庭](./REN16.md) + [REN19 紫宫](./REN19.md) + [BL19 胆俞](./BL19.md)（《千金方》）。  
