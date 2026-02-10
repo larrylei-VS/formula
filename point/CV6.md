@@ -113,17 +113,17 @@ By virtue of its dual actions of tonifying and regulating qi, Qìhǎi CV-6 is 
 #### 1.8. 配伍
 
 - 喘急不安：[CV6 气海](/point/CV6.md) + [CV21 玄机](/point/CV21.md)（《玉龙颂》）。  
-- 阳痿：[CV6 气海](/point/CV6.md) + [DU4 命门](/point/DU4.md) + [BL23 肾俞](/point/BL23.md) + [KID2 然谷](/point/KID2.md)（《图翼》）。  
+- 阳痿：[CV6 气海](/point/CV6.md) + [DU4 命门](/point/DU4.md) + [BL23 肾俞](/point/BL23.md) + [KD2 然谷](/point/KD2.md)（《图翼》）。  
 - 白浊及慢性遗精：[CV6 气海](/point/CV6.md) + [SP6 三阴交](/point/SP6.md)（《百症赋》）。  
 - 心悸失眠：[CV6 气海](/point/CV6.md) + [SP6 三阴交](/point/SP6.md) + [ST27 大巨](/point/ST27.md)（《补命》）。  
 - 月经不调：[CV6 气海](/point/CV6.md) + [CV3 中极](/point/CV3.md) + [GB26 带脉](/point/GB26.md) + [BL23 肾俞](/point/BL23.md) + [SP6 三阴交](/point/SP6.md)（《大成》）。  
 - 产后血块痛：[CV6 气海](/point/CV6.md) + [SP6 三阴交](/point/SP6.md)（《大成》）。  
 - 痛经：[CV6 气海](/point/CV6.md) + [BL27 小肠俞](/point/BL27.md)（《补命》）。  
 - 赤白带下：[CV6 气海](/point/CV6.md) + [CV4 关元](/point/CV4.md) + [PC5 间使](/point/PC5.md) + [BL30 白环俞](/point/BL30.md) + [GB26 带脉](/point/GB26.md) + [SP6 三阴交](/point/SP6.md)（《大成》）。  
-- 赤痢：[CV6 气海](/point/CV6.md) + [PC6 内关](/point/PC6.md) + [ST25 天枢](/point/ST25.md) + [ST44 内庭](/point/ST44.md) + [SP1 隐白](/point/SP1.md) + [KID6 照海](/point/KID6.md)（《大成》）。  
+- 赤痢：[CV6 气海](/point/CV6.md) + [PC6 内关](/point/PC6.md) + [ST25 天枢](/point/ST25.md) + [ST44 内庭](/point/ST44.md) + [SP1 隐白](/point/SP1.md) + [KD6 照海](/point/KD6.md)（《大成》）。  
 - 便血：[CV6 气海](/point/CV6.md) + [CV12 中脘](/point/CV12.md) + [ST36 足三里](/point/ST36.md)（《荣集》）。  
 - 尿赤不畅：[CV6 气海](/point/CV6.md) + [CV4 关元](/point/CV4.md) + [BL54 秩边](/point/BL54.md) + [BL48 阳纲](/point/BL48.md)（《补命》）。  
-- 尿色深：[CV6 气海](/point/CV6.md) + [CV4 关元](/point/CV4.md) + [KID3 太溪](/point/KID3.md) + [KID10 阴谷](/point/KID10.md) + [BL23 肾俞](/point/BL23.md) + [BL28 膀胱俞](/point/BL28.md)（《大成》）。  
-- 尿闭：[CV6 气海](/point/CV6.md) + [SP6 三阴交](/point/SP6.md) + [SP9 阴陵泉](/point/SP9.md)，继以[KID10 阴谷](/point/KID10.md) + [PC7 大陵](/point/PC7.md)（《大成》）。  
-- 五淋伴尿不出：[CV6 气海](/point/CV6.md) + [LIV1 大敦](/point/LIV1.md)（《千金方》）。  
+- 尿色深：[CV6 气海](/point/CV6.md) + [CV4 关元](/point/CV4.md) + [KD3 太溪](/point/KD3.md) + [KD10 阴谷](/point/KD10.md) + [BL23 肾俞](/point/BL23.md) + [BL28 膀胱俞](/point/BL28.md)（《大成》）。  
+- 尿闭：[CV6 气海](/point/CV6.md) + [SP6 三阴交](/point/SP6.md) + [SP9 阴陵泉](/point/SP9.md)，继以[KD10 阴谷](/point/KD10.md) + [PC7 大陵](/point/PC7.md)（《大成》）。  
+- 五淋伴尿不出：[CV6 气海](/point/CV6.md) + [LR1 大敦](/point/LR1.md)（《千金方》）。  
 - 五淋：[CV6 气海](/point/CV6.md) + [SP10 血海](/point/SP10.md)（《大成》）。  

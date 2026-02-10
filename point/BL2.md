@@ -98,6 +98,6 @@ i. 横斜刺，向下（朝向**[BL1 睛明](/point/BL1.md)**）治疗眼部疾�
 * 酒醉后头风：**[BL2 攒竹](/point/BL2.md)**，印堂（经外穴 **[MHN3 印堂](/point/MHN3.md)**）和 **[ST36 足三里](/point/ST36.md)**（《针灸大成》）。
 * 眉棱骨痛：**[BL2 攒竹](/point/BL2.md)** 和 **[ST8 头维](/point/ST8.md)**（《玉龙歌》）。
 * 眼睑跳动：**[BL2 攒竹](/point/BL2.md)** 和 **[ST8 头维](/point/ST8.md)**（《针灸大成》）。
-* 鼻炎清涕：**[BL2 攒竹](/point/BL2.md)**，**[BL12 风门](/point/BL12.md)**，**[DU24 神庭](/point/DU24.md)**，**[LI4 合谷](/point/LI4.md)**，**[LI20 迎香](/point/LI20.md)**，**[BL67 至阴](/point/BL67.md)** 和 **[KID20 腹通谷](/point/KID20.md)**（《千金方》）。
+* 鼻炎清涕：**[BL2 攒竹](/point/BL2.md)**，**[BL12 风门](/point/BL12.md)**，**[DU24 神庭](/point/DU24.md)**，**[LI4 合谷](/point/LI4.md)**，**[LI20 迎香](/point/LI20.md)**，**[BL67 至阴](/point/BL67.md)** 和 **[KD20 腹通谷](/point/KD20.md)**（《千金方》）。
 
 ---

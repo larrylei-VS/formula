@@ -68,4 +68,4 @@ Perpendicular-oblique superior insertion 0.5 to 1 cun.
 
 #### 1.8. 配伍
 
-- 风癫痫：[DU6 脊中](/point/DU6.md) + [KID1 涌泉](/point/KID1.md)（《补命》）。
+- 风癫痫：[DU6 脊中](/point/DU6.md) + [KD1 涌泉](/point/KD1.md)（《补命》）。

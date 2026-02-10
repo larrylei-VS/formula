@@ -118,7 +118,7 @@ Finally, according to the Spiritual Pivot[8](https://app.amanualofacupuncture.c
 #### **穴位组合 (Combinations)**
 
 * 卒中癫狂：**[PC5 间使](/point/PC5.md)**，**[LI4 合谷](/point/LI4.md)** 和 **[SI3 后溪](/point/SI3.md)**（《针灸大成》）。
-* 癫狂：**[PC5 间使](/point/PC5.md)**，**[DU20 百会](/point/DU20.md)**，**[KID7 复溜](/point/KID7.md)**，**[KID10 阴谷](/point/KID10.md)** 和 **[ST36 足三里](/point/ST36.md)**（《图翼》）。
+* 癫狂：**[PC5 间使](/point/PC5.md)**，**[DU20 百会](/point/DU20.md)**，**[KD7 复溜](/point/KD7.md)**，**[KD10 阴谷](/point/KD10.md)** 和 **[ST36 足三里](/point/ST36.md)**（《图翼》）。
 * 癫痫：**[PC5 间使](/point/PC5.md)** 和 **[DU26 人中](/point/DU26.md)**（《神光赋》）。
 * 过度惊吓：**[PC5 间使](/point/PC5.md)**，**[HE6 阴郄](/point/HE6.md)**，**[LI2 二间](/point/LI2.md)** 和 **[ST45 厉兑](/point/ST45.md)**（《资生经》）。
 * 咽喉阻塞：**[PC5 间使](/point/PC5.md)** 和 **[LI3 三间](/point/LI3.md)**（《针灸大成》）。

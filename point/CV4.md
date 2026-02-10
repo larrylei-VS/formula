@@ -145,13 +145,13 @@ Finally, due to its powerful ability to restore the yang, Guānyuán CV-4 is u
 
 - 风眩及头痛：[CV4 关元](/point/CV4.md) + [BL12 风门](/point/BL12.md) + [BL60 昆仑](/point/BL60.md) + [SJ16 天牖](/point/SJ16.md) + [SJ1 关冲](/point/SJ1.md)（《千金方》）。  
 - 身热伴头痛时来时去：[CV4 关元](/point/CV4.md) + [DU11 神道](/point/DU11.md)（《千金方》）。  
-- 胁部胀满：[CV4 关元](/point/CV4.md) + [LIV14 期门](/point/LIV14.md) + [LU11 少商](/point/LU11.md)（《千金方》）。  
-- 下腹热感及痛：[CV4 关元](/point/CV4.md) + [BL40 委中](/point/BL40.md) + [KID6 照海](/point/KID6.md) + [KID3 太溪](/point/KID3.md)（《千金方》）。  
-- 腹满放射至背、一侧睾丸肿垂：[CV4 关元](/point/CV4.md)（灸3壮）+ [LIV1 大敦](/point/LIV1.md)（灸7壮）（《大成》）。  
-- 女子奔豚气：[CV4 关元](/point/CV4.md) + [CV3 中极](/point/CV3.md) + [SP6 三阴交](/point/SP6.md) + [CV5 石门](/point/CV5.md) + [SP10 血海](/point/SP10.md) + [LIV14 期门](/point/LIV14.md)（《补命》）。  
+- 胁部胀满：[CV4 关元](/point/CV4.md) + [LR14 期门](/point/LR14.md) + [LU11 少商](/point/LU11.md)（《千金方》）。  
+- 下腹热感及痛：[CV4 关元](/point/CV4.md) + [BL40 委中](/point/BL40.md) + [KD6 照海](/point/KD6.md) + [KD3 太溪](/point/KD3.md)（《千金方》）。  
+- 腹满放射至背、一侧睾丸肿垂：[CV4 关元](/point/CV4.md)（灸3壮）+ [LR1 大敦](/point/LR1.md)（灸7壮）（《大成》）。  
+- 女子奔豚气：[CV4 关元](/point/CV4.md) + [CV3 中极](/point/CV3.md) + [SP6 三阴交](/point/SP6.md) + [CV5 石门](/point/CV5.md) + [SP10 血海](/point/SP10.md) + [LR14 期门](/point/LR14.md)（《补命》）。  
 - 尿赤不畅：[CV4 关元](/point/CV4.md) + [BL54 秩边](/point/BL54.md) + [CV6 气海](/point/CV6.md) + [BL48 阳纲](/point/BL48.md)（《补命》）。  
 - 尿不出：[CV4 关元](/point/CV4.md) + [CV5 石门](/point/CV5.md) + [CV3 中极](/point/CV3.md) + [CV2 曲骨](/point/CV2.md) + [SP6 三阴交](/point/SP6.md)（《补命》）。  
-- 尿色深：[CV4 关元](/point/CV4.md) + [CV6 气海](/point/CV6.md) + [KID3 太溪](/point/KID3.md) + [KID10 阴谷](/point/KID10.md) + [BL23 肾俞](/point/BL23.md) + [BL28 膀胱俞](/point/BL28.md)（《大成》）。  
+- 尿色深：[CV4 关元](/point/CV4.md) + [CV6 气海](/point/CV6.md) + [KD3 太溪](/point/KD3.md) + [KD10 阴谷](/point/KD10.md) + [BL23 肾俞](/point/BL23.md) + [BL28 膀胱俞](/point/BL28.md)（《大成》）。  
 - 便失禁：[CV4 关元](/point/CV4.md) + [BL25 大肠俞](/point/BL25.md)（《大成》）。  
-- 排便困难：[CV4 关元](/point/CV4.md) + [KID4 大钟](/point/KID4.md) + [BL33 中膂](/point/BL33.md) + [BL56 承筋](/point/BL56.md) + [LIV3 太冲](/point/LIV3.md) + [BL57 承山](/point/BL57.md) + [KID3 太溪](/point/KID3.md) + [CV12 中脘](/point/CV12.md)（《补命》）。  
-- 腹泻及痢疾不止：[CV4 关元](/point/CV4.md) + [KID3 太溪](/point/KID3.md)（《千金方》）。  
+- 排便困难：[CV4 关元](/point/CV4.md) + [KD4 大钟](/point/KD4.md) + [BL33 中膂](/point/BL33.md) + [BL56 承筋](/point/BL56.md) + [LR3 太冲](/point/LR3.md) + [BL57 承山](/point/BL57.md) + [KD3 太溪](/point/KD3.md) + [CV12 中脘](/point/CV12.md)（《补命》）。  
+- 腹泻及痢疾不止：[CV4 关元](/point/CV4.md) + [KD3 太溪](/point/KD3.md)（《千金方》）。  

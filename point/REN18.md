@@ -71,7 +71,7 @@ Transverse insertion directed superiorly or inferiorly along the channel, 0.5 to
 
 #### 1.8. 配伍
 
-- 咳嗽伴气逆及烦躁：[REN18 玉堂](/point/REN18.md) + [REN19 紫宫](/point/REN19.md) + [KID3 太溪](/point/KID3.md)（《千金方》）。  
-- 心烦及呕吐：[REN18 玉堂](/point/REN18.md) + [KID21 幽门](/point/KID21.md)（《百症赋》）。  
+- 咳嗽伴气逆及烦躁：[REN18 玉堂](/point/REN18.md) + [REN19 紫宫](/point/REN19.md) + [KD3 太溪](/point/KD3.md)（《千金方》）。  
+- 心烦及呕吐：[REN18 玉堂](/point/REN18.md) + [KD21 幽门](/point/KD21.md)（《百症赋》）。  
 - 骨痛：[REN18 玉堂](/point/REN18.md) + [REN19 紫宫](/point/REN19.md) + [BL17 膈俞](/point/BL17.md)（《补命》）。  
 

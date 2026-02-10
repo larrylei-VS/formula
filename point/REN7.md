@@ -91,6 +91,6 @@ Finally, like several points which affect the Penetrating vessel, Yīnjiāo REN
 
 - 子宫出血不止：[REN7 阴交](/point/REN7.md) + [REN5 石门](/point/REN5.md)（《补命》）。  
 - 不孕症：[REN7 阴交](/point/REN7.md) + [REN5 石门](/point/REN5.md)（《百症赋》）。  
-- 生殖器瘙痒：[REN7 阴交](/point/REN7.md) + [LIV8 曲泉](/point/LIV8.md)（《补命》）。  
+- 生殖器瘙痒：[REN7 阴交](/point/REN7.md) + [LR8 曲泉](/point/LR8.md)（《补命》）。  
 - 下腹硬痛放射至生殖器伴尿不出：[REN7 阴交](/point/REN7.md) + [REN5 石门](/point/REN5.md) + [BL39 委阳](/point/BL39.md)（《补命》）。  
-- 舌裂出血：[REN7 阴交](/point/REN7.md) + [PC6 内关](/point/PC6.md) + [LIV3 太冲](/point/LIV3.md)（《杂病》）。  
+- 舌裂出血：[REN7 阴交](/point/REN7.md) + [PC6 内关](/point/PC6.md) + [LR3 太冲](/point/LR3.md)（《杂病》）。  

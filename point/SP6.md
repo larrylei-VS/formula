@@ -184,40 +184,40 @@ Finally Sānyīnjiāo SP-6 is cited in the Song of the Song of the Nine Needl
 #### 穴位组合 (Combinations)
 
 * 大便完谷不化：补[SP6 三阴交](/point/SP6.md) 和[SP9 阴陵泉](/point/SP9.md)（《灵枢》）。
-* 稀溏腹泻：[SP6 三阴交](/point/SP6.md)，[REN8 神阙](/point/REN8.md) 和[LIV3 太冲](/point/LIV3.md)（《针灸大成》）。
+* 稀溏腹泻：[SP6 三阴交](/point/SP6.md)，[REN8 神阙](/point/REN8.md) 和[LR3 太冲](/point/LR3.md)（《针灸大成》）。
 * 大便完谷不化：[SP6 三阴交](/point/SP6.md) 和[REN12 中脘](/point/REN12.md)（《资生经》）。
 * 大便完谷不化：[SP6 三阴交](/point/SP6.md)，[ST21 梁门](/point/ST21.md)，[ST36 足三里](/point/ST36.md)，[BL25 大肠俞](/point/BL25.md)，[REN10 下脘](/point/REN10.md)，[BL22 三焦俞](/point/BL22.md) 和[DU5 悬枢](/point/DU5.md)（《资生经》）。
 * 霍乱吐泻，头痛，胸痛，喘鸣：[SP6 三阴交](/point/SP6.md)，[ST9 人迎](/point/ST9.md)，[PC6 内关](/point/PC6.md)，[SJ1 关冲](/point/SJ1.md) 和[ST36 足三里](/point/ST36.md)（《聚英》）。
 * 脾虚便秘：[SP6 三阴交](/point/SP6.md) 和[SP5 商丘](/point/SP5.md)（《针灸大成》）。
 * 月经不调：[SP6 三阴交](/point/SP6.md)，[GB26 带脉](/point/GB26.md)，[REN6 气海](/point/REN6.md)，[REN3 中极](/point/REN3.md) 和[BL23 肾俞](/point/BL23.md)（《针灸大成》）。
 * 月经不通：[SP6 三阴交](/point/SP6.md)，[GB41 足临泣](/point/GB41.md) 和[REN3 中极](/point/REN3.md)（《针灸大成》）。
-* 崩漏不止：[SP6 三阴交](/point/SP6.md)，[KID8 交信](/point/KID8.md)，[KID10 阴谷](/point/KID10.md) 和[LIV3 太冲](/point/LIV3.md)（《资生经》）。
-* 崩漏不止：[SP6 三阴交](/point/SP6.md) 和[LIV3 太冲](/point/LIV3.md)（《针灸大成》）。
+* 崩漏不止：[SP6 三阴交](/point/SP6.md)，[KD8 交信](/point/KD8.md)，[KD10 阴谷](/point/KD10.md) 和[LR3 太冲](/point/LR3.md)（《资生经》）。
+* 崩漏不止：[SP6 三阴交](/point/SP6.md) 和[LR3 太冲](/point/LR3.md)（《针灸大成》）。
 * 多产妇：[SP6 三阴交](/point/SP6.md) 和[REN5 石门](/point/REN5.md)（《针灸大成》）。
-* 难产：泻[SP6 三阴交](/point/SP6.md) 和[LIV3 太冲](/point/LIV3.md)，补[LI4 合谷](/point/LI4.md)（《针灸大成》）。
+* 难产：泻[SP6 三阴交](/point/SP6.md) 和[LR3 太冲](/point/LR3.md)，补[LI4 合谷](/point/LI4.md)（《针灸大成》）。
 * 胞衣不下：泻[SP6 三阴交](/point/SP6.md) 和[REN3 中极](/point/REN3.md)（《针灸大成》）。
 * 胞衣不下：[SP6 三阴交](/point/SP6.md)，[GB21 肩井](/point/GB21.md) 和[REN3 中极](/point/REN3.md)（《类经图翼》）。
 * 产后眩晕：[SP6 三阴交](/point/SP6.md)，[ST36 足三里](/point/ST36.md) 和[SJ6 支沟](/point/SJ6.md)（《针灸大成》）。
 * 产后血瘀痛：[SP6 三阴交](/point/SP6.md) 和[REN6 气海](/point/REN6.md)（《针灸大成》）。
 * 阴道暴肿、红肿疼痛：[SP6 三阴交](/point/SP6.md)，[REN1 会阴](/point/REN1.md) 和[REN3 中极](/point/REN3.md)（《针灸大成》）。
 * 赤白带下：[SP6 三阴交](/point/SP6.md)，[BL30 白环俞](/point/BL30.md)，[GB26 带脉](/point/GB26.md)，[REN4 关元](/point/REN4.md)，[REN6 气海](/point/REN6.md) 和[PC5 间使](/point/PC5.md)（《针灸大成》）。
-* 阴茎疼痛：[SP6 三阴交](/point/SP6.md)，[LU10 鱼际](/point/LU10.md)，[KID3 太溪](/point/KID3.md) 和[REN3 中极](/point/REN3.md)（《针灸大成》）。
-* 睾丸下坠肿胀无痛：[SP6 三阴交](/point/SP6.md)，[ST29 归来](/point/ST29.md) 和[LIV1 大敦](/point/LIV1.md)（《针灸大成》）。
+* 阴茎疼痛：[SP6 三阴交](/point/SP6.md)，[LU10 鱼际](/point/LU10.md)，[KD3 太溪](/point/KD3.md) 和[REN3 中极](/point/REN3.md)（《针灸大成》）。
+* 睾丸下坠肿胀无痛：[SP6 三阴交](/point/SP6.md)，[ST29 归来](/point/ST29.md) 和[LR1 大敦](/point/LR1.md)（《针灸大成》）。
 * 白浊和慢性遗精：[SP6 三阴交](/point/SP6.md) 和[REN6 气海](/point/REN6.md)（《百症赋》）。
-* 七种疝气导致小腹疼痛：[SP6 三阴交](/point/SP6.md)，[KID6 照海](/point/KID6.md) 和[LIV8 曲泉](/point/LIV8.md)（《席弘赋》）。
-* 小便不利：[SP6 三阴交](/point/SP6.md)，[SP9 阴陵泉](/point/SP9.md) 和[REN6 气海](/point/REN6.md)；继而针刺[KID10 阴谷](/point/KID10.md) 和[PC7 大陵](/point/PC7.md)（《针灸大成》）。
+* 七种疝气导致小腹疼痛：[SP6 三阴交](/point/SP6.md)，[KD6 照海](/point/KD6.md) 和[LR8 曲泉](/point/LR8.md)（《席弘赋》）。
+* 小便不利：[SP6 三阴交](/point/SP6.md)，[SP9 阴陵泉](/point/SP9.md) 和[REN6 气海](/point/REN6.md)；继而针刺[KD10 阴谷](/point/KD10.md) 和[PC7 大陵](/point/PC7.md)（《针灸大成》）。
 * 不能小便：[SP6 三阴交](/point/SP6.md)，[REN5 石门](/point/REN5.md)，[REN4 关元](/point/REN4.md)，[REN3 中极](/point/REN3.md) 和[REN2 曲骨](/point/REN2.md)（《资生经》）。
-* 四肢水肿：[SP6 三阴交](/point/SP6.md)，[LIV6 中都](/point/LIV6.md)，[LI4 合谷](/point/LI4.md)，[LI11 曲池](/point/LI11.md)，[SJ3 中渚](/point/SJ3.md)，[SJ2 液门](/point/SJ2.md)，[LIV2 行间](/point/LIV2.md)，[ST44 内庭](/point/ST44.md) 和[SP9 阴陵泉](/point/SP9.md)（《针灸大成》）。
-* 女性奔豚气：[SP6 三阴交](/point/SP6.md)，[LIV14 期门](/point/LIV14.md)，[REN4 关元](/point/REN4.md)，[REN3 中极](/point/REN3.md)，[REN5 石门](/point/REN5.md) 和[SP10 血海](/point/SP10.md)（《资生经》）。
-* 奔豚气：[SP6 三阴交](/point/SP6.md)，[LIV13 章门](/point/LIV13.md) 和[REN5 石门](/point/REN5.md)（《千金方》）。
+* 四肢水肿：[SP6 三阴交](/point/SP6.md)，[LR6 中都](/point/LR6.md)，[LI4 合谷](/point/LI4.md)，[LI11 曲池](/point/LI11.md)，[SJ3 中渚](/point/SJ3.md)，[SJ2 液门](/point/SJ2.md)，[LR2 行间](/point/LR2.md)，[ST44 内庭](/point/ST44.md) 和[SP9 阴陵泉](/point/SP9.md)（《针灸大成》）。
+* 女性奔豚气：[SP6 三阴交](/point/SP6.md)，[LR14 期门](/point/LR14.md)，[REN4 关元](/point/REN4.md)，[REN3 中极](/point/REN3.md)，[REN5 石门](/point/REN5.md) 和[SP10 血海](/point/SP10.md)（《资生经》）。
+* 奔豚气：[SP6 三阴交](/point/SP6.md)，[LR13 章门](/point/LR13.md) 和[REN5 石门](/point/REN5.md)（《千金方》）。
 * 心悸失眠：[SP6 三阴交](/point/SP6.md)，[ST27 大巨](/point/ST27.md) 和[REN6 气海](/point/REN6.md)（《资生经》）。
 * 失眠：[SP6 三阴交](/point/SP6.md)，[SP9 阴陵泉](/point/SP9.md)，[SP1 隐白](/point/SP1.md)，[SP4 公孙](/point/SP4.md)，[BL13 肺俞](/point/BL13.md) 和[LU9 太渊](/point/LU9.md)（《针灸大成》）。
 * 寒湿腿气：[SP6 三阴交](/point/SP6.md) 和[ST36 足三里](/point/ST36.md)（《玉龙歌》）。
-* 髋部疼痛：[SP6 三阴交](/point/SP6.md)，[GB30 环跳](/point/GB30.md)，[BL65 束骨](/point/BL65.md)，[KID8 交信](/point/KID8.md) 和[KID10 阴谷](/point/KID10.md)（《千金方》）。
+* 髋部疼痛：[SP6 三阴交](/point/SP6.md)，[GB30 环跳](/point/GB30.md)，[BL65 束骨](/point/BL65.md)，[KD8 交信](/point/KD8.md) 和[KD10 阴谷](/point/KD10.md)（《千金方》）。
 * 髋部疼痛伴行走困难及腿外侧皮肤疼痛：[SP6 三阴交](/point/SP6.md) 和[GB41 足临泣](/point/GB41.md)（《千金方》）。
 * 腿气：[SP6 三阴交](/point/SP6.md)，[ST36 足三里](/point/ST36.md) 和[GB39 悬钟](/point/GB39.md)（《玉龙赋》）。
 * 心脾两虚失眠：[SP6 三阴交](/point/SP6.md)，[HE7 神门](/point/HE7.md)，[ST36 足三里](/point/ST36.md) 和印堂（经外穴 M-HN-3）。
-* 心肾不交失眠：[SP6 三阴交](/point/SP6.md)，[HE7 神门](/point/HE7.md)，[KID3 太溪](/point/KID3.md) 和[KID6 照海](/point/KID6.md)。
+* 心肾不交失眠：[SP6 三阴交](/point/SP6.md)，[HE7 神门](/point/HE7.md)，[KD3 太溪](/point/KD3.md) 和[KD6 照海](/point/KD6.md)。
 * 肝火失眠：[SP6 三阴交](/point/SP6.md)，[HE7 神门](/point/HE7.md)，安眠（经外穴 N-HN-54），[BL18 肝俞](/point/BL18.md) 和[BL19 胆俞](/point/BL19.md)。
 
 ---

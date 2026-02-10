@@ -102,8 +102,8 @@ Finally, according to the Essential Questions[11](https://app.amanualofacupunct
 #### **穴位组合 (Combinations)**
 
 * 小便不利或尿潴留：**[HE8 少府](/point/HE8.md)** 和 **[ST36 足三里](/point/ST36.md)**（《千金方》）。
-* 子宫脱垂：**[HE8 少府](/point/HE8.md)**，**[LIV3 太冲](/point/LIV3.md)**，**[KID6 照海](/point/KID6.md)** 和 **[LIV8 曲泉](/point/LIV8.md)**（《针灸大成》）。
-* 咽喉气结如息肉：**[HE8 少府](/point/HE8.md)** 和 **[LIV5 蠡沟](/point/LIV5.md)**（《千金方》）。
-* 气虚：**[HE8 少府](/point/HE8.md)**，**[BL28 膀胱俞](/point/BL28.md)**，**[HE9 少冲](/point/HE9.md)**，**[KID22 步廊](/point/KID22.md)**，**[LIV2 行间](/point/LIV2.md)**，**[BL23 肾俞](/point/BL23.md)** 和 **[KID5 水泉](/point/KID5.md)**（《资生经》）。
+* 子宫脱垂：**[HE8 少府](/point/HE8.md)**，**[LR3 太冲](/point/LR3.md)**，**[KD6 照海](/point/KD6.md)** 和 **[LR8 曲泉](/point/LR8.md)**（《针灸大成》）。
+* 咽喉气结如息肉：**[HE8 少府](/point/HE8.md)** 和 **[LR5 蠡沟](/point/LR5.md)**（《千金方》）。
+* 气虚：**[HE8 少府](/point/HE8.md)**，**[BL28 膀胱俞](/point/BL28.md)**，**[HE9 少冲](/point/HE9.md)**，**[KD22 步廊](/point/KD22.md)**，**[LR2 行间](/point/LR2.md)**，**[BL23 肾俞](/point/BL23.md)** 和 **[KD5 水泉](/point/KD5.md)**（《资生经》）。
 
 ---

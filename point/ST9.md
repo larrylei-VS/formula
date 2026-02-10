@@ -115,7 +115,7 @@ As long ago as the Yellow Emperor's Inner Classic, observation and palpation of
 * 瘰疬：灸[ST9 人迎](/point/ST9.md) 和[LI13 手五里](/point/LI13.md) 三十壮（《千金方》）。
 * 耳鸣伴腰痛：先针[ST9 人迎](/point/ST9.md)，后针[SJ21 耳门](/point/SJ21.md) 和[ST36 足三里](/point/ST36.md)（《天星秘诀》）。
 * 高血压：[ST9 人迎](/point/ST9.md)，[LI11 曲池](/point/LI11.md) 和[ST36 足三里](/point/ST36.md)。
-* 高血压：[ST9 人迎](/point/ST9.md)，[DU20 百会](/point/DU20.md)，[LI11 曲池](/point/LI11.md) 和[LIV3 太冲](/point/LIV3.md)。
+* 高血压：[ST9 人迎](/point/ST9.md)，[DU20 百会](/point/DU20.md)，[LI11 曲池](/point/LI11.md) 和[LR3 太冲](/point/LR3.md)。
 * 急性腰扭伤或任何急性疼痛：[ST9 人迎](/point/ST9.md) 双侧取穴或取患侧。
 
 ---

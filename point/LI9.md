@@ -84,6 +84,6 @@ See discussion of [Xiàlián LI-8](https://app.amanualofacupuncture.com/point/L
 
 腹部和胁肋部胀满：[LI9 上廉](/point/LI9.md)，[GB34 阳陵泉](/point/GB34.md) 和[GB41 足临泣](/point/GB41.md)（《针灸大成》）。
 
-呼吸困难，不能行走：[LI9 上廉](/point/LI9.md)，[LIV14 期门](/point/LIV14.md) 和[REN12 中脘](/point/REN12.md)（《针灸大成》）。
+呼吸困难，不能行走：[LI9 上廉](/point/LI9.md)，[LR14 期门](/point/LR14.md) 和[REN12 中脘](/point/REN12.md)（《针灸大成》）。
 
 ---

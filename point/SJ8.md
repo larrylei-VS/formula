@@ -86,7 +86,7 @@ The name Sanyangluo (Three Yang Luo) implies that this point is a meeting point 
 * 暴喑：**[SJ8 三阳络](/point/SJ8.md)** 和**[DU15 哑门](/point/DU15.md)**（《资生经》）。
 * 暴喑：**[SJ8 三阳络](/point/SJ8.md)**，**[SJ6 支沟](/point/SJ6.md)** 和**[BL66 足通谷](/point/BL66.md)**（《资生经》）。
 * 暴聋：**[SJ8 三阳络](/point/SJ8.md)** 和**[SJ2 液门](/point/SJ2.md)**（《资生经》）。
-* 四肢不欲动伴嗜睡：**[SJ8 三阳络](/point/SJ8.md)**，**[SJ10 天井](/point/SJ10.md)**，**[LIV10 足五里](/point/LIV10.md)**，**[ST45 厉兑](/point/ST45.md)** 和**[LI3 三间](/point/LI3.md)**（《千金方》）。
+* 四肢不欲动伴嗜睡：**[SJ8 三阳络](/point/SJ8.md)**，**[SJ10 天井](/point/SJ10.md)**，**[LR10 足五里](/point/LR10.md)**，**[ST45 厉兑](/point/ST45.md)** 和**[LI3 三间](/point/LI3.md)**（《千金方》）。
 * 胸胁疼痛：**[SJ8 三阳络](/point/SJ8.md)**，**[SP21 大包](/point/SP21.md)**，**[PC4 郗门](/point/PC4.md)**，**[GB38 阳辅](/point/GB38.md)** 和**[GB41 足临泣](/point/GB41.md)**。
 
 ---

@@ -90,8 +90,8 @@ The third and main clinical application of Shàohǎi HE-3, however, is in the t
 #### **穴位组合 (Combinations)**
 
 * 呕吐泡沫：**[HE3 少海](/point/HE3.md)**，**[DU27 兑端](/point/DU27.md)** 和 **[GB13 本神](/point/GB13.md)**（《资生经》）。
-* 呕吐泡沫（清水）唾液：**[HE3 少海](/point/HE3.md)** 和 **[KID9 筑宾](/point/KID9.md)**（《资生经》）。
-* 瘰疬：**[HE3 少海](/point/HE3.md)**，**[PC1 天池](/point/PC1.md)**，**[LIV13 章门](/point/LIV13.md)**，**[GB41 足临泣](/point/GB41.md)**，**[SJ6 支沟](/point/SJ6.md)**，**[GB38 阳辅](/point/GB38.md)**，**[GB21 肩井](/point/GB21.md)** 和 **[LI10 手三里](/point/LI10.md)**（《针灸大成》）。
+* 呕吐泡沫（清水）唾液：**[HE3 少海](/point/HE3.md)** 和 **[KD9 筑宾](/point/KD9.md)**（《资生经》）。
+* 瘰疬：**[HE3 少海](/point/HE3.md)**，**[PC1 天池](/point/PC1.md)**，**[LR13 章门](/point/LR13.md)**，**[GB41 足临泣](/point/GB41.md)**，**[SJ6 支沟](/point/SJ6.md)**，**[GB38 阳辅](/point/GB38.md)**，**[GB21 肩井](/point/GB21.md)** 和 **[LI10 手三里](/point/LI10.md)**（《针灸大成》）。
 * 瘰疬：**[HE3 少海](/point/HE3.md)** 和 **[SJ10 天井](/point/SJ10.md)**（《玉龙赋》）。
 * 狂言谵语伴恐惧：**[HE3 少海](/point/HE3.md)**，**[SI7 支正](/point/SI7.md)**，**[LU10 鱼际](/point/LU10.md)**，**[LI4 合谷](/point/LI4.md)**，**[LI11 曲池](/point/LI11.md)** 和 **[SI4 腕骨](/point/SI4.md)**（《千金方》）。
 * 舌强，舌体强硬：**[HE3 少海](/point/HE3.md)**，**[ST24 滑肉门](/point/ST24.md)** 和 **[LI7 温溜](/point/LI7.md)**（《资生经》）。

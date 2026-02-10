@@ -94,8 +94,8 @@ The affinity of Dìjī SP-8 for disorders of the lower abdomen is emphasised i
 #### 穴位组合 (Combinations)
 
 * 月经不调：[SP8 地机](/point/SP8.md) 和[SP10 血海](/point/SP10.md)（《百症赋》）。
-* 寒湿疝气：[SP8 地机](/point/SP8.md)，[ST27 大巨](/point/ST27.md) 和[LIV6 中都](/point/LIV6.md)（《针灸甲乙经》）。
-* 食欲不振：[SP8 地机](/point/SP8.md)，[SP9 阴陵泉](/point/SP9.md)，[REN9 水分](/point/REN9.md)，[KID21 幽门](/point/KID21.md) 和[BL27 小肠俞](/point/BL27.md)（《资生经》）。
+* 寒湿疝气：[SP8 地机](/point/SP8.md)，[ST27 大巨](/point/ST27.md) 和[LR6 中都](/point/LR6.md)（《针灸甲乙经》）。
+* 食欲不振：[SP8 地机](/point/SP8.md)，[SP9 阴陵泉](/point/SP9.md)，[REN9 水分](/point/REN9.md)，[KD21 幽门](/point/KD21.md) 和[BL27 小肠俞](/point/BL27.md)（《资生经》）。
 * 急性痛经：[SP8 地机](/point/SP8.md) 和[LI4 合谷](/point/LI4.md)。
 
 ---

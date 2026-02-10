@@ -199,11 +199,11 @@ i. 垂直刺0.5至1寸，或透刺**[SJ5 外关](/point/SJ5.md)**； ii. 向近�
 * 癫痫：**[PC6 内关](/point/PC6.md)**，**[SI3 后溪](/point/SI3.md)**，**[HE7 神门](/point/HE7.md)**，**[BL15 心俞](/point/BL15.md)** 和 **[SP1 隐白](/point/SP1.md)**（《大全集》）。
 * 霍乱吐泻，头痛，胸痛，喘鸣：**[PC6 内关](/point/PC6.md)**，**[ST9 人迎](/point/ST9.md)**，**[SJ1 关冲](/point/SJ1.md)**，**[SP6 三阴交](/point/SP6.md)** 和 **[ST36 足三里](/point/ST36.md)**（《聚英》）。
 * 吞咽困难：**[PC6 内关](/point/PC6.md)**，**[LU10 鱼际](/point/LU10.md)** 和 **[ST36 足三里](/point/ST36.md)**（《针灸大成》）。
-* 快速治疗腹部疾病：**[PC6 内关](/point/PC6.md)** 和 **[KID6 照海](/point/KID6.md)**（《玉龙歌》）。
+* 快速治疗腹部疾病：**[PC6 内关](/point/PC6.md)** 和 **[KD6 照海](/point/KD6.md)**（《玉龙歌》）。
 * 腹痛：**[PC6 内关](/point/PC6.md)** 和 **[SP4 公孙](/point/SP4.md)**（《席弘赋》）。
 * 腹痛：**[PC6 内关](/point/PC6.md)**，**[ST36 足三里](/point/ST36.md)** 和 **[REN12 中脘](/point/REN12.md)**（《针灸大成》）。
-* 舌裂出血：**[PC6 内关](/point/PC6.md)**，**[LIV3 太冲](/point/LIV3.md)** 和 **[REN7 阴交](/point/REN7.md)**（《杂病穴法歌》）。
-* 赤痢（血痢）：**[PC6 内关](/point/PC6.md)**，**[ST25 天枢](/point/ST25.md)**，**[ST44 内庭](/point/ST44.md)**，**[SP1 隐白](/point/SP1.md)**，**[REN6 气海](/point/REN6.md)** 和 **[KID6 照海](/point/KID6.md)**（《针灸大成》）。
-* 肝气郁结导致乳汁不足：**[PC6 内关](/point/PC6.md)**，**[ST18 乳根](/point/ST18.md)**，**[REN17 膻中](/point/REN17.md)**，**[SI1 少泽](/point/SI1.md)** 和 **[LIV3 太冲](/point/LIV3.md)**。
+* 舌裂出血：**[PC6 内关](/point/PC6.md)**，**[LR3 太冲](/point/LR3.md)** 和 **[REN7 阴交](/point/REN7.md)**（《杂病穴法歌》）。
+* 赤痢（血痢）：**[PC6 内关](/point/PC6.md)**，**[ST25 天枢](/point/ST25.md)**，**[ST44 内庭](/point/ST44.md)**，**[SP1 隐白](/point/SP1.md)**，**[REN6 气海](/point/REN6.md)** 和 **[KD6 照海](/point/KD6.md)**（《针灸大成》）。
+* 肝气郁结导致乳汁不足：**[PC6 内关](/point/PC6.md)**，**[ST18 乳根](/point/ST18.md)**，**[REN17 膻中](/point/REN17.md)**，**[SI1 少泽](/point/SI1.md)** 和 **[LR3 太冲](/point/LR3.md)**。
 
 ---

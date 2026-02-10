@@ -85,10 +85,10 @@ Shénquè REN-8 has two principal actions. Firstly it is an important point to 
 #### 1.8. 配伍
 
 - 肠鸣腹泻：[REN8 神阙](/point/REN8.md) + [REN9 水分](/point/REN9.md) + [LI3 三间](/point/LI3.md)（《大成》）。  
-- 泻稀：[REN8 神阙](/point/REN8.md) + [LIV3 太冲](/point/LIV3.md) + [SP6 三阴交](/point/SP6.md)（《大成》）。  
+- 泻稀：[REN8 神阙](/point/REN8.md) + [LR3 太冲](/point/LR3.md) + [SP6 三阴交](/point/SP6.md)（《大成》）。  
 - 直肠脱垂：[REN8 神阙](/point/REN8.md) + [DU20 百会](/point/DU20.md) + [BL28 膀胱俞](/point/BL28.md)（《汇编》）。  
 - 脐周疝病：[REN8 神阙](/point/REN8.md) + [ST25 天枢](/point/ST25.md) + [REN5 石门](/point/REN5.md)（《补命》）。  
-- 脐周痛：[REN8 神阙](/point/REN8.md) + [REN9 水分](/point/REN9.md) + [LIV4 中封](/point/LIV4.md)（《补命》）。  
+- 脐周痛：[REN8 神阙](/point/REN8.md) + [REN9 水分](/point/REN9.md) + [LR4 中封](/point/LR4.md)（《补命》）。  
 - 脐周痛：[REN8 神阙](/point/REN8.md) + [REN9 水分](/point/REN9.md) + [REN6 气海](/point/REN6.md)（《大成》）。  
 - 下腹疝病：[REN8 神阙](/point/REN8.md) + [REN5 石门](/point/REN5.md) + [ST25 天枢](/point/ST25.md) + [REN6 气海](/point/REN6.md)（《千金方》）。  
-- 水肿伴气胀满：[REN8 神阙](/point/REN8.md) + [KID7 复溜](/point/KID7.md)（《大成》）。  
+- 水肿伴气胀满：[REN8 神阙](/point/REN8.md) + [KD7 复溜](/point/KD7.md)（《大成》）。  

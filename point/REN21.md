@@ -66,7 +66,7 @@ The strong descending action of this point extends also to the Lung and it is in
 
 #### 1.6. 论述
 
-[REN21 璇玑](/point/REN21.md)与[ST36 足三里](/point/ST36.md)的组合长期被视为治疗胃食积的首选。[REN21 璇玑](/point/REN21.md)与许多任脉穴一样能调胃，《阐秘颂》称：“天地人三才，[DU20 百会](/point/DU20.md)应天，[REN21 璇玑](/point/REN21.md)应人，[KID1 涌泉](/point/KID1.md)应地。”以此三分法，上焦应天吸天之气，下焦应地尤指肾，中焦居天地间应人，故对应胃。  
+[REN21 璇玑](/point/REN21.md)与[ST36 足三里](/point/ST36.md)的组合长期被视为治疗胃食积的首选。[REN21 璇玑](/point/REN21.md)与许多任脉穴一样能调胃，《阐秘颂》称：“天地人三才，[DU20 百会](/point/DU20.md)应天，[REN21 璇玑](/point/REN21.md)应人，[KD1 涌泉](/point/KD1.md)应地。”以此三分法，上焦应天吸天之气，下焦应地尤指肾，中焦居天地间应人，故对应胃。  
 
 此穴强效降气亦延至肺，适用于肺气上逆引起的咳嗽、喘鸣及呼吸困难。  
 
@@ -81,4 +81,4 @@ The strong descending action of this point extends also to the Lung and it is in
 - 胃积：[REN21 璇玑](/point/REN21.md) + [ST36 足三里](/point/ST36.md)（《西弘颂》）。  
 - 胃食阻滞：[REN21 璇玑](/point/REN21.md) + [ST36 足三里](/point/ST36.md)（《天星穴》）。  
 - 急促呼吸困难：[REN21 璇玑](/point/REN21.md) + [REN6 气海](/point/REN6.md)（《玉龙颂》）。  
-- 胸满伴颈僵：[REN21 璇玑](/point/REN21.md) + [KID25 神藏](/point/KID25.md)（《百症赋》）。  
+- 胸满伴颈僵：[REN21 璇玑](/point/REN21.md) + [KD25 神藏](/point/KD25.md)（《百症赋》）。  

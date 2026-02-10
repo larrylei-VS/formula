@@ -121,15 +121,15 @@ According to qigong theory, there are three important gates or passes (sanguan) 
 
 #### 1.9. 配伍
 
-- 五种痔疮：[DU1 长强](/point/DU1.md) + [BL40 委中](/point/BL40.md) + [BL57 承山](/point/BL57.md) + [BL58 飞阳](/point/BL58.md) + [GB38 阳辅](/point/GB38.md) + [KID7 复溜](/point/KID7.md) + [LIV3 太冲](/point/LIV3.md) + [GB43 侠溪](/point/GB43.md) + [REN6 气海](/point/REN6.md) + [REN1 会阴](/point/REN1.md)（《大成》）。  
+- 五种痔疮：[DU1 长强](/point/DU1.md) + [BL40 委中](/point/BL40.md) + [BL57 承山](/point/BL57.md) + [BL58 飞阳](/point/BL58.md) + [GB38 阳辅](/point/GB38.md) + [KD7 复溜](/point/KD7.md) + [LR3 太冲](/point/LR3.md) + [GB43 侠溪](/point/GB43.md) + [REN6 气海](/point/REN6.md) + [REN1 会阴](/point/REN1.md)（《大成》）。  
 - 九种痔疮（伴出血）：[DU1 长强](/point/DU1.md) + [BL57 承山](/point/BL57.md)（《玉龙颂》）。  
 - 慢性痔疮：[DU1 长强](/point/DU1.md) + [MUE29 二白](/point/MUE29.md) + [BL57 承山](/point/BL57.md)（《大成》）。  
 - 直肠脱垂及痔疮：[DU1 长强](/point/DU1.md) + [MUE29 二白](/point/MUE29.md) + [DU20 百会](/point/DU20.md) + [BL52 志室](/point/BL52.md)（《大成》）。  
 - 直肠脱垂及痔疮：[DU1 长强](/point/DU1.md) + [BL25 大肠俞](/point/BL25.md) + [DU20 百会](/point/DU20.md) + [GB21 肩井](/point/GB21.md) + [LI4 合谷](/point/LI4.md) + [ST30 气冲](/point/ST30.md)（《汇编》）。  
 - 小儿直肠脱垂：[DU1 长强](/point/DU1.md) + [DU20 百会](/point/DU20.md) + [BL25 大肠俞](/point/BL25.md)（《大成》）。  
 - 尿便困难、尿滴沥潴留：[DU1 长强](/point/DU1.md) + [BL27 小肠俞](/point/BL27.md)（《千金方》）。  
-- 热便秘、气便秘：先针[DU1 长强](/point/DU1.md)，再针[LIV1 大敦](/point/LIV1.md) + [GB34 阳陵泉](/point/GB34.md)（《穴歌》）。  
+- 热便秘、气便秘：先针[DU1 长强](/point/DU1.md)，再针[LR1 大敦](/point/LR1.md) + [GB34 阳陵泉](/point/GB34.md)（《穴歌》）。  
 - 肠风（便血）：[DU1 长强](/point/DU1.md) + [BL57 承山](/point/BL57.md)（《百症赋》）。  
 - 小儿惊痫：[DU1 长强](/point/DU1.md) + [DU12 身柱](/point/DU12.md)（《补命》）。  
 - 小儿癫痫抽搐、呕吐腹泻、惊恐：[DU1 长强](/point/DU1.md) + [SJ18 翳脉](/point/SJ18.md)（《系统经典》）。  
-- 心痛伴气短：[DU1 长强](/point/DU1.md) + [LIV14 期门](/point/LIV14.md) + [REN22 天突](/point/REN22.md) + [LU4 侠白](/point/LU4.md) + [PC9 中冲](/point/PC9.md)（《千金方》）。  
+- 心痛伴气短：[DU1 长强](/point/DU1.md) + [LR14 期门](/point/LR14.md) + [REN22 天突](/point/REN22.md) + [LU4 侠白](/point/LU4.md) + [PC9 中冲](/point/PC9.md)（《千金方》）。  

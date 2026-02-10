@@ -92,7 +92,7 @@ The axillary region may be viewed as a gateway for the circulation of qi and blo
 #### **穴位组合 (Combinations)**
 
 * 心痛伴干呕，烦躁胀满：**[HE1 极泉](/point/HE1.md)** 和 **[PC4 郄门](/point/PC4.md)**（《资生经》）。
-* 咽喉干燥：**[HE1 极泉](/point/HE1.md)**，**[LU9 太渊](/point/LU9.md)**，**[LI6 偏历](/point/LI6.md)**，**[LIV3 太冲](/point/LIV3.md)** 和 **[REN22 天突](/point/REN22.md)**（《资生经》）。
+* 咽喉干燥：**[HE1 极泉](/point/HE1.md)**，**[LU9 太渊](/point/LU9.md)**，**[LI6 偏历](/point/LI6.md)**，**[LR3 太冲](/point/LR3.md)** 和 **[REN22 天突](/point/REN22.md)**（《资生经》）。
 * 四肢痿废不用：**[HE1 极泉](/point/HE1.md)**，**[GB24 日月](/point/GB24.md)** 和 **[BL20 脾俞](/point/BL20.md)**（《资生经》）。
 
 ---

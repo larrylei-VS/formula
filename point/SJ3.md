@@ -120,9 +120,9 @@ According to the Classic of Difficulties[5](https://app.amanualofacupuncture.co
 * 耳痛，耳聋耳鸣：**[SJ3 中渚](/point/SJ3.md)**，**[SJ1 关冲](/point/SJ1.md)**，**[SJ2 液门](/point/SJ2.md)**，**[SI16 天窗](/point/SI16.md)** 和 **[LI5 阳溪](/point/LI5.md)**（《千金方》）。
 * 视物眩晕：**[SJ3 中渚](/point/SJ3.md)** 和 **[GB15 头临泣](/point/GB15.md)**（《资生经》）。
 * 咽喉疼痛：**[SJ3 中渚](/point/SJ3.md)**，**[SJ6 支沟](/point/SJ6.md)** 和 **[ST44 内庭](/point/ST44.md)**（《千金方》）。
-* 咽喉肿胀：**[SJ3 中渚](/point/SJ3.md)** 和 **[KID3 太溪](/point/KID3.md)**（《资生经》）。
+* 咽喉肿胀：**[SJ3 中渚](/point/SJ3.md)** 和 **[KD3 太溪](/point/KD3.md)**（《资生经》）。
 * 慢性疟疾：**[SJ3 中渚](/point/SJ3.md)**，**[LI1 商阳](/point/LI1.md)** 和 **[GB40 丘墟](/point/GB40.md)**（《针灸大成》）。
-* 遍身壮热的疟疾：**[SJ3 中渚](/point/SJ3.md)**，**[KID19 阴都](/point/KID19.md)**，**[HE3 少海](/point/HE3.md)**，**[LI1 商阳](/point/LI1.md)** 和 **[LI3 三间](/point/LI3.md)**（《资生经》）。
+* 遍身壮热的疟疾：**[SJ3 中渚](/point/SJ3.md)**，**[KD19 阴都](/point/KD19.md)**，**[HE3 少海](/point/HE3.md)**，**[LI1 商阳](/point/LI1.md)** 和 **[LI3 三间](/point/LI3.md)**（《资生经》）。
 * 肘部和手指屈伸不利：**[SJ3 中渚](/point/SJ3.md)**，**[LI11 曲池](/point/LI11.md)**，**[LI10 手三里](/point/LI10.md)** 和 **[SJ5 外关](/point/SJ5.md)**（《针灸大成》）。
 * 肘部疼痛，有时觉冷：**[SJ3 中渚](/point/SJ3.md)**，**[LI11 曲池](/point/LI11.md)**，**[SJ1 关冲](/point/SJ1.md)**，**[LI10 手三里](/point/LI10.md)**，**[SI5 阳谷](/point/SI5.md)** 和 **[LU5 尺泽](/point/LU5.md)**（《千金方》）。
 * 五指挛缩屈伸不利：**[SJ3 中渚](/point/SJ3.md)** 和 **[SI4 腕骨](/point/SI4.md)**（《千金方》）。

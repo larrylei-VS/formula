@@ -113,13 +113,13 @@ Finally, like [Èrjiān LI-2](https://app.amanualofacupuncture.com/point/LI-2),
 
 龋齿痛：[LI3 三间](/point/LI3.md)，[ST5 大迎](/point/ST5.md) 和[GB17 正营](/point/GB17.md)（《保命集》）。
 
-口糜，口热口干：[LI3 三间](/point/LI3.md)，[PC8 劳宫](/point/PC8.md)，[SI1 少泽](/point/SI1.md) 和[LIV3 太冲](/point/LIV3.md)（《千金方》）。
+口糜，口热口干：[LI3 三间](/point/LI3.md)，[PC8 劳宫](/point/PC8.md)，[SI1 少泽](/point/SI1.md) 和[LR3 太冲](/point/LR3.md)（《千金方》）。
 
 咽部阻塞感：[LI3 三间](/point/LI3.md) 和[PC5 间使](/point/PC5.md)（《针灸大成》）。
 
 嗜睡：[LI3 三间](/point/LI3.md) 和[LI2 二间](/point/LI2.md)（《资生经》）。
 
-嗜睡，四肢不想动：[LI3 三间](/point/LI3.md)，[SJ8 三阳络](/point/SJ8.md)，[SJ10 天井](/point/SJ10.md)，[LIV10 足五里](/point/LIV10.md) 和[ST45 厉兑](/point/ST45.md)（《千金方》）。
+嗜睡，四肢不想动：[LI3 三间](/point/LI3.md)，[SJ8 三阳络](/point/SJ8.md)，[SJ10 天井](/point/SJ10.md)，[LR10 足五里](/point/LR10.md) 和[ST45 厉兑](/point/ST45.md)（《千金方》）。
 
 肠鸣腹泻：[LI3 三间](/point/LI3.md)，[REN8 神阙](/point/REN8.md) 和[REN9 水分](/point/REN9.md)（《针灸大成》）。
 

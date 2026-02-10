@@ -106,7 +106,7 @@ Finally the Great Compendium of Acupuncture and Moxibustion gives specific ind
 
 鼻炎伴鼻出血：[LI6 偏历](/point/LI6.md)，[LI4 合谷](/point/LI4.md)，[LI3 三间](/point/LI3.md)，[BL60 昆仑](/point/BL60.md) 和[BL66 足通谷](/point/BL66.md)（《资生经》）。
 
-咽喉干燥：[LI6 偏历](/point/LI6.md)，[HE1 极泉](/point/HE1.md)，[LU9 太渊](/point/LU9.md)，[LIV3 太冲](/point/LIV3.md) 和[REN22 天突](/point/REN22.md)（《资生经》）。
+咽喉干燥：[LI6 偏历](/point/LI6.md)，[HE1 极泉](/point/HE1.md)，[LU9 太渊](/point/LU9.md)，[LR3 太冲](/point/LR3.md) 和[REN22 天突](/point/REN22.md)（《资生经》）。
 
 肘部和前臂酸痛，屈伸不利：[LI6 偏历](/point/LI6.md) 和[LI10 手三里](/point/LI10.md)（《资生经》）。
 

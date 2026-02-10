@@ -88,8 +88,8 @@ As the name 'Container of Tears' suggests, Chéngqì ST-1 is especially import
 
 口歪不能言语：[ST1 承泣](/point/ST1.md)，[ST2 四白](/point/ST2.md)，[ST3 巨髎](/point/ST3.md)，[LI19 口禾髎](/point/LI19.md)，[GB3 上关](/point/GB3.md)，[ST5 大迎](/point/ST5.md)，[SI18 颧髎](/point/SI18.md)，[DU18 强间](/point/DU18.md)，[GB20 风池](/point/GB20.md)，[LI20 迎香](/point/LI20.md) 和[DU26 人中](/point/DU26.md)（《资生经》）。
 
-近视：[ST1 承泣](/point/ST1.md)，[BL1 睛明](/point/BL1.md)，[GB20 风池](/point/GB20.md)，[GB37 光明](/point/GB37.md)，[LIV3 太冲](/point/LIV3.md) 和[LI4 合谷](/point/LI4.md)。
+近视：[ST1 承泣](/point/ST1.md)，[BL1 睛明](/point/BL1.md)，[GB20 风池](/point/GB20.md)，[GB37 光明](/point/GB37.md)，[LR3 太冲](/point/LR3.md) 和[LI4 合谷](/point/LI4.md)。
 
-眼睛红肿疼痛：[ST1 承泣](/point/ST1.md)，[BL2 攒竹](/point/BL2.md)，[GB20 风池](/point/GB20.md)，[MHN9 太阳](/point/MHN9.md) (经外穴)，[LI4 合谷](/point/LI4.md) 和[LIV2 行间](/point/LIV2.md)。
+眼睛红肿疼痛：[ST1 承泣](/point/ST1.md)，[BL2 攒竹](/point/BL2.md)，[GB20 风池](/point/GB20.md)，[MHN9 太阳](/point/MHN9.md) (经外穴)，[LI4 合谷](/point/LI4.md) 和[LR2 行间](/point/LR2.md)。
 
 ---

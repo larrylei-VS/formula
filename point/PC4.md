@@ -117,7 +117,7 @@ Finally there may be symptoms of mental and emotional agitation, as well as haem
 * 心痛：**[PC4 郄门](/point/PC4.md)**，**[PC3 曲泽](/point/PC3.md)** 和 **[PC7 大陵](/point/PC7.md)**（《千金方》）。
 * 心痛伴干呕，烦躁胀满：**[PC4 郄门](/point/PC4.md)** 和 **[HE1 极泉](/point/HE1.md)**（《资生经》）。
 * 咳血：**[PC4 郄门](/point/PC4.md)** 和 **[PC7 大陵](/point/PC7.md)**（《针灸甲乙经》）。
-* 恐惧怕人，神气不足：**[PC4 郄门](/point/PC4.md)** 和 **[KID4 大钟](/point/KID4.md)**（《千金方》）。
+* 恐惧怕人，神气不足：**[PC4 郄门](/point/PC4.md)** 和 **[KD4 大钟](/point/KD4.md)**（《千金方》）。
 * 胸胁疼痛：**[PC4 郄门](/point/PC4.md)**，**[SP21 大包](/point/SP21.md)**，**[SJ8 三阳络](/point/SJ8.md)**，**[GB38 阳辅](/point/GB38.md)** 和 **[GB41 足临泣](/point/GB41.md)**。
 
 ---

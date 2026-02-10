@@ -96,6 +96,6 @@ Finally, as the xi-cleft point of the Heart channel, Yīnxī HE-6 is able to s
 * 大量盗汗：**[HE6 阴郄](/point/HE6.md)** 和 **[SI3 后溪](/point/SI3.md)**（《百症赋》）。
 * 过度惊吓：**[HE6 阴郄](/point/HE6.md)**，**[PC5 间使](/point/PC5.md)**，**[LI2 二间](/point/LI2.md)** 和 **[ST45 厉兑](/point/ST45.md)**（《资生经》）。
 * 心痛伴胀满烦躁和舌强：**[HE6 阴郄](/point/HE6.md)** 和 **[PC9 中冲](/point/PC9.md)**（《资生经》）。
-* 心痛：**[HE6 阴郄](/point/HE6.md)** 和 **[LIV2 行间](/point/LIV2.md)**（《资生经》）。
+* 心痛：**[HE6 阴郄](/point/HE6.md)** 和 **[LR2 行间](/point/LR2.md)**（《资生经》）。
 
 ---

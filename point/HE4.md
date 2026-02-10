@@ -80,6 +80,6 @@ According to the Spiritual Pivot[6](https://app.amanualofacupuncture.com/book/p
 
 * 暴喑伴牙关紧闭：**[HE4 灵道](/point/HE4.md)**，**[REN22 天突](/point/REN22.md)** 和 **[SI16 天窗](/point/SI16.md)**（《资生经》）。
 * 暴喑：**[HE4 灵道](/point/HE4.md)**，**[SJ6 支沟](/point/SJ6.md)**，**[SI16 天窗](/point/SI16.md)**，**[LI18 扶突](/point/LI18.md)** 和 **[GB7 曲鬓](/point/GB7.md)**（《千金方》）。
-* 失音：**[HE4 灵道](/point/HE4.md)**，**[REN22 天突](/point/REN22.md)**，**[KID10 阴谷](/point/KID10.md)**，**[KID7 复溜](/point/KID7.md)**，**[ST40 丰隆](/point/ST40.md)** 和 **[KID2 然谷](/point/KID2.md)**（《图翼》）。
+* 失音：**[HE4 灵道](/point/HE4.md)**，**[REN22 天突](/point/REN22.md)**，**[KD10 阴谷](/point/KD10.md)**，**[KD7 复溜](/point/KD7.md)**，**[ST40 丰隆](/point/ST40.md)** 和 **[KD2 然谷](/point/KD2.md)**（《图翼》）。
 
 ---

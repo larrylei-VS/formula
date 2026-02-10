@@ -135,23 +135,23 @@ Finally, Zhīgōu SJ-6 is indicated for various channel disorders affecting th
 
 #### **穴位组合 (Combinations)**
 
-* 心痛如刺：**[SJ6 支沟](/point/SJ6.md)**，**[KID2 然谷](/point/KID2.md)** 和 **[KID3 太溪](/point/KID3.md)**（《千金方》）。
+* 心痛如刺：**[SJ6 支沟](/point/SJ6.md)**，**[KD2 然谷](/point/KD2.md)** 和 **[KD3 太溪](/point/KD3.md)**（《千金方》）。
 * 胸胁疼痛：**[SJ6 支沟](/point/SJ6.md)** （左侧疼痛泻右侧，反之亦然）和（放血）**[BL40 委中](/point/BL40.md)**（《玉龙歌》）。
 * 伤寒胁肋部疼痛：**[SJ6 支沟](/point/SJ6.md)** 和 **[GB34 阳陵泉](/point/GB34.md)**（《医学入门》）。
-* 胁肋部疼痛：**[SJ6 支沟](/point/SJ6.md)**，**[LIV13 章门](/point/LIV13.md)** 和 **[SJ5 外关](/point/SJ5.md)**（《针灸大成》）。
-* 胁肋部疼痛：**[SJ6 支沟](/point/SJ6.md)**，**[SP4 公孙](/point/SP4.md)**，**[GB34 阳陵泉](/point/GB34.md)** 和 **[LIV13 章门](/point/LIV13.md)**（《针灸大全》）。
+* 胁肋部疼痛：**[SJ6 支沟](/point/SJ6.md)**，**[LR13 章门](/point/LR13.md)** 和 **[SJ5 外关](/point/SJ5.md)**（《针灸大成》）。
+* 胁肋部疼痛：**[SJ6 支沟](/point/SJ6.md)**，**[SP4 公孙](/point/SP4.md)**，**[GB34 阳陵泉](/point/GB34.md)** 和 **[LR13 章门](/point/LR13.md)**（《针灸大全》）。
 * 暴喑（突然失音）：**[SJ6 支沟](/point/SJ6.md)**，**[SI16 天窗](/point/SI16.md)**，**[LI18 扶突](/point/LI18.md)**，**[GB7 曲鬓](/point/GB7.md)** 和 **[HE4 灵道](/point/HE4.md)**（《千金方》）。
 * 暴喑：**[SJ6 支沟](/point/SJ6.md)**，**[BL66 足通谷](/point/BL66.md)** 和 **[SJ8 三阳络](/point/SJ8.md)**（《资生经》）。
 * 呕吐和霍乱吐泻：**[SJ6 支沟](/point/SJ6.md)** 和 **[ST25 天枢](/point/ST25.md)**（《资生经》）。
 * 霍乱吐泻：**[SJ6 支沟](/point/SJ6.md)**，**[SJ1 关冲](/point/SJ1.md)**，**[REN14 巨阙](/point/REN14.md)**，**[SP4 公孙](/point/SP4.md)** 和 **[ST41 解溪](/point/ST41.md)**（《针灸甲乙经》）。
-* 便秘：**[SJ6 支沟](/point/SJ6.md)** 和 **[KID6 照海](/point/KID6.md)**（《玉龙歌》）。
+* 便秘：**[SJ6 支沟](/point/SJ6.md)** 和 **[KD6 照海](/point/KD6.md)**（《玉龙歌》）。
 * 虚性便秘：补**[SJ6 支沟](/point/SJ6.md)**，泻**[ST36 足三里](/point/ST36.md)**（《点穴歌》）。
-* 便秘：**[SJ6 支沟](/point/SJ6.md)**，**[SP3 太白](/point/SP3.md)**，**[KID6 照海](/point/KID6.md)** 和 **[LIV13 章门](/point/LIV13.md)**（《针灸大成》）。
+* 便秘：**[SJ6 支沟](/point/SJ6.md)**，**[SP3 太白](/point/SP3.md)**，**[KD6 照海](/point/KD6.md)** 和 **[LR13 章门](/point/LR13.md)**（《针灸大成》）。
 * 腹痛便秘：**[SJ6 支沟](/point/SJ6.md)**，**[PC7 大陵](/point/PC7.md)** 和 **[SJ5 外关](/point/SJ5.md)**（《玉龙歌》）。
-* 瘰疬：**[SJ6 支沟](/point/SJ6.md)**，**[HE3 少海](/point/HE3.md)**，**[PC1 天池](/point/PC1.md)**，**[LIV13 章门](/point/LIV13.md)**，**[GB41 足临泣](/point/GB41.md)**，**[GB38 阳辅](/point/GB38.md)**，**[GB21 肩井](/point/GB21.md)** 和 **[LI10 手三里](/point/LI10.md)**（《针灸大成》）。
+* 瘰疬：**[SJ6 支沟](/point/SJ6.md)**，**[HE3 少海](/point/HE3.md)**，**[PC1 天池](/point/PC1.md)**，**[LR13 章门](/point/LR13.md)**，**[GB41 足临泣](/point/GB41.md)**，**[GB38 阳辅](/point/GB38.md)**，**[GB21 肩井](/point/GB21.md)** 和 **[LI10 手三里](/point/LI10.md)**（《针灸大成》）。
 * 产后眩晕：**[SJ6 支沟](/point/SJ6.md)**，**[ST36 足三里](/point/ST36.md)** 和 **[SP6 三阴交](/point/SP6.md)**（《针灸大成》）。
 * 游走性痹痛：**[SJ6 支沟](/point/SJ6.md)** 和 **[GB39 悬钟](/point/GB39.md)**。
-* 三焦气滞导致胸腹胀闷疼痛：**[SJ6 支沟](/point/SJ6.md)**，**[REN17 膻中](/point/REN17.md)**，**[REN12 中脘](/point/REN12.md)**，**[REN6 气海](/point/REN6.md)** 和 **[LIV3 太冲](/point/LIV3.md)**。
+* 三焦气滞导致胸腹胀闷疼痛：**[SJ6 支沟](/point/SJ6.md)**，**[REN17 膻中](/point/REN17.md)**，**[REN12 中脘](/point/REN12.md)**，**[REN6 气海](/point/REN6.md)** 和 **[LR3 太冲](/point/LR3.md)**。
 * 肩背疼痛：**[SJ6 支沟](/point/SJ6.md)**，**[SI3 后溪](/point/SI3.md)**，**[SI4 腕骨](/point/SI4.md)**，**[BL12 风门](/point/BL12.md)**，**[GB21 肩井](/point/GB21.md)**，**[SJ3 中渚](/point/SJ3.md)** 和 **[BL40 委中](/point/BL40.md)**（《针灸大成》）。
 
 ---

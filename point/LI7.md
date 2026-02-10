@@ -111,6 +111,6 @@ The action of Wēnliū LI-7 on clearing yangming fire and calming the spirit, 
 
 狂言语，见鬼：[LI7 温溜](/point/LI7.md)，[LI5 阳溪](/point/LI5.md) 和[BL61 仆参](/point/BL61.md)（《资生经》）。
 
-伤寒后颈项强直：[LI7 温溜](/point/LI7.md) 和[LIV14 期门](/point/LIV14.md)（《百症赋》）。
+伤寒后颈项强直：[LI7 温溜](/point/LI7.md) 和[LR14 期门](/point/LR14.md)（《百症赋》）。
 
 ---

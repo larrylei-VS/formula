@@ -91,6 +91,6 @@ Finally, like several points which affect the Penetrating vessel, Yīnjiāo CV-
 
 - 子宫出血不止：[CV7 阴交](/point/CV7.md) + [CV5 石门](/point/CV5.md)（《补命》）。  
 - 不孕症：[CV7 阴交](/point/CV7.md) + [CV5 石门](/point/CV5.md)（《百症赋》）。  
-- 生殖器瘙痒：[CV7 阴交](/point/CV7.md) + [LIV8 曲泉](/point/LIV8.md)（《补命》）。  
+- 生殖器瘙痒：[CV7 阴交](/point/CV7.md) + [LR8 曲泉](/point/LR8.md)（《补命》）。  
 - 下腹硬痛放射至生殖器伴尿不出：[CV7 阴交](/point/CV7.md) + [CV5 石门](/point/CV5.md) + [BL39 委阳](/point/BL39.md)（《补命》）。  
-- 舌裂出血：[CV7 阴交](/point/CV7.md) + [PC6 内关](/point/PC6.md) + [LIV3 太冲](/point/LIV3.md)（《杂病》）。  
+- 舌裂出血：[CV7 阴交](/point/CV7.md) + [PC6 内关](/point/PC6.md) + [LR3 太冲](/point/LR3.md)（《杂病》）。  

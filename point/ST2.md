@@ -87,5 +87,5 @@ i. 垂直刺0.2至0.4寸； ii. 横刺透向[SI18 颧髎](/point/SI18.md)、[LI2
 #### 穴位组合 (Combinations)
 
 外障眼病：[ST2 四白](/point/ST2.md)，[BL1 睛明](/point/BL1.md) 和[LI4 合谷](/point/LI4.md)（《针灸大成》）。
-头痛眩晕：[ST2 四白](/point/ST2.md)，[KID1 涌泉](/point/KID1.md) 和[BL11 大杼](/point/BL11.md)（《资生经》）。
+头痛眩晕：[ST2 四白](/point/ST2.md)，[KD1 涌泉](/point/KD1.md) 和[BL11 大杼](/point/BL11.md)（《资生经》）。
 

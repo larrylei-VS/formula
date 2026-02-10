@@ -109,4 +109,4 @@ Finally, Huìyīn CV-1 is indicated (for example in the Great Compendium of Acu
 #### 1.9. 配伍
 
 - 阴道突发红肿痛：[CV1 会阴](/point/CV1.md) + [CV3 中极](/point/CV3.md) + [SP6 三阴交](/point/SP6.md)（《大成》）。  
-- 五痔：[CV1 会阴](/point/CV1.md) + [BL40 委中](/point/BL40.md) + [BL57 承山](/point/BL57.md) + [BL58 飞扬](/point/BL58.md) + [GB38 阳辅](/point/GB38.md) + [KID7 复溜](/point/KID7.md) + [LIV3 太冲](/point/LIV3.md) + [GB43 侠溪](/point/GB43.md) + [CV6 气海](/point/CV6.md) + [DU1 长强](/point/DU1.md)（《大成》）。  
+- 五痔：[CV1 会阴](/point/CV1.md) + [BL40 委中](/point/BL40.md) + [BL57 承山](/point/BL57.md) + [BL58 飞扬](/point/BL58.md) + [GB38 阳辅](/point/GB38.md) + [KD7 复溜](/point/KD7.md) + [LR3 太冲](/point/LR3.md) + [GB43 侠溪](/point/GB43.md) + [CV6 气海](/point/CV6.md) + [DU1 长强](/point/DU1.md)（《大成》）。  

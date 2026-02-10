@@ -121,13 +121,13 @@ Finally the Great Compendium of Acupuncture and Moxibustion recommends Jùqu�
 #### 1.9. 配伍
 
 - 心烦躁：[REN14 巨阙](/point/REN14.md) + [BL15 心俞](/point/BL15.md)（《补命》）。  
-- 心烦满：[REN14 巨阙](/point/REN14.md) + [KID19 阴都](/point/KID19.md)（《补命》）。  
+- 心烦满：[REN14 巨阙](/point/REN14.md) + [KD19 阴都](/point/KD19.md)（《补命》）。  
 - 心腹胀满：[REN14 巨阙](/point/REN14.md) + [REN13 上脘](/point/REN13.md)（《补命》）。  
-- 惊悸伴气虚：[REN14 巨阙](/point/REN14.md) + [HE7 神门](/point/HE7.md) + [LIV5 蠡沟](/point/LIV5.md)（《补命》）。  
+- 惊悸伴气虚：[REN14 巨阙](/point/REN14.md) + [HE7 神门](/point/HE7.md) + [LR5 蠡沟](/point/LR5.md)（《补命》）。  
 - 心神迷乱：[REN14 巨阙](/point/REN14.md) + [SJ10 天井](/point/SJ10.md) + [BL15 心俞](/point/BL15.md)（《大成》）。  
-- 躁病、狂言怒骂：[REN14 巨阙](/point/REN14.md) + [KID9 筑宾](/point/KID9.md)（《千金方》）。  
-- 气逆伴咳嗽、胸满气短及痛放射至背：[REN14 巨阙](/point/REN14.md) + [LIV14 期门](/point/LIV14.md)各灸50壮（《千金方》）。  
+- 躁病、狂言怒骂：[REN14 巨阙](/point/REN14.md) + [KD9 筑宾](/point/KD9.md)（《千金方》）。  
+- 气逆伴咳嗽、胸满气短及痛放射至背：[REN14 巨阙](/point/REN14.md) + [LR14 期门](/point/LR14.md)各灸50壮（《千金方》）。  
 - 咳嗽：[REN14 巨阙](/point/REN14.md) + [REN17 膻中](/point/REN17.md) + [ST12 缺盆](/point/ST12.md)（《千金方》）。  
-- 呕吐伴胸满：[REN14 巨阙](/point/REN14.md) + [KID27 俞府](/point/KID27.md) + [KID25 神藏](/point/KID25.md) + [KID24 灵墟](/point/KID24.md)（《千金方》）。  
+- 呕吐伴胸满：[REN14 巨阙](/point/REN14.md) + [KD27 俞府](/point/KD27.md) + [KD25 神藏](/point/KD25.md) + [KD24 灵墟](/point/KD24.md)（《千金方》）。  
 - 卒中风病：[REN14 巨阙](/point/REN14.md) + [SJ1 关冲](/point/SJ1.md) + [SJ6 支沟](/point/SJ6.md) + [SP4 公孙](/point/SP4.md) + [ST41 解溪](/point/ST41.md)（《系统经典》）。  
 - 积液致膈痛难忍：[REN14 巨阙](/point/REN14.md) + [REN17 膻中](/point/REN17.md)（《百症赋》）。  

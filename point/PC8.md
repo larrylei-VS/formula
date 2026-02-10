@@ -119,7 +119,7 @@ Finally Láogōng PC-8 is cited in the Song of the Nine Needles for Returning
 
 与**[PC3 曲泽](/point/PC3.md)**、**[PC7 大陵](/point/PC7.md)** 和**[PC9 中冲](/point/PC9.md)** 类似，**[PC8 劳宫](/point/PC8.md)** 清泄营血分之热。因此，当血分热邪导致妄行出血性疾病时，如呕血、鼻出血、便血等，此穴皆可使用。其清血热的能力以及其位置，使其适用于治疗掌部皮肤病，如湿疹、癣和脱屑，以及掌心发热和多汗。它还主治手部痹痛和手颤。
 
-在气功练习中，**[PC8 劳宫](/point/PC8.md)** 可视为足底**[KID1 涌泉](/point/KID1.md)** 的对应穴。通过这两个穴位“呼吸”是常见的做法，意守和培补**[PC8 劳宫](/point/PC8.md)** 的气是气功疗法中发气治病的前提。
+在气功练习中，**[PC8 劳宫](/point/PC8.md)** 可视为足底**[KD1 涌泉](/point/KD1.md)** 的对应穴。通过这两个穴位“呼吸”是常见的做法，意守和培补**[PC8 劳宫](/point/PC8.md)** 的气是气功疗法中发气治病的前提。
 
 最后，**[PC8 劳宫](/point/PC8.md)** 在《回阳九针歌》中被引用于治疗亡阳证，特点是昏厥、恶寒、四肢厥逆、口唇青紫等。
 
@@ -132,14 +132,14 @@ Finally Láogōng PC-8 is cited in the Song of the Nine Needles for Returning
 
 #### **穴位组合 (Combinations)**
 
-* 五种癫痫：**[PC8 劳宫](/point/PC8.md)** 和 **[KID1 涌泉](/point/KID1.md)**（《杂病穴法歌》）。
+* 五种癫痫：**[PC8 劳宫](/point/PC8.md)** 和 **[KD1 涌泉](/point/KD1.md)**（《杂病穴法歌》）。
 * 喜笑不止：**[PC8 劳宫](/point/PC8.md)** 和 **[PC7 大陵](/point/PC7.md)**（《资生经》）。
 * 心胸憋闷：**[PC8 劳宫](/point/PC8.md)** 和 **[PC7 大陵](/point/PC7.md)**（《玉龙歌》）。
 * 鼻出血不止：**[PC8 劳宫](/point/PC8.md)**，**[LI19 口禾髎](/point/LI19.md)** 和 **[DU27 兑端](/point/DU27.md)**（《资生经》）。
 * 口疮：**[PC8 劳宫](/point/PC8.md)** 和 **[REN24 承浆](/point/REN24.md)**（《聚英》）。
-* 口糜，口热口干：**[PC8 劳宫](/point/PC8.md)**，**[SI1 少泽](/point/SI1.md)**，**[LI3 三间](/point/LI3.md)** 和 **[LIV3 太冲](/point/LIV3.md)**（《千金方》）。
+* 口糜，口热口干：**[PC8 劳宫](/point/PC8.md)**，**[SI1 少泽](/point/SI1.md)**，**[LI3 三间](/point/LI3.md)** 和 **[LR3 太冲](/point/LR3.md)**（《千金方》）。
 * 咽喉疼痛：**[PC8 劳宫](/point/PC8.md)**，**[DU16 风府](/point/DU16.md)** 和 **[SI16 天窗](/point/SI16.md)**（《千金方》）。
-* 吞咽困难：**[PC8 劳宫](/point/PC8.md)**，**[BL48 阳纲](/point/BL48.md)**，**[LIV14 期门](/point/LIV14.md)** 和 **[LU11 少商](/point/LU11.md)**（《千金方》）。
+* 吞咽困难：**[PC8 劳宫](/point/PC8.md)**，**[BL48 阳纲](/point/BL48.md)**，**[LR14 期门](/point/LR14.md)** 和 **[LU11 少商](/point/LU11.md)**（《千金方》）。
 * 呕吐：**[PC8 劳宫](/point/PC8.md)** 和 **[LU11 少商](/point/LU11.md)**（《千金方》）。
 
 ---

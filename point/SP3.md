@@ -120,15 +120,15 @@ Finally, Tàibái SP-3 is frequently used for disorders of the joints of the b
 * 大便完谷不化：[SP3 太白](/point/SP3.md) 和[SP16 腹哀](/point/SP16.md)（《资生经》）。
 * 肠鸣：[SP3 太白](/point/SP3.md)，[SP4 公孙](/point/SP4.md)，大肠俞[BL25 大肠俞](/point/BL25.md) 和三焦俞[BL22 三焦俞](/point/BL22.md)（《资生经》）。
 * 霍乱吐泻：[SP3 太白](/point/SP3.md)，[SP9 阴陵泉](/point/SP9.md)，[BL57 承山](/point/BL57.md) 和[ST41 解溪](/point/ST41.md)（《针灸大成》）。
-* 腹泻痢疾伴脓血：[SP3 太白](/point/SP3.md)，[ST39 下巨虚](/point/ST39.md) 和[KID21 幽门](/point/KID21.md)（《资生经》）。
-* 便血：[SP3 太白](/point/SP3.md)，[BL57 承山](/point/BL57.md)，[KID7 复溜](/point/KID7.md) 和[LIV3 太冲](/point/LIV3.md)（《针灸大成》）。
-* 便秘：[SP3 太白](/point/SP3.md)，[KID6 照海](/point/KID6.md) 和[LIV13 章门](/point/LIV13.md)（《针灸大成》）。
-* 便秘：[SP3 太白](/point/SP3.md)，[KID6 照海](/point/KID6.md)，[LIV13 章门](/point/LIV13.md) 和[SJ6 支沟](/point/SJ6.md)（《针灸大成》）。
-* 排便困难：[SP3 太白](/point/SP3.md) 和[KID15 中注](/point/KID15.md)（《针灸甲乙经》）。
+* 腹泻痢疾伴脓血：[SP3 太白](/point/SP3.md)，[ST39 下巨虚](/point/ST39.md) 和[KD21 幽门](/point/KD21.md)（《资生经》）。
+* 便血：[SP3 太白](/point/SP3.md)，[BL57 承山](/point/BL57.md)，[KD7 复溜](/point/KD7.md) 和[LR3 太冲](/point/LR3.md)（《针灸大成》）。
+* 便秘：[SP3 太白](/point/SP3.md)，[KD6 照海](/point/KD6.md) 和[LR13 章门](/point/LR13.md)（《针灸大成》）。
+* 便秘：[SP3 太白](/point/SP3.md)，[KD6 照海](/point/KD6.md)，[LR13 章门](/point/LR13.md) 和[SJ6 支沟](/point/SJ6.md)（《针灸大成》）。
+* 排便困难：[SP3 太白](/point/SP3.md) 和[KD15 中注](/point/KD15.md)（《针灸甲乙经》）。
 * 肠痈疼痛：[SP3 太白](/point/SP3.md)，[ST43 陷谷](/point/ST43.md) 和[BL25 大肠俞](/point/BL25.md)（《针灸大成》）。
 * 腹胀，大便完谷不化，鼓胀胀满：[SP3 太白](/point/SP3.md) 和[SP4 公孙](/point/SP4.md)（《千金方》）。
-* 腹胀导致背痛：[SP3 太白](/point/SP3.md) 和[LIV3 太冲](/point/LIV3.md)（《针灸大成》）。
-* 鼓胀：[SP3 太白](/point/SP3.md)，[KID7 复溜](/point/KID7.md)，[SP4 公孙](/point/SP4.md)，[LIV4 中封](/point/LIV4.md) 和[REN9 水分](/point/REN9.md)（《铜人》）。
-* 腰痛不能屈伸：[SP3 太白](/point/SP3.md)，[BL39 委阳](/point/BL39.md)，[BL37 殷门](/point/BL37.md)，[SP9 阴陵泉](/point/SP9.md) 和[LIV2 行间](/point/LIV2.md)（《千金方》）。
+* 腹胀导致背痛：[SP3 太白](/point/SP3.md) 和[LR3 太冲](/point/LR3.md)（《针灸大成》）。
+* 鼓胀：[SP3 太白](/point/SP3.md)，[KD7 复溜](/point/KD7.md)，[SP4 公孙](/point/SP4.md)，[LR4 中封](/point/LR4.md) 和[REN9 水分](/point/REN9.md)（《铜人》）。
+* 腰痛不能屈伸：[SP3 太白](/point/SP3.md)，[BL39 委阳](/point/BL39.md)，[BL37 殷门](/point/BL37.md)，[SP9 阴陵泉](/point/SP9.md) 和[LR2 行间](/point/LR2.md)（《千金方》）。
 
 ---

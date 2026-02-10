@@ -112,5 +112,5 @@ Finally, although indicated for deficiency-taxation and lower origin (yuan) defi
 - 女子多产：[CV5 石门](/point/CV5.md) + [SP6 三阴交](/point/SP6.md)（《大成》）。  
 - 子宫出血不止：[CV5 石门](/point/CV5.md) + [CV7 阴交](/point/CV7.md)（《补命》）。  
 - 子宫出血不止：[CV5 石门](/point/CV5.md) + [CV3 中极](/point/CV3.md) + [MCA18 子宫](/point/MCA18.md) + [BL23 肾俞](/point/BL23.md)（《大成》）。  
-- 奔豚气：[CV5 石门](/point/CV5.md) + [LIV13 章门](/point/LIV13.md) + [SP6 三阴交](/point/SP6.md)（《千金方》）。  
-- 女子奔豚气：[CV5 石门](/point/CV5.md) + [CV3 中极](/point/CV3.md) + [CV4 关元](/point/CV4.md) + [LIV14 期门](/point/LIV14.md) + [SP6 三阴交](/point/SP6.md) + [SP10 血海](/point/SP10.md)（《补命》）。  
+- 奔豚气：[CV5 石门](/point/CV5.md) + [LR13 章门](/point/LR13.md) + [SP6 三阴交](/point/SP6.md)（《千金方》）。  
+- 女子奔豚气：[CV5 石门](/point/CV5.md) + [CV3 中极](/point/CV3.md) + [CV4 关元](/point/CV4.md) + [LR14 期门](/point/LR14.md) + [SP6 三阴交](/point/SP6.md) + [SP10 血海](/point/SP10.md)（《补命》）。  

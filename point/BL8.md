@@ -77,7 +77,7 @@ Transverse insertion 0.5 to 1 cun.
 
 #### **穴位组合 (Combinations)**
 
-* 狂病伴呕吐：**[BL8 络却](/point/BL8.md)**，**[KID9 筑宾](/point/KID9.md)**，**[SI5 阳谷](/point/SI5.md)**，**[DU19 后顶](/point/DU19.md)**，**[DU18 强间](/point/DU18.md)**，**[DU17 脑户](/point/DU17.md)** 和 **[BL9 玉枕](/point/BL9.md)**（《千金方》）。
+* 狂病伴呕吐：**[BL8 络却](/point/BL8.md)**，**[KD9 筑宾](/point/KD9.md)**，**[SI5 阳谷](/point/SI5.md)**，**[DU19 后顶](/point/DU19.md)**，**[DU18 强间](/point/DU18.md)**，**[DU17 脑户](/point/DU17.md)** 和 **[BL9 玉枕](/point/BL9.md)**（《千金方》）。
 * 突然站立时昏厥：**[BL8 络却](/point/BL8.md)** 和 **[BL7 通天](/point/BL7.md)**（《千金方》）。
 * 耳鸣：**[BL8 络却](/point/BL8.md)**，**[SI19 听宫](/point/SI19.md)**，**[GB2 听会](/point/GB2.md)**，**[SJ21 耳门](/point/SJ21.md)**，**[DU20 百会](/point/DU20.md)**，**[LI5 阳溪](/point/LI5.md)**，**[SI2 前谷](/point/SI2.md)**，**[SI3 后溪](/point/SI3.md)**，**[SI4 腕骨](/point/SI4.md)**，**[SJ3 中渚](/point/SJ3.md)**，**[SJ2 液门](/point/SJ2.md)**，**[LI1 商阳](/point/LI1.md)** 和 **[BL23 肾俞](/point/BL23.md)**（《针灸大成》）。
 

@@ -93,7 +93,7 @@ Finally, Dàdū SP-2 may be used as a local point for disorders of the big toe
 [SP2 大都](/point/SP2.md) 主治实性湿邪或湿热，表现为四肢突然肿胀，身体沉重伴骨痛，肢体肿胀和胸部憋闷。这些主治反映了外湿或湿热的侵袭，常是脾虚的后果。[SP2 大都](/point/SP2.md) 也主治胃肠热证，如腹胀、胃脘痛、呕吐、腹泻或便秘，以及霍乱吐泻。
 “饥时烦躁饱时眩晕”的主治反映了胃中痰热的证型。[SP2 大都](/point/SP2.md) 的清热作用延伸到治疗热病，尤其主治发热伴无汗。
 
-最后，[SP2 大都](/point/SP2.md) 可作为局部穴位治疗足大趾疾病，常与[SP3 太白](/point/SP3.md) 和[LIV2 行间](/point/LIV2.md) 等穴联合使用。
+最后，[SP2 大都](/point/SP2.md) 可作为局部穴位治疗足大趾疾病，常与[SP3 太白](/point/SP3.md) 和[LR2 行间](/point/LR2.md) 等穴联合使用。
 
 #### 临床应用总结 (Summary of clinical application)
 
@@ -107,6 +107,6 @@ Finally, Dàdū SP-2 may be used as a local point for disorders of the big toe
 * 呕吐：[SP2 大都](/point/SP2.md) 和[BL6 承光](/point/BL6.md)（《资生经》）。
 * 热病无汗：[SP2 大都](/point/SP2.md) 和[LU8 经渠](/point/LU8.md)（《百症赋》）。
 * 心痛和胃脘痛：[SP2 大都](/point/SP2.md) 和[SP3 太白](/point/SP3.md)（《灵枢》）。
-* 气滞，腰痛不能站立：[SP2 大都](/point/SP2.md) 和[KID11 横骨](/point/KID11.md)（《席弘赋》）。
+* 气滞，腰痛不能站立：[SP2 大都](/point/SP2.md) 和[KD11 横骨](/point/KD11.md)（《席弘赋》）。
 
 ---

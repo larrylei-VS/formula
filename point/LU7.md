@@ -120,7 +120,7 @@ Finally the Great Compendium of Acupuncture and Moxibustion gives specific ind
 
 #### 1.7. 论述
 
-“列缺”之名古指闪电，可解为：1. 针刺产生的电感，2. 如雷雨清天，解胸闷，3. 肺经在此分叉。多个络穴（如[ST40 丰隆](/point/ST40.md)、[BL58 飞扬](/point/BL58.md)、[KID4 大钟](/point/KID4.md)）位于经脉转向处，[LU7 列缺](/point/LU7.md)分叉近大肠经，强调其与肺配阳经的密切联系。  
+“列缺”之名古指闪电，可解为：1. 针刺产生的电感，2. 如雷雨清天，解胸闷，3. 肺经在此分叉。多个络穴（如[ST40 丰隆](/point/ST40.md)、[BL58 飞扬](/point/BL58.md)、[KD4 大钟](/point/KD4.md)）位于经脉转向处，[LU7 列缺](/point/LU7.md)分叉近大肠经，强调其与肺配阳经的密切联系。  
 
 金代名医马丹阳列[LU7 列缺](/point/LU7.md)为“十一天星穴”，治偏头痛、全身风痹麻木、上体痰阻、牙关紧闭。明代高武《针灸资生经》列其为“四要穴”（治头项）。《闭河颂》称其为“八疗法”之一，作任脉会穴，用于头病、痰阻、喉干。  
 
@@ -134,7 +134,7 @@ Finally the Great Compendium of Acupuncture and Moxibustion gives specific ind
 
 [LU7 列缺](/point/LU7.md)为任脉会穴，沿前正中线上行，密切联子宫及泌尿生殖器，调任脉气，治恶露不下、死胎不下、阴痛、尿病。其治尿血、尿热痛、尿难进一步反映肺调水降液功能。  
 
-[LU7 列缺](/point/LU7.md)与阴经络穴（[SP4 公孙](/point/SP4.md)、[HE5 通里](/point/HE5.md)、[KID4 大钟](/point/KID4.md)、[LIV5 蠡沟](/point/LIV5.md)、[PC6 内关](/point/PC6.md)）共治精神病，尤用于好笑、频哈欠伸展、记忆差。  
+[LU7 列缺](/point/LU7.md)与阴经络穴（[SP4 公孙](/point/SP4.md)、[HE5 通里](/point/HE5.md)、[KD4 大钟](/point/KD4.md)、[LR5 蠡沟](/point/LR5.md)、[PC6 内关](/point/PC6.md)）共治精神病，尤用于好笑、频哈欠伸展、记忆差。  
 
 治肺经病，[LU7 列缺](/point/LU7.md)治掌热、肩痛，尤主拇指及食指关节痛，针向手传导感至病区，其他用途多向肘刺。  
 
@@ -153,7 +153,7 @@ Finally the Great Compendium of Acupuncture and Moxibustion gives specific ind
 #### 1.9. 配伍
 
 - 急性呼吸困难：[LU7 列缺](/point/LU7.md) + [ST26 外陵](/point/ST26.md)（《穴歌》）。  
-- 水肿：[LU7 列缺](/point/LU7.md) + [SI5 阳谷](/point/SI5.md) + [LI4 合谷](/point/LI4.md) + [PC5 间使](/point/PC5.md) + [GB34 阳陵泉](/point/GB34.md) + [KID10 阴谷](/point/KID10.md) + [ST26 外陵](/point/ST26.md) + [LIV8 曲泉](/point/LIV8.md) + [ST41 解溪](/point/ST41.md) + [ST43 陷谷](/point/ST43.md) + [KID7 复溜](/point/KID7.md) + [SP4 公孙](/point/SP4.md) + [ST45 厉兑](/point/ST45.md) + [ST42 冲阳](/point/ST42.md) + [SP9 阴陵泉](/point/SP9.md) + [BL21 胃俞](/point/BL21.md) + [REN9 水分](/point/REN9.md) + [REN8 神阙](/point/REN8.md)（《大成》）。  
+- 水肿：[LU7 列缺](/point/LU7.md) + [SI5 阳谷](/point/SI5.md) + [LI4 合谷](/point/LI4.md) + [PC5 间使](/point/PC5.md) + [GB34 阳陵泉](/point/GB34.md) + [KD10 阴谷](/point/KD10.md) + [ST26 外陵](/point/ST26.md) + [LR8 曲泉](/point/LR8.md) + [ST41 解溪](/point/ST41.md) + [ST43 陷谷](/point/ST43.md) + [KD7 复溜](/point/KD7.md) + [SP4 公孙](/point/SP4.md) + [ST45 厉兑](/point/ST45.md) + [ST42 冲阳](/point/ST42.md) + [SP9 阴陵泉](/point/SP9.md) + [BL21 胃俞](/point/BL21.md) + [REN9 水分](/point/REN9.md) + [REN8 神阙](/point/REN8.md)（《大成》）。  
 - 单侧风（半身不遂）：[LU7 列缺](/point/LU7.md) + [ST42 冲阳](/point/ST42.md)（《大成》）。  
 - 单侧或全身头痛：[LU7 列缺](/point/LU7.md) + [LU9 太渊](/point/LU9.md)（《西弘颂》）。  
 - 面口歪斜：[LU7 列缺](/point/LU7.md) + [ST4 地仓](/point/ST4.md)（《补命》）。  
@@ -162,7 +162,7 @@ Finally the Great Compendium of Acupuncture and Moxibustion gives specific ind
 - 阴痛：[LU7 列缺](/point/LU7.md) + [SP9 阴陵泉](/point/SP9.md) + [HE8 少府](/point/HE8.md)（《生生方》）。  
 - 掌热：[LU7 列缺](/point/LU7.md) + [LU8 经渠](/point/LU8.md) + [LU9 太渊](/point/LU9.md)（《大成》）。  
 - 疟疾寒热：[LU7 列缺](/point/LU7.md) + [SI3 后溪](/point/SI3.md) + [SI2 前谷](/point/SI2.md) + [SI1 少泽](/point/SI1.md)（《千金方》）。  
-- 记忆差：[LU7 列缺](/point/LU7.md) + [BL43 膏肓俞](/point/BL43.md) + [DU11 神道](/point/DU11.md) + [KID21 幽门](/point/KID21.md)（《补命》）。  
+- 记忆差：[LU7 列缺](/point/LU7.md) + [BL43 膏肓俞](/point/BL43.md) + [DU11 神道](/point/DU11.md) + [KD21 幽门](/point/KD21.md)（《补命》）。  
 - 记忆差：[LU7 列缺](/point/LU7.md) + [BL15 心俞](/point/BL15.md) + [HE7 神门](/point/HE7.md) + [REN12 中脘](/point/REN12.md) + [ST26 外陵](/point/ST26.md) + [HE3 少海](/point/HE3.md) + 灸[DU20 百会](/point/DU20.md)（《医学纲目》）。  
 - 频笑：[LU7 列缺](/point/LU7.md) + [PC7 大陵](/point/PC7.md) + [DU26 人中](/point/DU26.md) + [LI5 阳溪](/point/LI5.md)（《大成》）。  
 - 两乳刺气痛：[LU9 太渊](/point/LU9.md) + [LU7 列缺](/point/LU7.md)（《穴歌》）。

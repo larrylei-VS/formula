@@ -92,7 +92,7 @@ Finally, Yǐnbài SP-1 shares with most of the other jing-well points the acti
 
 《素问·水热穴论》记载：“湿、肿、满，皆属于脾。”[SP1 隐白](/point/SP1.md) 能够调理脾脏，治疗腹胀、肢体肿胀、腹泻等疾病，但作为脾经的井穴，也是最具有动力性的穴位，主要用于这些疾病急性发作和突然起病的情况。
 
-根据《难经》记载，井穴主治“心下满”。虽然“心下”特指上腹部，但[SP1 隐白](/point/SP1.md) 像许多井穴一样，治疗整个胸部区域的胀满。脾经正经上行通过胸部和胁肋部，连接[GB24 日月](/point/GB24.md)、[LIV14 期门](/point/LIV14.md) 和[LU1 中府](/point/LU1.md)，并终止于[SP21 大包](/point/SP21.md)，脾之大络由此分出，像脾经筋一样，散布于胸、胁和胁肋部。[SP1 隐白](/point/SP1.md) 作为经脉的起始穴，在治疗经脉另一端（头部）的疾病方面特别有效，主治胸中烦热、胸中胀满、呼吸困难和叹息等多种疾病。
+根据《难经》记载，井穴主治“心下满”。虽然“心下”特指上腹部，但[SP1 隐白](/point/SP1.md) 像许多井穴一样，治疗整个胸部区域的胀满。脾经正经上行通过胸部和胁肋部，连接[GB24 日月](/point/GB24.md)、[LR14 期门](/point/LR14.md) 和[LU1 中府](/point/LU1.md)，并终止于[SP21 大包](/point/SP21.md)，脾之大络由此分出，像脾经筋一样，散布于胸、胁和胁肋部。[SP1 隐白](/point/SP1.md) 作为经脉的起始穴，在治疗经脉另一端（头部）的疾病方面特别有效，主治胸中烦热、胸中胀满、呼吸困难和叹息等多种疾病。
 
 脾经与心相连，强化了两个脏腑之间密切的生理关系。[SP1 隐白](/point/SP1.md) 像许多井穴一样，主治心神疾病，此处主治心烦、癫狂和易悲伤。像[ST45 厉兑](/point/ST45.md) 一样，它特别用于治疗失眠伴多梦或烦躁不安的梦魇，临床实践中这两个穴位可联合使用。其对神志的作用如此之大，以至于孙思邈将其列入“十三鬼穴”中，以其别名“鬼垒”用于治疗癫狂和癫痫。
 
@@ -108,14 +108,14 @@ Finally, Yǐnbài SP-1 shares with most of the other jing-well points the acti
 #### 穴位组合 (Combinations)
 
 * 出血：针[SP1 隐白](/point/SP1.md)，灸[ST36 足三里](/point/ST36.md)（《针灸大成》）。
-* 赤痢（血痢）：[SP1 隐白](/point/SP1.md)，[ST25 天枢](/point/ST25.md)，[ST44 内庭](/point/ST44.md)，[REN6 气海](/point/REN6.md)，[KID6 照海](/point/KID6.md) 和[PC6 内关](/point/PC6.md)（《针灸大成》）。
+* 赤痢（血痢）：[SP1 隐白](/point/SP1.md)，[ST25 天枢](/point/ST25.md)，[ST44 内庭](/point/ST44.md)，[REN6 气海](/point/REN6.md)，[KD6 照海](/point/KD6.md) 和[PC6 内关](/point/PC6.md)（《针灸大成》）。
 * 呕血和自发性外出血：[SP1 隐白](/point/SP1.md)，[BL20 脾俞](/point/BL20.md)，[BL18 肝俞](/point/BL18.md) 和[REN13 上脘](/point/REN13.md)（《针灸大成》）。
 * 鼻出血剧烈不止：[SP1 隐白](/point/SP1.md) 和[BL40 委中](/point/BL40.md)（《资生经》）。
 * 头热，鼻炎伴鼻出血：[SP1 隐白](/point/SP1.md)，[BL57 承山](/point/BL57.md)，[BL58 飞扬](/point/BL58.md)，[BL60 昆仑](/point/BL60.md) 和[BL64 京骨](/point/BL64.md)（《千金方》）。
-* 胸痛：[SP1 隐白](/point/SP1.md)，[LU1 中府](/point/LU1.md)，[LU2 云门](/point/LU2.md)，[LIV14 期门](/point/LIV14.md)，[BL13 肺俞](/point/BL13.md)，[BL47 魂门](/point/BL47.md) 和[PC7 大陵](/point/PC7.md)（《资生经》）。
+* 胸痛：[SP1 隐白](/point/SP1.md)，[LU1 中府](/point/LU1.md)，[LU2 云门](/point/LU2.md)，[LR14 期门](/point/LR14.md)，[BL13 肺俞](/point/BL13.md)，[BL47 魂门](/point/BL47.md) 和[PC7 大陵](/point/PC7.md)（《资生经》）。
 * 心烦憋闷不能入睡：[SP1 隐白](/point/SP1.md)，[LU9 太渊](/point/LU9.md)，[SP4 公孙](/point/SP4.md)，[BL13 肺俞](/point/BL13.md)，[SP9 阴陵泉](/point/SP9.md) 和[SP6 三阴交](/point/SP6.md)（《针灸大成》）。
 * 癫痫：[SP1 隐白](/point/SP1.md)，[HE7 神门](/point/HE7.md)，[PC6 内关](/point/PC6.md)，[SI3 后溪](/point/SI3.md) 和[BL15 心俞](/point/BL15.md)（《大全集》）。
 * 梦魇：[SP1 隐白](/point/SP1.md) 和[ST45 厉兑](/point/ST45.md)（《百症赋》）。
-* 昏厥：[SP1 隐白](/point/SP1.md) 和[LIV1 大敦](/point/LIV1.md)（《针灸甲乙经》）。
+* 昏厥：[SP1 隐白](/point/SP1.md) 和[LR1 大敦](/point/LR1.md)（《针灸甲乙经》）。
 
 ---

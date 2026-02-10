@@ -101,9 +101,9 @@ Finally the Large Intestine muscle and divergent channels both connect with the 
 
 发热无汗：[LI1 商阳](/point/LI1.md)，[LI4 合谷](/point/LI4.md)，[LI5 阳溪](/point/LI5.md)，[GB43 侠溪](/point/GB43.md)，[ST45 厉兑](/point/ST45.md)，[PC8 劳宫](/point/PC8.md) 和 [SI4 腕骨](/point/SI4.md)（《针灸大成》）。
 
-寒疟：[LI1 商阳](/point/LI1.md) 和[KID3 太溪](/point/KID3.md)（《百症赋》）。
+寒疟：[LI1 商阳](/point/LI1.md) 和[KD3 太溪](/point/KD3.md)（《百症赋》）。
 
-遍身壮热的疟疾：[LI1 商阳](/point/LI1.md)，[LI3 三间](/point/LI3.md)，[SJ3 中渚](/point/SJ3.md)，[KID19 阴都](/point/KID19.md) 和[HE3 少海](/point/HE3.md)（《资生经》）。
+遍身壮热的疟疾：[LI1 商阳](/point/LI1.md)，[LI3 三间](/point/LI3.md)，[SJ3 中渚](/point/SJ3.md)，[KD19 阴都](/point/KD19.md) 和[HE3 少海](/point/HE3.md)（《资生经》）。
 
 久疟：[LI1 商阳](/point/LI1.md)，[SJ3 中渚](/point/SJ3.md) 和[GB40 丘墟](/point/GB40.md)（《针灸大成》）。
 
@@ -113,6 +113,6 @@ Finally the Large Intestine muscle and divergent channels both connect with the 
 
 口干舌燥，难以进食：[LI1 商阳](/point/LI1.md)，[BL19 胆俞](/point/BL19.md) 和[BL27 小肠俞](/point/BL27.md)（《千金方》）。
 
-锁骨上窝 [ST12 缺盆](/point/ST12.md) 肿胀：[LI1 商阳](/point/LI1.md)，[KID3 太溪](/point/KID3.md) 和[GB41 足临泣](/point/GB41.md)（《针灸大成》）。
+锁骨上窝 [ST12 缺盆](/point/ST12.md) 肿胀：[LI1 商阳](/point/LI1.md)，[KD3 太溪](/point/KD3.md) 和[GB41 足临泣](/point/GB41.md)（《针灸大成》）。
 
 ---

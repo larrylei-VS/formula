@@ -106,7 +106,7 @@ Finally Zhōngwǎn REN-12 is cited in the Song of the Nine Needles for Return
 
 #### 1.7. 论述
 
-[REN12 中脘](/point/REN12.md)，别名“中管”，是胃的前募穴及腑的会穴。“募”意为聚集，前募穴是脏腑之气在前胸腹壁聚集之处。胃脾为后天之气之源，在脏腑中居中枢地位，转化并分布饮食精微于全身。因此，胃可主腑，脾主脏。[REN12 中脘](/point/REN12.md)与胃的密切关系进一步体现于其为腑的会穴，类似[LIV13 章门](/point/LIV13.md)（脾募穴）为脏的会穴。  
+[REN12 中脘](/point/REN12.md)，别名“中管”，是胃的前募穴及腑的会穴。“募”意为聚集，前募穴是脏腑之气在前胸腹壁聚集之处。胃脾为后天之气之源，在脏腑中居中枢地位，转化并分布饮食精微于全身。因此，胃可主腑，脾主脏。[REN12 中脘](/point/REN12.md)与胃的密切关系进一步体现于其为腑的会穴，类似[LR13 章门](/point/LR13.md)（脾募穴）为脏的会穴。  
 
 [REN12 中脘](/point/REN12.md)是腹部调胃功能的主穴。《经穴探》称其可治“胃脾诸病”。与邻近穴如[ST21 梁门](/point/ST21.md)、[REN13 上脘](/point/REN13.md)、[REN10 下脘](/point/REN10.md)（多用于实证）相比，[REN12 中脘](/point/REN12.md)适用于虚实并存的疾患。  
 
@@ -124,7 +124,7 @@ Finally Zhōngwǎn REN-12 is cited in the Song of the Nine Needles for Return
 
 #### 1.9. 配伍
 
-- 呕吐：[REN12 中脘](/point/REN12.md) + [BL17 膈俞](/point/BL17.md) + [LIV13 章门](/point/LIV13.md)（《千金方》）。  
+- 呕吐：[REN12 中脘](/point/REN12.md) + [BL17 膈俞](/point/BL17.md) + [LR13 章门](/point/LR13.md)（《千金方》）。  
 - 吐清水：[REN12 中脘](/point/REN12.md) + [REN17 膻中](/point/REN17.md) + [PC7 大陵](/point/PC7.md) + [PC8 劳宫](/point/PC8.md)（《大成》）。  
 - 中腹食滞、刺痛不止：[REN12 中脘](/point/REN12.md) + [SP4 公孙](/point/SP4.md) + [ST41 解溪](/point/ST41.md) + [ST36 足三里](/point/ST36.md)（《全集》）。  
 - 腹痛：[REN12 中脘](/point/REN12.md) + [PC6 内关](/point/PC6.md) + [ST36 足三里](/point/ST36.md)（《大成》）。  
@@ -134,7 +134,7 @@ Finally Zhōngwǎn REN-12 is cited in the Song of the Nine Needles for Return
 - 泻下未消化食物：[REN12 中脘](/point/REN12.md) + [SP6 三阴交](/point/SP6.md)（《补命》）。  
 - 腹泻不止：[REN12 中脘](/point/REN12.md) + [ST25 天枢](/point/ST25.md) + [REN3 中极](/point/REN3.md)（《大成》）。  
 - 便血：[REN12 中脘](/point/REN12.md) + [ST36 足三里](/point/ST36.md) + [REN6 气海](/point/REN6.md)（《荣集》）。  
-- 排便难：[REN12 中脘](/point/REN12.md) + [KID4 大钟](/point/KID4.md) + [BL33 中膂](/point/BL33.md) + [REN4 关元](/point/REN4.md) + [BL56 承筋](/point/BL56.md) + [LIV3 太冲](/point/LIV3.md) + [BL57 承山](/point/BL57.md) + [KID3 太溪](/point/KID3.md)（《补命》）。  
+- 排便难：[REN12 中脘](/point/REN12.md) + [KD4 大钟](/point/KD4.md) + [BL33 中膂](/point/BL33.md) + [REN4 关元](/point/REN4.md) + [BL56 承筋](/point/BL56.md) + [LR3 太冲](/point/LR3.md) + [BL57 承山](/point/BL57.md) + [KD3 太溪](/point/KD3.md)（《补命》）。  
 - 诸痰病、头风、气喘咳嗽、各类痰饮：[REN12 中脘](/point/REN12.md) + [ST40 丰隆](/point/ST40.md)（《医学纲目》）。  
-- 呼吸困难不能行：[REN12 中脘](/point/REN12.md) + [LIV14 期门](/point/LIV14.md) + [LI9 上廉](/point/LI9.md)（《大成》）。  
+- 呼吸困难不能行：[REN12 中脘](/point/REN12.md) + [LR14 期门](/point/LR14.md) + [LI9 上廉](/point/LI9.md)（《大成》）。  
 - 黄疸伴四肢无力：[REN12 中脘](/point/REN12.md) + [ST36 足三里](/point/ST36.md)（《玉龙经》）。  

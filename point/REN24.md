@@ -107,7 +107,7 @@ As the terminal point of the Conception vessel, Chéngjiāng REN-24 is indicat
 - 中风后牙关紧闭：泻[REN24 承浆](/point/REN24.md) + [LI4 合谷](/point/LI4.md) + [ST6 颊车](/point/ST6.md) + [DU26 人中](/point/DU26.md) + [DU20 百会](/point/DU20.md)（《大成》）。  
 - 失音：[REN24 承浆](/point/REN24.md) + [DU16 风府](/point/DU16.md)（《补命》）。  
 - 鼻衄不止：[REN24 承浆](/point/REN24.md) + [BL40 委中](/point/BL40.md)（《系统经典》）。  
-- 消渴症伴大渴：[REN24 承浆](/point/REN24.md) + [BL49 意舍](/point/BL49.md) + [KID2 然谷](/point/KID2.md) + [SJ1 关冲](/point/SJ1.md)（《千金方》）。  
-- 消渴症：[REN24 承浆](/point/REN24.md) + [MHN20 金津](/point/MHN20.md) + [MHN20 玉液](/point/MHN20.md) + [DU26 人中](/point/DU26.md) + [REN23 廉泉](/point/REN23.md) + [LI11 曲池](/point/LI11.md) + [PC8 劳宫](/point/PC8.md) + [LIV3 太冲](/point/LIV3.md) + [LIV2 行间](/point/LIV2.md) + [SP5 商丘](/point/SP5.md) + [KID2 然谷](/point/KID2.md) + [SP1 隐白](/point/SP1.md)（《大成》）。  
+- 消渴症伴大渴：[REN24 承浆](/point/REN24.md) + [BL49 意舍](/point/BL49.md) + [KD2 然谷](/point/KD2.md) + [SJ1 关冲](/point/SJ1.md)（《千金方》）。  
+- 消渴症：[REN24 承浆](/point/REN24.md) + [MHN20 金津](/point/MHN20.md) + [MHN20 玉液](/point/MHN20.md) + [DU26 人中](/point/DU26.md) + [REN23 廉泉](/point/REN23.md) + [LI11 曲池](/point/LI11.md) + [PC8 劳宫](/point/PC8.md) + [LR3 太冲](/point/LR3.md) + [LR2 行间](/point/LR2.md) + [SP5 商丘](/point/SP5.md) + [KD2 然谷](/point/KD2.md) + [SP1 隐白](/point/SP1.md)（《大成》）。  
 - 口疮：[REN24 承浆](/point/REN24.md) + [PC8 劳宫](/point/PC8.md)（《汇编》）。  
 - 头项强痛难转：[REN24 承浆](/point/REN24.md) + [DU16 风府](/point/DU16.md)（《玉龙颂》）。  

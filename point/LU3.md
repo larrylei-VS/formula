@@ -97,7 +97,7 @@ Tiānfǔ LU-3 is also indicated for _'floating corpse ghost talk'_. This term 
 
 #### 1.9. 配伍
 
-- 气逆喘息不能呼吸：[LU3 天府](/point/LU3.md) + [KID27 俞府](/point/KID27.md) + [KID25 神藏](/point/KID25.md)（《补命》）。  
+- 气逆喘息不能呼吸：[LU3 天府](/point/LU3.md) + [KD27 俞府](/point/KD27.md) + [KD25 神藏](/point/KD25.md)（《补命》）。  
 - 气逆喘息、举肩呼吸、食无味：[LU3 天府](/point/LU3.md) + [ST13 气户](/point/ST13.md) + [LU2 云门](/point/LU2.md) + [HE7 神门](/point/HE7.md)（《千金方》）。  
 - 鼻衄：[LU3 天府](/point/LU3.md) + [LI4 合谷](/point/LI4.md)（《百症赋》）。  
 - 瘿病、喉肿：[LU3 天府](/point/LU3.md) + [SI13 曲垣](/point/SI13.md)（《千金方》）。  

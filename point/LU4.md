@@ -65,5 +65,5 @@ Perpendicular insertion 0.5 to 1 cun.
 
 #### 1.8. 配伍
 
-- 心痛伴气短：[LU4 侠白](/point/LU4.md) + [LIV14 期门](/point/LIV14.md) + [DU1 长强](/point/DU1.md) + [REN22 天突](/point/REN22.md) + [PC9 中冲](/point/PC9.md)（《千金方》）。  
+- 心痛伴气短：[LU4 侠白](/point/LU4.md) + [LR14 期门](/point/LR14.md) + [DU1 长强](/point/DU1.md) + [REN22 天突](/point/REN22.md) + [PC9 中冲](/point/PC9.md)（《千金方》）。  
 - 紫白风斑（癣）：[LU4 侠白](/point/LU4.md) + [LU3 天府](/point/LU3.md)（《经穴探》）。

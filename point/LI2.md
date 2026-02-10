@@ -112,9 +112,9 @@ i. 向近端或远端斜刺0.2至0.3寸； ii. 向掌心方向直斜刺0.5寸。
 
 眼痛：[LI2 二间](/point/LI2.md)，[LI5 阳溪](/point/LI5.md)，[PC7 大陵](/point/PC7.md)，[LI3 三间](/point/LI3.md)，[SI2 前谷](/point/SI2.md) 和[DU23 上星](/point/DU23.md)（《针灸大成》）。
 
-嗜睡：[LI2 二间](/point/LI2.md)，[LI13 手五里](/point/LI13.md)，[KID3 太溪](/point/KID3.md)，[KID4 大钟](/point/KID4.md) 和[KID6 照海](/point/KID6.md)（《资生经》）。
+嗜睡：[LI2 二间](/point/LI2.md)，[LI13 手五里](/point/LI13.md)，[KD3 太溪](/point/KD3.md)，[KD4 大钟](/point/KD4.md) 和[KD6 照海](/point/KD6.md)（《资生经》）。
 
-嗜睡：[LI2 二间](/point/LI2.md)，[LI3 三间](/point/LI3.md)，[KID3 太溪](/point/KID3.md)，[KID6 照海](/point/KID6.md)，[DU20 百会](/point/DU20.md)，[SJ10 天井](/point/SJ10.md)，[ST45 厉兑](/point/ST45.md) 和[BL18 肝俞](/point/BL18.md)（《针灸大成》）。
+嗜睡：[LI2 二间](/point/LI2.md)，[LI3 三间](/point/LI3.md)，[KD3 太溪](/point/KD3.md)，[KD6 照海](/point/KD6.md)，[DU20 百会](/point/DU20.md)，[SJ10 天井](/point/SJ10.md)，[ST45 厉兑](/point/ST45.md) 和[BL18 肝俞](/point/BL18.md)（《针灸大成》）。
 
 过度惊吓：[LI2 二间](/point/LI2.md)，[HE6 阴郄](/point/HE6.md)，[PC5 间使](/point/PC5.md) 和[ST45 厉兑](/point/ST45.md)（《资生经》）。
 

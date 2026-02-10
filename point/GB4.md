@@ -78,4 +78,4 @@ Yan Zheng-shi of the Ming dynasty, in Investigation of Points Along the Channel
 - 偏头痛：[GB4 颔厌](/point/GB4.md) + [GB5 悬颅](/point/GB5.md)（《百症赋》）。
 - 风眩及偏头痛：[GB4 颔厌](/point/GB4.md) + [DU21 前顶](/point/DU21.md) + [DU19 后顶](/point/DU19.md)（《千金方》）。
 - 风眩：[GB4 颔厌](/point/GB4.md) + [DU19 后顶](/point/DU19.md) + [BL9 玉枕](/point/BL9.md)（《补命》）。
-- 颈痛、关节痛及出汗：[GB4 颔厌](/point/GB4.md) + [BL58 飞阳](/point/BL58.md) + [KID1 涌泉](/point/KID1.md)（《千金方》）。
+- 颈痛、关节痛及出汗：[GB4 颔厌](/point/GB4.md) + [BL58 飞阳](/point/BL58.md) + [KD1 涌泉](/point/KD1.md)（《千金方》）。

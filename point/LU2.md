@@ -78,7 +78,7 @@ According to the Essential Questions[](https://app.amanualofacupuncture.com/boo
 
 #### 1.9. 配伍
 
-- 胸痛：[LU2 云门](/point/LU2.md) + [LU1 中府](/point/LU1.md) + [SP1 隐白](/point/SP1.md) + [LIV14 期门](/point/LIV14.md) + [BL13 肺俞](/point/BL13.md) + [BL47 魂门](/point/BL47.md) + [PC7 大陵](/point/PC7.md)（《千金方》）。  
+- 胸痛：[LU2 云门](/point/LU2.md) + [LU1 中府](/point/LU1.md) + [SP1 隐白](/point/SP1.md) + [LR14 期门](/point/LR14.md) + [BL13 肺俞](/point/BL13.md) + [BL47 魂门](/point/BL47.md) + [PC7 大陵](/point/PC7.md)（《千金方》）。  
 - 肩痛不能举臂：[LU2 云门](/point/LU2.md) + [SI12 秉风](/point/SI12.md)（《补命》）。  
 - 气逆喘息、举肩呼吸、食无味：[LU2 云门](/point/LU2.md) + [ST13 气户](/point/ST13.md) + [LU3 天府](/point/LU3.md) + [HE7 神门](/point/HE7.md)（《千金方》）。  
-- 喉痹：[LU2 云门](/point/LU2.md) + [LU1 中府](/point/LU1.md) + [LI15 肩髃](/point/LI15.md) + [BL40 委中](/point/BL40.md) + [KID7 复溜](/point/KID7.md) + [GB10 浮白](/point/GB10.md)（《补命》）。
+- 喉痹：[LU2 云门](/point/LU2.md) + [LU1 中府](/point/LU1.md) + [LI15 肩髃](/point/LI15.md) + [BL40 委中](/point/BL40.md) + [KD7 复溜](/point/KD7.md) + [GB10 浮白](/point/GB10.md)（《补命》）。

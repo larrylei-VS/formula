@@ -125,9 +125,9 @@ Finally, Zhōngjí CV-3 is indicated for deficiency of yang qi and lower origi
 #### 1.8. 配伍
 
 - 尿不出：[CV3 中极](/point/CV3.md) + [CV2 曲骨](/point/CV2.md) + [CV5 石门](/point/CV5.md) + [CV4 关元](/point/CV4.md) + [SP6 三阴交](/point/SP6.md)（《补命》）。  
-- 尿难及遗精：[CV3 中极](/point/CV3.md) + [LIV5 蠡沟](/point/LIV5.md) + [SP7 漏谷](/point/SP7.md) + [BL36 承扶](/point/BL36.md) + [BL67 至阴](/point/BL67.md)（《补命》）。  
-- 遗精：[CV3 中极](/point/CV3.md) + [BL67 至阴](/point/BL67.md) + [LIV8 曲泉](/point/LIV8.md)（《补命》）。  
-- 阴茎痛：[CV3 中极](/point/CV3.md) + [KID3 太溪](/point/KID3.md) + [LU10 鱼际](/point/LU10.md) + [SP6 三阴交](/point/SP6.md)（《大成》）。  
+- 尿难及遗精：[CV3 中极](/point/CV3.md) + [LR5 蠡沟](/point/LR5.md) + [SP7 漏谷](/point/SP7.md) + [BL36 承扶](/point/BL36.md) + [BL67 至阴](/point/BL67.md)（《补命》）。  
+- 遗精：[CV3 中极](/point/CV3.md) + [BL67 至阴](/point/BL67.md) + [LR8 曲泉](/point/LR8.md)（《补命》）。  
+- 阴茎痛：[CV3 中极](/point/CV3.md) + [KD3 太溪](/point/KD3.md) + [LU10 鱼际](/point/LU10.md) + [SP6 三阴交](/point/SP6.md)（《大成》）。  
 - 阴道突发红肿痛：[CV3 中极](/point/CV3.md) + [CV1 会阴](/point/CV1.md) + [SP6 三阴交](/point/SP6.md)（《大成》）。  
 - 不孕症：[CV3 中极](/point/CV3.md) + [MCA18 子宫](/point/MCA18.md)（《大成》）。  
 - 子宫出血：[CV3 中极](/point/CV3.md) + [MCA18 子宫](/point/MCA18.md)（《大成》）。  

@@ -109,7 +109,7 @@ One pathway of the Penetrating vessel ascends to the face, and Gōngsūn SP-4 
 
 脾经在腹部脐上和脐下都与任脉交会（[REN3 中极](/point/REN3.md)、[REN4 关元](/point/REN4.md) 和[REN10 下脘](/point/REN10.md)），而冲脉则经过腹部上下肾经的所有穴位。在临床实践中，[SP4 公孙](/point/SP4.md) 是治疗气滞、血瘀或湿阻导致的上下腹部胀痛的重要穴位。根据《河间活法》中“八法”的讨论，[SP4 公孙](/point/SP4.md) 特别主治脐下腹痛。其他文献则强调其对胃脘痛和脐周疼痛均有效。因此，虽然所有文献都同意其治疗腹痛的能力，但对其精确作用范围的差异反映了它对上腹部胃和下腹部肠道（通过脾）的影响，以及其所影响的经脉路径。
 
-与阴经的其他络穴（[LU7 列缺](/point/LU7.md)、[HE5 通里](/point/HE5.md)、[KID4 大钟](/point/KID4.md)、[PC6 内关](/point/PC6.md) 和[LIV5 蠡沟](/point/LIV5.md)）一样，[SP4 公孙](/point/SP4.md) 对情志障碍有显著影响。脾经与心相连，当痰湿积聚并转化为痰热时，可能上扰心窍，扰乱神志，引起癫狂、狂言谵语、失眠烦躁和癫痫。或者，如果脾气虚弱，则血源不足，心神失养，导致失眠和烦躁。[SP4 公孙](/point/SP4.md) 作为脾经穴位，不寻常地也主治胆虚和多叹息。关于此证型的更详细讨论，请参阅[BL19 胆俞](/point/BL19.md)。
+与阴经的其他络穴（[LU7 列缺](/point/LU7.md)、[HE5 通里](/point/HE5.md)、[KD4 大钟](/point/KD4.md)、[PC6 内关](/point/PC6.md) 和[LR5 蠡沟](/point/LR5.md)）一样，[SP4 公孙](/point/SP4.md) 对情志障碍有显著影响。脾经与心相连，当痰湿积聚并转化为痰热时，可能上扰心窍，扰乱神志，引起癫狂、狂言谵语、失眠烦躁和癫痫。或者，如果脾气虚弱，则血源不足，心神失养，导致失眠和烦躁。[SP4 公孙](/point/SP4.md) 作为脾经穴位，不寻常地也主治胆虚和多叹息。关于此证型的更详细讨论，请参阅[BL19 胆俞](/point/BL19.md)。
 
 冲脉在胸部散布，而脾经与心、胸和胁肋部相连。《针灸大全》推荐[SP4 公孙](/point/SP4.md) 治疗“九种心痛”以及轻度胸痛。[PC6 内关](/point/PC6.md)，阴维脉的交会穴，常与[SP4 公孙](/point/SP4.md)，冲脉的交会穴，联合使用，以增强后者治疗心胸疼痛的能力，以及宁心安神、调理中焦气机，从而治疗疼痛、胀满和恶心。
 
@@ -133,8 +133,8 @@ One pathway of the Penetrating vessel ascends to the face, and Gōngsūn SP-4 
 * 呕吐痰涎清稀，眩晕不止：[SP4 公孙](/point/SP4.md)，[ST40 丰隆](/point/ST40.md)，[LI5 阳溪](/point/LI5.md) 和[REN17 膻中](/point/REN17.md)（《大全集》）。
 * 霍乱吐泻：[SP4 公孙](/point/SP4.md)，[REN14 巨阙](/point/REN14.md)，[SJ1 关冲](/point/SJ1.md)，[SJ6 支沟](/point/SJ6.md) 和[ST41 解溪](/point/ST41.md)（《针灸甲乙经》）。
 * 慢性疟疾伴食欲不振：[SP4 公孙](/point/SP4.md)，[ST44 内庭](/point/ST44.md) 和[ST45 厉兑](/point/ST45.md)（《针灸大成》）。
-* 胁肋部疼痛：[SP4 公孙](/point/SP4.md)，[SJ6 支沟](/point/SJ6.md)，[GB34 阳陵泉](/point/GB34.md) 和[LIV13 章门](/point/LIV13.md)（《大全集》）。
+* 胁肋部疼痛：[SP4 公孙](/point/SP4.md)，[SJ6 支沟](/point/SJ6.md)，[GB34 阳陵泉](/point/GB34.md) 和[LR13 章门](/point/LR13.md)（《大全集》）。
 * 头面部肿胀：[SP4 公孙](/point/SP4.md) 和[GB34 阳陵泉](/point/GB34.md)（《资生经》）。
-* 腰痛不能屈伸：[SP4 公孙](/point/SP4.md)，[BL39 委阳](/point/BL39.md)，[BL37 殷门](/point/BL37.md)，[SP9 阴陵泉](/point/SP9.md) 和[LIV2 行间](/point/LIV2.md)（《千金方》）。
+* 腰痛不能屈伸：[SP4 公孙](/point/SP4.md)，[BL39 委阳](/point/BL39.md)，[BL37 殷门](/point/BL37.md)，[SP9 阴陵泉](/point/SP9.md) 和[LR2 行间](/point/LR2.md)（《千金方》）。
 
 ---

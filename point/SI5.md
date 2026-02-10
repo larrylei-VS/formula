@@ -110,7 +110,7 @@ Finally, in learning the names of the points of the yang channels at the wrist, 
 * 耳鸣耳聋：**[SI5 阳谷](/point/SI5.md)**，**[ST7 下关](/point/ST7.md)**，**[SJ1 关冲](/point/SJ1.md)**，**[SJ2 液门](/point/SJ2.md)** 和 **[LI5 阳溪](/point/LI5.md)**（《针灸甲乙经》）。
 * 眩晕和眼痛：**[SI5 阳谷](/point/SI5.md)** 和 **[BL58 飞扬](/point/BL58.md)**（《资生经》）。
 * 狂笑：**[SI5 阳谷](/point/SI5.md)** 和 **[HE7 神门](/point/HE7.md)**（《千金方》）。
-* 狂病伴呕吐：**[SI5 阳谷](/point/SI5.md)**，**[KID9 筑宾](/point/KID9.md)**，**[DU19 后顶](/point/DU19.md)**，**[DU18 强间](/point/DU18.md)**，**[DU17 脑户](/point/DU17.md)**，**[BL8 络却](/point/BL8.md)** 和 **[BL9 玉枕](/point/BL9.md)**（《千金方》）。
+* 狂病伴呕吐：**[SI5 阳谷](/point/SI5.md)**，**[KD9 筑宾](/point/KD9.md)**，**[DU19 后顶](/point/DU19.md)**，**[DU18 强间](/point/DU18.md)**，**[DU17 脑户](/point/DU17.md)**，**[BL8 络却](/point/BL8.md)** 和 **[BL9 玉枕](/point/BL9.md)**（《千金方》）。
 * 循衣摸床（或行走无度）：**[SI5 阳谷](/point/SI5.md)** 和 **[DU16 风府](/point/DU16.md)**（《针灸大成》）。
 * 肘部疼痛，有时觉冷：**[SI5 阳谷](/point/SI5.md)**，**[LI11 曲池](/point/LI11.md)**，**[SJ1 关冲](/point/SJ1.md)**，**[LI10 手三里](/point/LI10.md)**，**[SJ3 中渚](/point/SJ3.md)** 和 **[LU5 尺泽](/point/LU5.md)**（《千金方》）。
 * 肩部不能抬起穿衣：**[SI5 阳谷](/point/SI5.md)** 和 **[SJ11 清冷渊](/point/SJ11.md)**（《千金方》）。

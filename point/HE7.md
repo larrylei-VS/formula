@@ -101,7 +101,7 @@ Finally, the Heart channel is interiorly-exteriorly coupled with the Small Intes
 
 **[HE7 神门](/point/HE7.md)** 是心经的输穴和原穴。《灵枢·本输》第六篇推荐输穴用于治疗脏腑疾病，而第一篇则说“五脏有疾，取十二原穴”。**[HE7 神门](/point/HE7.md)** 是治疗以下两个方面的关键穴位：i. 所有神志疾病，以及 ii. 心脏虚证。
 
-**[HE7 神门](/point/HE7.md)** (Spirit Gate) 是宁心安神最重要的穴位。《灵枢·本神》记载：“心者，神之舍也”。中医中“神”的功能涵盖精神活动、意识、记忆、思维和睡眠。同时它也指一个人情感和精神生活的总和。根据《玉龙歌》记载，“**[HE7 神门](/point/HE7.md)** 治心惊”。**[HE7 神门](/point/HE7.md)** 与阴经的其他络穴（**[LU7 列缺](/point/LU7.md)**、**[SP4 公孙](/point/SP4.md)**、**[KID4 大钟](/point/KID4.md)**、**[LIV5 蠡沟](/point/LIV5.md)** 和**[PC6 内关](/point/PC6.md)**）一样，具有治疗精神情志障碍的特殊能力，但作为心之络穴，它尤其适合此目的，且作用广泛。然而，它宁心安神的作用主要侧重于情志障碍，而非睡眠或记忆障碍，对后者 **[HE7 神门](/point/HE7.md)** 更为有效。费伯雄认为：“七情伤五脏，皆伤心。”（此引用为意译，原文略有不同）。**[HE7 神门](/point/HE7.md)** 在经典中主治多种不同的情志表现，不仅是传统上与心失调相关的惊恐和烦躁，还有通常认为会伤及或因伤及其他脏腑而引起的恐惧、烦躁、愤怒、悲伤和抑郁。名医华佗论及心与恐惧的关系时说：“思虑过度则生恐，恐则伤心；心伤则神丧，神丧则生恐惧。”
+**[HE7 神门](/point/HE7.md)** (Spirit Gate) 是宁心安神最重要的穴位。《灵枢·本神》记载：“心者，神之舍也”。中医中“神”的功能涵盖精神活动、意识、记忆、思维和睡眠。同时它也指一个人情感和精神生活的总和。根据《玉龙歌》记载，“**[HE7 神门](/point/HE7.md)** 治心惊”。**[HE7 神门](/point/HE7.md)** 与阴经的其他络穴（**[LU7 列缺](/point/LU7.md)**、**[SP4 公孙](/point/SP4.md)**、**[KD4 大钟](/point/KD4.md)**、**[LR5 蠡沟](/point/LR5.md)** 和**[PC6 内关](/point/PC6.md)**）一样，具有治疗精神情志障碍的特殊能力，但作为心之络穴，它尤其适合此目的，且作用广泛。然而，它宁心安神的作用主要侧重于情志障碍，而非睡眠或记忆障碍，对后者 **[HE7 神门](/point/HE7.md)** 更为有效。费伯雄认为：“七情伤五脏，皆伤心。”（此引用为意译，原文略有不同）。**[HE7 神门](/point/HE7.md)** 在经典中主治多种不同的情志表现，不仅是传统上与心失调相关的惊恐和烦躁，还有通常认为会伤及或因伤及其他脏腑而引起的恐惧、烦躁、愤怒、悲伤和抑郁。名医华佗论及心与恐惧的关系时说：“思虑过度则生恐，恐则伤心；心伤则神丧，神丧则生恐惧。”
 
 至于调理心气，**[HE7 神门](/point/HE7.md)** 在治疗心悸、惊悸、心动不安和心律失常方面发挥重要作用。中医中，心悸细分为：i. 普通心悸（泛指），ii. 惊悸（指由惊恐引发或伴有惊恐感的心悸），以及 iii. 心动不安（最严重的一种，指心悸感可上至心脏，下至脐部——心经筋的终止点）。心悸可能伴随心脏的任何证型，但作为心脏节律性跳动的失调，它总是涉及心气。
 
@@ -117,10 +117,10 @@ Finally, the Heart channel is interiorly-exteriorly coupled with the Small Intes
 #### **穴位组合 (Combinations)**
 
 * 恐惧惊吓伴心痛：**[HE7 神门](/point/HE7.md)**，**[HE9 少冲](/point/HE9.md)**，**[GB34 阳陵泉](/point/GB34.md)** 和 **[PC6 内关](/point/PC6.md)**（《聚英》）。
-* 气虚伴惊悸：**[HE7 神门](/point/HE7.md)**，**[LIV5 蠡沟](/point/LIV5.md)** 和 **[REN14 巨阙](/point/REN14.md)**（《资生经》）。
-* 心痹痛，悲伤恐惧：**[HE7 神门](/point/HE7.md)**，**[LIV1 大敦](/point/LIV1.md)** 和 **[LU10 鱼际](/point/LU10.md)**（《针灸大成》）。
+* 气虚伴惊悸：**[HE7 神门](/point/HE7.md)**，**[LR5 蠡沟](/point/LR5.md)** 和 **[REN14 巨阙](/point/REN14.md)**（《资生经》）。
+* 心痹痛，悲伤恐惧：**[HE7 神门](/point/HE7.md)**，**[LR1 大敦](/point/LR1.md)** 和 **[LU10 鱼际](/point/LU10.md)**（《针灸大成》）。
 * 悲伤哭泣：**[HE7 神门](/point/HE7.md)**，**[BL15 心俞](/point/BL15.md)**，**[ST41 解溪](/point/ST41.md)** 和 **[PC7 大陵](/point/PC7.md)**（《资生经》）。
-* 痴呆：**[HE7 神门](/point/HE7.md)**，**[LU11 少商](/point/LU11.md)**，**[KID1 涌泉](/point/KID1.md)** 和 **[BL15 心俞](/point/BL15.md)**（《针灸大成》）。
+* 痴呆：**[HE7 神门](/point/HE7.md)**，**[LU11 少商](/point/LU11.md)**，**[KD1 涌泉](/point/KD1.md)** 和 **[BL15 心俞](/point/BL15.md)**（《针灸大成》）。
 * 狂笑：**[HE7 神门](/point/HE7.md)** 和 **[SI5 阳谷](/point/SI5.md)**（《千金方》）。
 * 癫狂，欲登高而歌，弃衣奔走：**[HE7 神门](/point/HE7.md)**，**[ST42 冲阳](/point/ST42.md)** 和 **[SI3 后溪](/point/SI3.md)**（《针灸大成》）。
 * 癫狂奔走：**[HE7 神门](/point/HE7.md)** 和 **[REN13 上脘](/point/REN13.md)**（《百症赋》）。
@@ -129,8 +129,8 @@ Finally, the Heart channel is interiorly-exteriorly coupled with the Small Intes
 * 心痛：**[HE7 神门](/point/HE7.md)**，**[BL14 厥阴俞](/point/BL14.md)** 和 **[GB41 足临泣](/point/GB41.md)**（《资生经》）。
 * 呕血：**[HE7 神门](/point/HE7.md)**，**[PC3 曲泽](/point/PC3.md)** 和 **[LU10 鱼际](/point/LU10.md)**（《针灸大成》）。
 * 遗尿：**[HE7 神门](/point/HE7.md)**，**[ST22 关门](/point/ST22.md)** 和 **[LU1 中府](/point/LU1.md)**（《千金方》）。
-* 遗尿：**[HE7 神门](/point/HE7.md)**，**[LU10 鱼际](/point/LU10.md)**，**[LIV3 太冲](/point/LIV3.md)**，**[LIV1 大敦](/point/LIV1.md)** 和 **[REN4 关元](/point/REN4.md)**（《针灸大成》）。
+* 遗尿：**[HE7 神门](/point/HE7.md)**，**[LU10 鱼际](/point/LU10.md)**，**[LR3 太冲](/point/LR3.md)**，**[LR1 大敦](/point/LR1.md)** 和 **[REN4 关元](/point/REN4.md)**（《针灸大成》）。
 * 遗尿：**[HE7 神门](/point/HE7.md)**，**[ST22 关门](/point/ST22.md)** 和 **[BL40 委中](/point/BL40.md)**（《针灸甲乙经》）。
-* 遗尿：**[HE7 神门](/point/HE7.md)**，**[BL28 膀胱俞](/point/BL28.md)**，**[HE5 通里](/point/HE5.md)**，**[LIV1 大敦](/point/LIV1.md)**，**[SP11 箕门](/point/SP11.md)**，**[LIV3 太冲](/point/LIV3.md)** 和 **[BL40 委中](/point/BL40.md)**（《资生经》）。
+* 遗尿：**[HE7 神门](/point/HE7.md)**，**[BL28 膀胱俞](/point/BL28.md)**，**[HE5 通里](/point/HE5.md)**，**[LR1 大敦](/point/LR1.md)**，**[SP11 箕门](/point/SP11.md)**，**[LR3 太冲](/point/LR3.md)** 和 **[BL40 委中](/point/BL40.md)**（《资生经》）。
 
 ---

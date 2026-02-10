@@ -152,7 +152,7 @@ i. 稍斜向尺侧进针，或斜向近端或远端（分别向肘部或腕部�
 * 耳聋耳鸣：**[SJ5 外关](/point/SJ5.md)** 和 **[SI16 天窗](/point/SI16.md)**（《资生经》）。
 * 腹痛：**[SJ5 外关](/point/SJ5.md)** 和 **[PC7 大陵](/point/PC7.md)**（《玉龙歌》）。
 * 腹痛便秘：**[SJ5 外关](/point/SJ5.md)**，**[SJ6 支沟](/point/SJ6.md)** 和 **[PC7 大陵](/point/PC7.md)**（《玉龙歌》）。
-* 胁肋部疼痛：**[SJ5 外关](/point/SJ5.md)**，**[SJ6 支沟](/point/SJ6.md)** 和 **[LIV13 章门](/point/LIV13.md)**（《针灸大成》）。
+* 胁肋部疼痛：**[SJ5 外关](/point/SJ5.md)**，**[SJ6 支沟](/point/SJ6.md)** 和 **[LR13 章门](/point/LR13.md)**（《针灸大成》）。
 * 肘部和手指屈伸不利：**[SJ5 外关](/point/SJ5.md)**，**[SJ3 中渚](/point/SJ3.md)**，**[LI11 曲池](/point/LI11.md)** 和 **[LI10 手三里](/point/LI10.md)**（《针灸大成》）。
 * 手臂痿证麻木：**[SJ5 外关](/point/SJ5.md)**，**[SJ10 天井](/point/SJ10.md)** 和 **[LI11 曲池](/point/LI11.md)**（《千金方》）。
 * 腋下瘰疬（如刀）：**[SJ5 外关](/point/SJ5.md)**，**[SJ6 支沟](/point/SJ6.md)**，**[GB22 渊液](/point/GB22.md)** 和 **[GB41 足临泣](/point/GB41.md)**（《图翼》）。

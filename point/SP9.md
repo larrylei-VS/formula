@@ -102,7 +102,7 @@ Finally, Yīnlíngquán SP-9 is an important point to treat disorders of the k
 
 《医学入门》载：“**[SP9 阴陵泉](/point/SP9.md)** 开通水道”。脾主运化水谷，与肺和肾一起，是负责水液正常输布的三个脏腑之一。当脾的功能受损时（无论是气虚或阳虚，外湿或湿热阻滞，或肝气横逆），其运化水液的能力将减弱，导致湿邪积聚，引起全身范围的多种症状。湿邪可能与原有的热邪结合，或根据刘完素阐发的“同气相求”原理，随时间转化为热。这种“原理”描述了客邪如何倾向于根据宿主的性质而转化，这同样适用于政治外交、军事入侵和医学。既然人类宿主是活的，因此属阳、属温，任何客邪，如湿邪，都会随时间带上这种热性。**[SP9 阴陵泉](/point/SP9.md)** 是脾经上化湿利湿热的首要穴位，与**[SP5 商丘](/point/SP5.md)**，特别是**[SP3 太白](/point/SP3.md)** 相比，其补益脾虚证的作用相对较小。
 
-三条足阴经的合穴，均为水穴，共同具有清利下焦湿邪和湿热的特性。**[LIV8 曲泉](/point/LIV8.md)** 主要作用于生殖器区域（肝经主之），而**[KID10 阴谷](/point/KID10.md)** 主要作用于泌尿系统（肾经主之）。然而，由于湿邪与脾脏关系密切，**[SP9 阴陵泉](/point/SP9.md)** 能够治疗所有因湿邪和湿热积聚导致的下焦疾病。当这些病邪侵袭肠道（腹泻和痢疾）、泌尿系统（小便不利、尿潴留、淋证）和生殖器（带下和生殖器疼痛）时，无论其是急性发作并因外邪所致，还是慢性并内生，**[SP9 阴陵泉](/point/SP9.md)** 都可主治。
+三条足阴经的合穴，均为水穴，共同具有清利下焦湿邪和湿热的特性。**[LR8 曲泉](/point/LR8.md)** 主要作用于生殖器区域（肝经主之），而**[KD10 阴谷](/point/KD10.md)** 主要作用于泌尿系统（肾经主之）。然而，由于湿邪与脾脏关系密切，**[SP9 阴陵泉](/point/SP9.md)** 能够治疗所有因湿邪和湿热积聚导致的下焦疾病。当这些病邪侵袭肠道（腹泻和痢疾）、泌尿系统（小便不利、尿潴留、淋证）和生殖器（带下和生殖器疼痛）时，无论其是急性发作并因外邪所致，还是慢性并内生，**[SP9 阴陵泉](/point/SP9.md)** 都可主治。
 
 尽管湿邪有下沉至下焦的趋势，但它也可能影响身体其他区域。在中焦，**[SP9 阴陵泉](/point/SP9.md)** 能够治疗阻碍胆汁或气机顺畅运行的湿邪，引起黄疸、腹胀、心下满（即胃脘部）和食欲不振。《循经考穴编》记载：“中下二部之疼痛，无不取**[SP9 阴陵泉](/point/SP9.md)** 而愈者”。
 
@@ -118,17 +118,17 @@ Finally, Yīnlíngquán SP-9 is an important point to treat disorders of the k
 #### **穴位组合 (Combinations)**
 
 * 脐周水肿：**[SP9 阴陵泉](/point/SP9.md)** 和 **[REN9 水分](/point/REN9.md)**（《百症赋》）。
-* 四肢水肿：**[SP9 阴陵泉](/point/SP9.md)**，**[SP6 三阴交](/point/SP6.md)**，**[LIV6 中都](/point/LIV6.md)**，**[LI4 合谷](/point/LI4.md)**，**[LI11 曲池](/point/LI11.md)**，**[SJ3 中渚](/point/SJ3.md)**，**[SJ2 液门](/point/SJ2.md)**，**[LIV2 行间](/point/LIV2.md)** 和 **[ST44 内庭](/point/ST44.md)**（《针灸大成》）。
+* 四肢水肿：**[SP9 阴陵泉](/point/SP9.md)**，**[SP6 三阴交](/point/SP6.md)**，**[LR6 中都](/point/LR6.md)**，**[LI4 合谷](/point/LI4.md)**，**[LI11 曲池](/point/LI11.md)**，**[SJ3 中渚](/point/SJ3.md)**，**[SJ2 液门](/point/SJ2.md)**，**[LR2 行间](/point/LR2.md)** 和 **[ST44 内庭](/point/ST44.md)**（《针灸大成》）。
 * 遗尿：**[SP9 阴陵泉](/point/SP9.md)** 和 **[GB34 阳陵泉](/point/GB34.md)**（《千金方》）。
-* 小便不利：**[SP9 阴陵泉](/point/SP9.md)**，**[REN6 气海](/point/REN6.md)** 和 **[SP6 三阴交](/point/SP6.md)**，继而针刺 **[KID10 阴谷](/point/KID10.md)** 和 **[PC7 大陵](/point/PC7.md)**（《针灸大成》）。
+* 小便不利：**[SP9 阴陵泉](/point/SP9.md)**，**[REN6 气海](/point/REN6.md)** 和 **[SP6 三阴交](/point/SP6.md)**，继而针刺 **[KD10 阴谷](/point/KD10.md)** 和 **[PC7 大陵](/point/PC7.md)**（《针灸大成》）。
 * 泻下完谷不化：补 **[SP9 阴陵泉](/point/SP9.md)** 和 **[SP6 三阴交](/point/SP6.md)**（《灵枢》）。
-* 寒湿洞泻伴完谷不化：**[SP9 阴陵泉](/point/SP9.md)**，**[KID2 然谷](/point/KID2.md)** 和 **[GB25 京门](/point/GB25.md)**（《千金方》）。
+* 寒湿洞泻伴完谷不化：**[SP9 阴陵泉](/point/SP9.md)**，**[KD2 然谷](/point/KD2.md)** 和 **[GB25 京门](/point/GB25.md)**（《千金方》）。
 * 胸中发热伴暴泻：**[SP9 阴陵泉](/point/SP9.md)** 和 **[SP1 隐白](/point/SP1.md)**（《千金方》）。
 * 霍乱吐泻：**[SP9 阴陵泉](/point/SP9.md)**，**[BL57 承山](/point/BL57.md)**，**[ST41 解溪](/point/ST41.md)** 和 **[SP3 太白](/point/SP3.md)**（《针灸大成》）。
-* 食欲不振：**[SP9 阴陵泉](/point/SP9.md)**，**[SP8 地机](/point/SP8.md)**，**[REN9 水分](/point/REN9.md)**，**[KID21 幽门](/point/KID21.md)** 和 **[BL27 小肠俞](/point/BL27.md)**（《资生经》）。
-* 小肠疼痛放射至脐部：**[SP9 阴陵泉](/point/SP9.md)** 和 **[KID1 涌泉](/point/KID1.md)**（《天星穴》）。
+* 食欲不振：**[SP9 阴陵泉](/point/SP9.md)**，**[SP8 地机](/point/SP8.md)**，**[REN9 水分](/point/REN9.md)**，**[KD21 幽门](/point/KD21.md)** 和 **[BL27 小肠俞](/point/BL27.md)**（《资生经》）。
+* 小肠疼痛放射至脐部：**[SP9 阴陵泉](/point/SP9.md)** 和 **[KD1 涌泉](/point/KD1.md)**（《天星穴》）。
 * 膝关节肿胀难以忍受：**[SP9 阴陵泉](/point/SP9.md)** 和 **[GB34 阳陵泉](/point/GB34.md)**（《玉龙歌》）。
-* 下肢麻痹：**[SP9 阴陵泉](/point/SP9.md)**，**[GB30 环跳](/point/GB30.md)**，**[GB38 阳辅](/point/GB38.md)**，**[KID3 太溪](/point/KID3.md)** 和 **[BL67 至阴](/point/BL67.md)**（《针灸大成》）。
+* 下肢麻痹：**[SP9 阴陵泉](/point/SP9.md)**，**[GB30 环跳](/point/GB30.md)**，**[GB38 阳辅](/point/GB38.md)**，**[KD3 太溪](/point/KD3.md)** 和 **[BL67 至阴](/point/BL67.md)**（《针灸大成》）。
 
 ---
 

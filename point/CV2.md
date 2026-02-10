@@ -80,5 +80,5 @@ Qūgǔ CV-2 acts primarily on the genito-urinary regions, being able to treat a
 #### 1.8. 配伍
 
 - 尿不出：[CV2 曲骨](/point/CV2.md) + [CV5 石门](/point/CV5.md) + [CV4 关元](/point/CV4.md) + [CV3 中极](/point/CV3.md) + [SP6 三阴交](/point/SP6.md)（《补命》）。  
-- 赤白带下：[CV2 曲骨](/point/CV2.md)（灸7壮）+ [LIV3 太冲](/point/LIV3.md) + [CV4 关元](/point/CV4.md) + [KID7 复溜](/point/KID7.md) + [SP6 三阴交](/point/SP6.md) + [ST25 天枢](/point/ST25.md)（灸百壮）（《汇编》）。  
-- 惊痫、狂走及癫狂：[CV2 曲骨](/point/CV2.md) + [LIV2 行间](/point/LIV2.md) + [DU8 筋缩](/point/DU8.md) + [KID10 阴谷](/point/KID10.md)（《千金方》）。  
+- 赤白带下：[CV2 曲骨](/point/CV2.md)（灸7壮）+ [LR3 太冲](/point/LR3.md) + [CV4 关元](/point/CV4.md) + [KD7 复溜](/point/KD7.md) + [SP6 三阴交](/point/SP6.md) + [ST25 天枢](/point/ST25.md)（灸百壮）（《汇编》）。  
+- 惊痫、狂走及癫狂：[CV2 曲骨](/point/CV2.md) + [LR2 行间](/point/LR2.md) + [DU8 筋缩](/point/DU8.md) + [KD10 阴谷](/point/KD10.md)（《千金方》）。  

@@ -76,7 +76,7 @@ The primary clinical use of Yāoshū DU-2 is to treat pain of the sacrum and l
 
 #### 1.9. 配伍
 
-- 腰部僵痛：[DU2 腰俞](/point/DU2.md) + [BL40 委中](/point/BL40.md) + [KID1 涌泉](/point/KID1.md) + [BL27 小肠俞](/point/BL27.md) + [BL28 膀胱俞](/point/BL28.md)（《大成》）。  
+- 腰部僵痛：[DU2 腰俞](/point/DU2.md) + [BL40 委中](/point/BL40.md) + [KD1 涌泉](/point/KD1.md) + [BL27 小肠俞](/point/BL27.md) + [BL28 膀胱俞](/point/BL28.md)（《大成》）。  
 - 腰背僵硬不能侧屈：[DU2 腰俞](/point/DU2.md) + [BL13 肺俞](/point/BL13.md)（《大成》）。  
 - 寒风痹痛难愈：[DU2 腰俞](/point/DU2.md) + [GB30 环跳](/point/GB30.md)（《西弘颂》）。  
 - 腿麻：[DU2 腰俞](/point/DU2.md) + [DU16 风府](/point/DU16.md)（《千金方》）。  

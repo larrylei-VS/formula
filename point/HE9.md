@@ -81,7 +81,7 @@ Whilst its modern clinical use emphasises the treatment of such excess disorders
 
 #### **穴位组合 (Combinations)**
 
-* 口中灼热：**[HE9 少冲](/point/HE9.md)** 和 **[KID4 大钟](/point/KID4.md)**（《资生经》）。
+* 口中灼热：**[HE9 少冲](/point/HE9.md)** 和 **[KD4 大钟](/point/KD4.md)**（《资生经》）。
 * 发热：**[HE9 少冲](/point/HE9.md)** 和 **[LI11 曲池](/point/LI11.md)**（《百症赋》）。
 * 恐惧惊吓伴心痛：**[HE9 少冲](/point/HE9.md)**，**[HE7 神门](/point/HE7.md)**，**[GB34 阳陵泉](/point/GB34.md)** 和 **[PC6 内关](/point/PC6.md)**（《聚英》）。
 

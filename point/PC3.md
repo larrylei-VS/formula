@@ -115,9 +115,9 @@ Finally, Qūzé PC-3 is also widely used for disorders of the Pericardium chan
 * 心下动悸伴易受惊吓：**[PC3 曲泽](/point/PC3.md)** 和 **[PC7 大陵](/point/PC7.md)**（《千金方》）。
 * 心胸疼痛：**[PC3 曲泽](/point/PC3.md)**，**[PC6 内关](/point/PC6.md)** 和 **[PC7 大陵](/point/PC7.md)**（《针灸大成》）。
 * 心痛：**[PC3 曲泽](/point/PC3.md)**，**[PC4 郄门](/point/PC4.md)** 和 **[PC7 大陵](/point/PC7.md)**（《千金方》）。
-* 口干：**[PC3 曲泽](/point/PC3.md)** 和 **[LIV13 章门](/point/LIV13.md)**（《千金方》）。
+* 口干：**[PC3 曲泽](/point/PC3.md)** 和 **[LR13 章门](/point/LR13.md)**（《千金方》）。
 * 血虚口渴：**[PC3 曲泽](/point/PC3.md)** 和 **[LU11 少商](/point/LU11.md)**（《百症赋》）。
-* 无汗：**[PC3 曲泽](/point/PC3.md)**，**[KID7 复溜](/point/KID7.md)**，**[LU10 鱼际](/point/LU10.md)**，**[SI1 少泽](/point/SI1.md)**，**[DU23 上星](/point/DU23.md)**，**[LIV8 曲泉](/point/LIV8.md)**，**[BL60 昆仑](/point/BL60.md)**，**[GB43 侠溪](/point/GB43.md)** 和 **[GB44 足窍阴](/point/GB44.md)**（《针灸大成》）。
+* 无汗：**[PC3 曲泽](/point/PC3.md)**，**[KD7 复溜](/point/KD7.md)**，**[LU10 鱼际](/point/LU10.md)**，**[SI1 少泽](/point/SI1.md)**，**[DU23 上星](/point/DU23.md)**，**[LR8 曲泉](/point/LR8.md)**，**[BL60 昆仑](/point/BL60.md)**，**[GB43 侠溪](/point/GB43.md)** 和 **[GB44 足窍阴](/point/GB44.md)**（《针灸大成》）。
 
 ---
 

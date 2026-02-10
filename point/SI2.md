@@ -88,7 +88,7 @@ i. 斜刺，向远端刺0.2至0.3寸； ii. 垂直斜刺，向掌心方向刺0.5
 
 #### **穴位组合 (Combinations)**
 
-* 咽喉肿胀不能吞咽：**[SI2 前谷](/point/SI2.md)**，**[KID6 照海](/point/KID6.md)** 和 **[LIV4 中封](/point/LIV4.md)**（《千金方》）。
+* 咽喉肿胀不能吞咽：**[SI2 前谷](/point/SI2.md)**，**[KD6 照海](/point/KD6.md)** 和 **[LR4 中封](/point/LR4.md)**（《千金方》）。
 * 咽喉疲倦，颈部肿胀不能转头，面颊肿胀放射至耳部：**[SI2 前谷](/point/SI2.md)**，**[GB12 完骨](/point/GB12.md)** 和 **[SJ16 天牖](/point/SJ16.md)**（《千金方》）。
 * 耳聋：**[SI2 前谷](/point/SI2.md)**，**[SI3 后溪](/point/SI3.md)** 和 **[LI6 偏历](/point/LI6.md)**（《资生经》）。
 * 耳鸣：**[SI2 前谷](/point/SI2.md)**，**[LI6 偏历](/point/LI6.md)**，**[LI5 阳溪](/point/LI5.md)**，**[LI1 商阳](/point/LI1.md)**，**[BL8 络却](/point/BL8.md)** 和 **[SI4 腕骨](/point/SI4.md)**（《资生经》）。

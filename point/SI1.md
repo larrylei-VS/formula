@@ -105,7 +105,7 @@ Finally, in common with the other jing-well points, Shàozé SI-1 is used to r
 * 女性乳房肿胀：**[SI1 少泽](/point/SI1.md)** 和 **[GB41 足临泣](/point/GB41.md)**（《神灸经纶》）。
 * 女性乳房肿胀：**[SI1 少泽](/point/SI1.md)** 和 **[GB1 瞳子髎](/point/GB1.md)**（《图翼》）。
 * 乳痈：**[SI1 少泽](/point/SI1.md)**，**[ST39 下巨虚](/point/ST39.md)**，**[ST36 足三里](/point/ST36.md)**，**[GB43 侠溪](/point/GB43.md)**，**[LU10 鱼际](/point/LU10.md)**，**[BL40 委中](/point/BL40.md)** 和 **[GB41 足临泣](/point/GB41.md)**（《针灸大成》）。
-* 口糜，口热口干：**[SI1 少泽](/point/SI1.md)**，**[PC8 劳宫](/point/PC8.md)**，**[LI3 三间](/point/LI3.md)** 和 **[LIV3 太冲](/point/LIV3.md)**（《千金方》）。
+* 口糜，口热口干：**[SI1 少泽](/point/SI1.md)**，**[PC8 劳宫](/point/PC8.md)**，**[LI3 三间](/point/LI3.md)** 和 **[LR3 太冲](/point/LR3.md)**（《千金方》）。
 * 咽喉肿痛，舌卷口干：**[SI1 少泽](/point/SI1.md)**，**[SJ1 关冲](/point/SJ1.md)** 和 **[GB44 足窍阴](/point/GB44.md)**（《千金方》）。
 
 ---

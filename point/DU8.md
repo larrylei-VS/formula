@@ -82,5 +82,5 @@ Secondly, according to Investigation into Points Along the Channels, Jīnsūo 
 
 #### 1.9. 配伍
 
-- 惊痫、狂走及癫狂：[DU8 筋缩](/point/DU8.md) + [REN2 曲骨](/point/REN2.md) + [KID10 阴谷](/point/KID10.md) + [LIV2 行间](/point/LIV2.md)（《千金方》）。  
+- 惊痫、狂走及癫狂：[DU8 筋缩](/point/DU8.md) + [REN2 曲骨](/point/REN2.md) + [KD10 阴谷](/point/KD10.md) + [LR2 行间](/point/LR2.md)（《千金方》）。  
 - 脊柱僵硬：[DU8 筋缩](/point/DU8.md) + [ST28 水道](/point/ST28.md)（《百症赋》）。  

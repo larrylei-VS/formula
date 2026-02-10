@@ -96,7 +96,7 @@ Tiānchí PC-1 is almost exclusively indicated for excess patterns. Because of 
 
 * 腋窝肿胀：**[PC1 天池](/point/PC1.md)** 和 **[BL39 委阳](/point/BL39.md)**（《百症赋》）。
 * 腋窝肿胀：**[PC1 天池](/point/PC1.md)**，**[BL39 委阳](/point/BL39.md)**，**[BL62 申脉](/point/BL62.md)**，**[GB42 地五会](/point/GB42.md)**，**[GB38 阳辅](/point/GB38.md)** 和 **[GB41 足临泣](/point/GB41.md)**（《千金方》）。
-* 瘰疬：**[PC1 天池](/point/PC1.md)**，**[HE3 少海](/point/HE3.md)**，**[LIV13 章门](/point/LIV13.md)**，**[GB41 足临泣](/point/GB41.md)**，**[SJ6 支沟](/point/SJ6.md)**，**[GB38 阳辅](/point/GB38.md)**，**[GB21 肩井](/point/GB21.md)** 和 **[LI10 手三里](/point/LI10.md)**（《针灸大成》）。
+* 瘰疬：**[PC1 天池](/point/PC1.md)**，**[HE3 少海](/point/HE3.md)**，**[LR13 章门](/point/LR13.md)**，**[GB41 足临泣](/point/GB41.md)**，**[SJ6 支沟](/point/SJ6.md)**，**[GB38 阳辅](/point/GB38.md)**，**[GB21 肩井](/point/GB21.md)** 和 **[LI10 手三里](/point/LI10.md)**（《针灸大成》）。
 * 气逆咳嗽：**[PC1 天池](/point/PC1.md)**，**[REN22 天突](/point/REN22.md)**，**[REN17 膻中](/point/REN17.md)**，**[ST41 解溪](/point/ST41.md)** 和 **[SI15 肩中俞](/point/SI15.md)**（《资生经》）。
 
 ---

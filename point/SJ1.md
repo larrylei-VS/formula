@@ -107,7 +107,7 @@ Guānchōng SJ-1 is indicated in two other conditions. Firstly, acute disharmon
 * 头风眩晕：**[SJ1 关冲](/point/SJ1.md)**，**[BL60 昆仑](/point/BL60.md)**，**[SJ16 天牖](/point/SJ16.md)**，**[BL12 风门](/point/BL12.md)** 和 **[REN4 关元](/point/REN4.md)**（《千金方》）。
 * 咽喉肿痛，舌卷口干：**[SJ1 关冲](/point/SJ1.md)**，**[GB44 足窍阴](/point/GB44.md)** 和 **[SI1 少泽](/point/SI1.md)**（《千金方》）。
 * 舌软不能言语：**[SJ1 关冲](/point/SJ1.md)** 和 **[DU15 哑门](/point/DU15.md)**（《百症赋》）。
-* 消渴病伴大渴：**[SJ1 关冲](/point/SJ1.md)**，**[REN24 承浆](/point/REN24.md)**，**[KID2 然谷](/point/KID2.md)** 和 **[BL49 意舍](/point/BL49.md)**（《千金方》）。
+* 消渴病伴大渴：**[SJ1 关冲](/point/SJ1.md)**，**[REN24 承浆](/point/REN24.md)**，**[KD2 然谷](/point/KD2.md)** 和 **[BL49 意舍](/point/BL49.md)**（《千金方》）。
 * 肩部灼热感伴头不能转动：**[SJ1 关冲](/point/SJ1.md)**，**[SI9 肩贞](/point/SI9.md)** 和 **[LI15 肩髃](/point/LI15.md)**（《千金方》）。
 
 ---

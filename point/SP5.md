@@ -105,13 +105,13 @@ i. 垂直刺0.2至0.3寸； ii. 横刺，从肌腱下方透向或透刺至[ST41 
 
 #### 穴位组合 (Combinations)
 
-* 呕吐：[SP5 商丘](/point/SP5.md)，[KID21 幽门](/point/KID21.md) 和[BL66 足通谷](/point/BL66.md)（《千金方》）。
+* 呕吐：[SP5 商丘](/point/SP5.md)，[KD21 幽门](/point/KD21.md) 和[BL66 足通谷](/point/BL66.md)（《千金方》）。
 * 脾虚便秘：[SP5 商丘](/point/SP5.md) 和[SP6 三阴交](/point/SP6.md)（《针灸大成》）。
 * 不孕症：[SP5 商丘](/point/SP5.md) 和[REN3 中极](/point/REN3.md)（《针灸大成》）。
-* 不孕症：[SP5 商丘](/point/SP5.md)，[BL32 次髎](/point/BL32.md) 和[KID1 涌泉](/point/KID1.md)（《资生经》）。
+* 不孕症：[SP5 商丘](/point/SP5.md)，[BL32 次髎](/point/BL32.md) 和[KD1 涌泉](/point/KD1.md)（《资生经》）。
 * 少腹痛放射至生殖器：[SP5 商丘](/point/SP5.md) 和[REN5 石门](/point/REN5.md)（《千金方》）。
 * 腿部挛缩：[SP5 商丘](/point/SP5.md)，[BL56 承筋](/point/BL56.md)，[BL57 承山](/point/BL57.md) 和[BL64 京骨](/point/BL64.md)（《千金方》）。
 * 多叹息伴易悲：[SP5 商丘](/point/SP5.md) 和[GB24 日月](/point/GB24.md)（《资生经》）。
-* 消渴病：[SP5 商丘](/point/SP5.md)，[REN24 承浆](/point/REN24.md)，金津（经外穴 M-HN-20），玉液（经外穴 M-HN-20），[DU26 人中](/point/DU26.md)，[REN23 廉泉](/point/REN23.md)，[LI11 曲池](/point/LI11.md)，[PC8 劳宫](/point/PC8.md)，[LIV3 太冲](/point/LIV3.md)，[LIV2 行间](/point/LIV2.md)，[KID2 然谷](/point/KID2.md) 和[SP1 隐白](/point/SP1.md)（《针灸大成》）。
+* 消渴病：[SP5 商丘](/point/SP5.md)，[REN24 承浆](/point/REN24.md)，金津（经外穴 M-HN-20），玉液（经外穴 M-HN-20），[DU26 人中](/point/DU26.md)，[REN23 廉泉](/point/REN23.md)，[LI11 曲池](/point/LI11.md)，[PC8 劳宫](/point/PC8.md)，[LR3 太冲](/point/LR3.md)，[LR2 行间](/point/LR2.md)，[KD2 然谷](/point/KD2.md) 和[SP1 隐白](/point/SP1.md)（《针灸大成》）。
 
 ---

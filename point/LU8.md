@@ -68,7 +68,7 @@ It should be emphasised, however, that in modern clinical practice Jīngqú LU-
 
 《难经》称经穴治“咳喘寒热”。[LU8 经渠](/point/LU8.md)为肺经经穴，主治实型咳嗽、呼吸困难、喘鸣、胸背胀痛及无汗热病。  
 
-《针灸补命经》指其治[KID1 涌泉](/point/KID1.md)区痛，足底痛通常由肾虚或痰湿下注引起。  
+《针灸补命经》指其治[KD1 涌泉](/point/KD1.md)区痛，足底痛通常由肾虚或痰湿下注引起。  
 
 现代临床中[LU8 经渠](/point/LU8.md)使用较少。  
 

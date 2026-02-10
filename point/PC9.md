@@ -143,11 +143,11 @@ The Pericardium primary and divergent channels traverse all three jiao and the P
 
 #### **穴位组合 (Combinations)**
 
-* 中风昏厥：**[PC9 中冲](/point/PC9.md)**，**[DU26 人中](/point/DU26.md)** 和 **[LI4 合谷](/point/LI4.md)**。若无效，针刺 **[DU15 哑门](/point/DU15.md)** 和 **[LIV1 大敦](/point/LIV1.md)**（《针灸大成》）。
+* 中风昏厥：**[PC9 中冲](/point/PC9.md)**，**[DU26 人中](/point/DU26.md)** 和 **[LI4 合谷](/point/LI4.md)**。若无效，针刺 **[DU15 哑门](/point/DU15.md)** 和 **[LR1 大敦](/point/LR1.md)**（《针灸大成》）。
 * 舌下肿痛：**[PC9 中冲](/point/PC9.md)** 和 **[REN23 廉泉](/point/REN23.md)**（《百症赋》）。
-* 舌强：**[PC9 中冲](/point/PC9.md)**，**[LU11 少商](/point/LU11.md)**，**[LU10 鱼际](/point/LU10.md)**，**[DU15 哑门](/point/DU15.md)**，**[LI2 二间](/point/LI2.md)**，**[KID10 阴谷](/point/KID10.md)** 和 **[KID2 然谷](/point/KID2.md)**（《针灸大成》）。
+* 舌强：**[PC9 中冲](/point/PC9.md)**，**[LU11 少商](/point/LU11.md)**，**[LU10 鱼际](/point/LU10.md)**，**[DU15 哑门](/point/DU15.md)**，**[LI2 二间](/point/LI2.md)**，**[KD10 阴谷](/point/KD10.md)** 和 **[KD2 然谷](/point/KD2.md)**（《针灸大成》）。
 * 心痛伴胀满烦躁和舌强：**[PC9 中冲](/point/PC9.md)** 和 **[HE6 阴郄](/point/HE6.md)**（《资生经》）。
-* 心痛伴气短：**[PC9 中冲](/point/PC9.md)**，**[LIV14 期门](/point/LIV14.md)**，**[DU1 长强](/point/DU1.md)**，**[REN22 天突](/point/REN22.md)** 和 **[LU4 侠白](/point/LU4.md)**（《千金方》）。
+* 心痛伴气短：**[PC9 中冲](/point/PC9.md)**，**[LR14 期门](/point/LR14.md)**，**[DU1 长强](/point/DU1.md)**，**[REN22 天突](/point/REN22.md)** 和 **[LU4 侠白](/point/LU4.md)**（《千金方》）。
 * 身热如火伴偏头痛：**[PC9 中冲](/point/PC9.md)** 和 **[DU4 命门](/point/DU4.md)**（《资生经》）。
 
 ---

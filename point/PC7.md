@@ -156,7 +156,7 @@ i. 垂直刺0.3至0.5寸； ii. 治疗腕管综合征时，沿腕管斜向远端
 * 心痛：**[PC7 大陵](/point/PC7.md)**，**[PC4 郄门](/point/PC4.md)** 和 **[PC3 曲泽](/point/PC3.md)**（《千金方》）。
 * 剧烈心痛：**[PC7 大陵](/point/PC7.md)** 和 **[REN13 上脘](/point/REN13.md)**（《千金方》）。
 * 心胸疼痛：**[PC7 大陵](/point/PC7.md)**，**[PC6 内关](/point/PC6.md)** 和 **[PC3 曲泽](/point/PC3.md)**（《针灸大成》）。
-* 胸痛：**[PC7 大陵](/point/PC7.md)**，**[LU2 云门](/point/LU2.md)**，**[LU1 中府](/point/LU1.md)**，**[SP1 隐白](/point/SP1.md)**，**[LIV14 期门](/point/LIV14.md)**，**[BL13 肺俞](/point/BL13.md)** 和 **[BL47 魂门](/point/BL47.md)**（《千金方》）。
+* 胸痛：**[PC7 大陵](/point/PC7.md)**，**[LU2 云门](/point/LU2.md)**，**[LU1 中府](/point/LU1.md)**，**[SP1 隐白](/point/SP1.md)**，**[LR14 期门](/point/LR14.md)**，**[BL13 肺俞](/point/BL13.md)** 和 **[BL47 魂门](/point/BL47.md)**（《千金方》）。
 * 气短：**[PC7 大陵](/point/PC7.md)** 和 **[LU5 尺泽](/point/LU5.md)**（《针灸大成》）。
 * 咳嗽呼吸困难：**[PC7 大陵](/point/PC7.md)** 和 **[LU11 少商](/point/LU11.md)**（《千金方》）。
 * 咳血：**[PC7 大陵](/point/PC7.md)** 和 **[PC4 郄门](/point/PC4.md)**（《针灸甲乙经》）。
@@ -166,6 +166,6 @@ i. 垂直刺0.3至0.5寸； ii. 治疗腕管综合征时，沿腕管斜向远端
 * 呕吐：**[PC7 大陵](/point/PC7.md)**，**[ST19 不容](/point/ST19.md)** 和 **[REN13 上脘](/point/REN13.md)**（《资生经》）。
 * 腹痛：**[PC7 大陵](/point/PC7.md)** 和 **[SJ5 外关](/point/SJ5.md)**（《玉龙歌》）。
 * 腹痛便秘：**[PC7 大陵](/point/PC7.md)**，**[SJ6 支沟](/point/SJ6.md)** 和 **[SJ5 外关](/point/SJ5.md)**（《玉龙歌》）。
-* 小便不利：**[SP6 三阴交](/point/SP6.md)**，**[SP9 阴陵泉](/point/SP9.md)** 和 **[REN6 气海](/point/REN6.md)**，继而针刺 **[KID10 阴谷](/point/KID10.md)** 和 **[PC7 大陵](/point/PC7.md)**（《针灸大成》）。
+* 小便不利：**[SP6 三阴交](/point/SP6.md)**，**[SP9 阴陵泉](/point/SP9.md)** 和 **[REN6 气海](/point/REN6.md)**，继而针刺 **[KD10 阴谷](/point/KD10.md)** 和 **[PC7 大陵](/point/PC7.md)**（《针灸大成》）。
 
 ---

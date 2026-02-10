@@ -82,6 +82,6 @@ Although not a commonly used point clinically, Lòugǔ SP-7 is indicated for "
 #### 穴位组合 (Combinations)
 
 * 腹部冷痛：[SP7 漏谷](/point/SP7.md) 和[BL35 会阳](/point/BL35.md)（《资生经》）。
-* 小便不利伴遗精：[SP7 漏谷](/point/SP7.md)，[REN3 中极](/point/REN3.md)，[LIV5 蠡沟](/point/LIV5.md)，[BL36 承扶](/point/BL36.md) 和[BL67 至阴](/point/BL67.md)（《资生经》）。
+* 小便不利伴遗精：[SP7 漏谷](/point/SP7.md)，[REN3 中极](/point/REN3.md)，[LR5 蠡沟](/point/LR5.md)，[BL36 承扶](/point/BL36.md) 和[BL67 至阴](/point/BL67.md)（《资生经》）。
 
 ---
