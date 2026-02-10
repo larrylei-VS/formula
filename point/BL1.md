@@ -76,7 +76,7 @@ i. 垂直刺0.2至0.3寸； ii. 注意：以下针刺方法不应由未受适当
 
 #### **穴位组合 (Combinations)**
 
-* 肝气夜盲：**[BL1 睛明](point/BL1.md)** 和 **[LIV2 行间](point/LIV2.md)**（《百症赋》）。
+* 肝气夜盲：**[BL1 睛明](/point/BL1.md)** 和 **[LIV2 行间](/point/LIV2.md)**（《百症赋》）。
 * 双眼红肿疼痛难以忍受伴畏光：针刺 **[BL1 睛明](point/BL1.md)** 和鱼腰（经外穴 **[MHN7 鱼腰](point/MHN7.md)**），点刺太阳（经外穴 **[MHN9 太阳](point/MHN9.md)**）出血（《玉龙歌》）。
 * **[BL1 睛明](point/BL1.md)** 治疗眼疾无效时，可合用 **[LI4 合谷](point/LI4.md)** 和 **[GB37 光明](point/GB37.md)**（《席弘赋》）。
 * 迎风流泪：**[BL1 睛明](point/BL1.md)**，**[ST8 头维](point/ST8.md)**，**[GB20 风池](point/GB20.md)** 和 **[GB15 头临泣](point/GB15.md)**（《针灸大成》）。
